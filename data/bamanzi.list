@@ -1,6 +1,7 @@
 --- Favourites ---
 7-Zip||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|<B>Download|7-Zip | (|9.20
 Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.com/download.php?dd=963|http://www.portablefreeware.com/index.php?id=963|class="appName">|class="version">|</span>|v2.00 b148
+Firemin|http://datumza.com/downloads/||>Datum Firemin|</|0.3.6.365
 Dependency Walker|http://www.dependencywalker.com/|<strong>|Dependency Walker |<|2.2
 Imagine|http://www.nyam.pe.kr/phpBB3/viewtopic.php?f=2&t=14|>Windows|Version|<|1.0.9 (Nov 20 2012) (Stable version)
 innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=files|http://innounp.sourceforge.net/|Version ||<br>|0.37
@@ -36,6 +37,7 @@ AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/download/AutoHot
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|2.4.7-0
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.9.7
 CnWizards (stable)|http://code.google.com/p/cnpack/||http://code.google.com/p/cnpack/downloads/list?q=label:Featured|_src|files/cnwizards_|_src.7z|1.0.0.638
+DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
 DiffUse|http://diffuse.sourceforge.net/||http://diffuse.sourceforge.net/download.html|download Diffuse|/projects/diffuse/files/diffuse/|/diffuse_|0.4.6
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
@@ -50,6 +52,7 @@ LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.4 build 456
 Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.0
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.5.9
 ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.angusj.com/resourcehacker/|Last Updated:|Version: |</TD>|3.6.0
+SciTE4AutoHotkey|http://www.autohotkey.net/~fincs/SciTE4AutoHotkey_3/web/|<h1>SciTE4AutoHotkey v||</h1>|3.0.01
 SQLite Database Browser|http://sourceforge.net/projects/sqlitebrowser/||http://sourceforge.net/projects/sqlitebrowser/files/sqlitebrowser/|Parent folder|class="name">|</a>|2.0 beta1
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.1, 28 Jul 2011
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.6
@@ -61,7 +64,7 @@ AnVir Task Manager|http://www.anvir.com/|http://www.anvir.com/downloads/taskfree
 ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v4.1
 CCleaner|http://www.ccleaner.com/|http://www.piriform.com/ccleaner/download/portable/downloadfile|http://www.piriform.com/ccleaner/download|Latest version:|>|<|3.25.1872
 CDBurnerXP|http://www.cdburnerxp.se/||http://www.cdburnerxp.se/en/download|Download latest version |>|<|(4.5.0.3661)
-DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
+CubicExplorer beta||http://cubicreality.pp.fi/files/ce/CubicExplorer_SVN.zip|http://www.cubicreality.com/|<strong>CubicExplorer ||(SVN|0.96.0.1582
 Dexpot||http://www.dexpot.de/index.php?id=thankyou|http://www.dexpot.de/index.php?id=download|Current version|<li>|</li>|1.6.4 Build 2186
 DM2|http://dm2.sf.net/|<td class="top"><b>DM2</b>|Version: <b class="red">|</b>|1.23.1
 Don't Sleep|http://www.softwareok.com/?seite=Microsoft/DontSleep|http://www.portablefreeware.com/download.php?dd=1738|http://www.portablefreeware.com/index.php?id=1738|class="appName">|class="version">v|</span>|2.17
@@ -90,7 +93,6 @@ QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|v1.44.778
 Revo Uninstaller |http://www.revouninstaller.com/|http://www.revouninstaller.com/revouninstaller.zip|http://www.portablefreeware.com/index.php?id=1398|class="appName">|class="version">|</span>|v1.94
 SciTE-Ru|http://code.google.com/p/scite-ru/||http://code.google.com/p/scite-ru/downloads/list|href="//scite-ru.googlecode.com/files/SciTE_||.zip|302_95Ru_100412
-SciTE4AutoHotkey|http://www.autohotkey.net/~fincs/SciTE4AutoHotkey_3/web/|<h1>SciTE4AutoHotkey v||</h1>|3.0.01
 Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v7.1b
 TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
 VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
@@ -116,6 +118,7 @@ WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.ph
 
 
 --- addons ---
+Console2 (FF extension)|https://addons.mozilla.org/addon/1815|https://addons.mozilla.org/downloads/latest/1815|https://addons.mozilla.org/addons/versions/1815|version item|id="version-|"|0.9
 DejaVu Fonts||http://downloads.sourceforge.net/project/dejavu/dejavu/[%0A]/dejavu-fonts-ttf-[%0A].zip|http://dejavu-fonts.org/wiki/index.php?title=Main_Page||current version is|(|2.33
 Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5
 Pocket (Firefox extension)||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.1
