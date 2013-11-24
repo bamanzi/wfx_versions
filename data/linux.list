@@ -1,7 +1,7 @@
 emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
 geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.23
-midnight commander (deb)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.3-10
+midnight commander (deb)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.10-4
 
 
 --- upstream ---
@@ -9,7 +9,7 @@ BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.9.7
 CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.2
 DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
-Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.5.6.gtk2.i386
+Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.5.7.gtk2.i386
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|5.9
@@ -23,7 +23,7 @@ mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/f
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 RabbitVCS|http://rabbitvcs.org||http://code.google.com/p/rabbitvcs/downloads/list|rabbitvcs-0||.tar.bz2|.15.3
 tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.8
-TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
+TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10
 Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
 
 
@@ -37,29 +37,16 @@ Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3
 GIMP-win|http://gimp-win.sourceforge.net/|http://sourceforge.net/projects/gimp-win/files/latest/download?source=files|http://sourceforge.net/projects/gimp-win/files/GIMP%20%2B%20GTK%2B%20%28stable%20release%29/|<tbody>|title="GIMP |"|2.8.6
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|release.</p>|/a>|</h2>|0.7.0 (2012-09-30)
 Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v6.5
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v6.6
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|_nd2.4
+putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd2.6
 Puttymanager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|alt="Download Now"|<p>Version |<p>|1.8
 TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
 TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc.berlios/files/|class="opt">Downloads|title="uwfx_sftp_|_base_bin.zip|1_3_60_12
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|4.5.1
+Hunspell (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|hunspell-||-w32|1.3.2-2
 
 --- misc ---
-Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|2.4.12-2
-DejaVu Fonts||http://downloads.sourceforge.net/project/dejavu/dejavu/[%0A]/dejavu-fonts-ttf-[%0A].zip|http://dejavu-fonts.org/wiki/index.php?title=Main_Page||current version is|(|2.34
-Emacs CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/|.tar.|cedet-1.1
-Emacs ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|/span>Commits|commit-group-heading">|</h3>|Jun 14, 2012
-Emacs auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/commits/master|/span>Commits|commit-group-heading">|</h3>|Oct 22, 2012
-Emacs js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits|<h3 class="commit-group-heading">|</h3>|Feb 16, 2013
-Emacs python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits|commit-group-heading">|</h3>|Oct 14, 2012
-Emacs python.el (loveshack)||http://www.loveshack.ukfsn.org/emacs/python.el|http://www.loveshack.ukfsn.org/emacs/python.el|$Revision: || $|1.40
-Emacs python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|/span>Commits|commit-group-heading">|</h3>|Apr 30, 2012
-Firefox extension: Scrapbook Plus||https://addons.mozilla.org/firefox/downloads/latest/8186/addon-8186-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-plus/?src=search|<span itemprop="name">ScrapBook Plus</span>|<span class="version-number" itemprop="version">|</span>|1.9.23.40
-Fireftp (firefox extension)|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.13
-Pocket (Firefox extension)||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.1
-Pocket /Read It Later (Android)|https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro|itemprop="softwareVersion">||</dd>|4.5.2
-Source Code Pro (font)|http://sourceforge.net/projects/sourcecodepro.adobe/|"/projects/sourcecodepro.adobe/files/latest/download"|Download /SourceCodePro_FontsOnly-|.zip|1.017
-Zite (Android)|https://play.google.com/store/apps/details?id=com.zite|itemprop="softwareVersion">||</dd>|1.2
+Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-0
