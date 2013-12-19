@@ -1,14 +1,12 @@
-7-zip alpha|http://sparanoid.com/lab/7z/|class=NewsHeader|NewsTitle>7-Zip|<|9.30 alpha
 AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.3.0
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 Code Compare|http://www.devart.com/codecompare/||http://www.devart.com/codecompare/download.html|Available Downloads|>Code Compare |<|3.0
-ConsoleZ beta|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|last beta version ||<|1.08.0.13231
-ConsoleZ|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|last x86 release version||<|1.07.1
+ConsoleZ|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|release version||<|1.09.0.13335
 DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.1.0
-JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.6.1
+JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
 PNotes|http://pnotes.sourceforge.net|http://sourceforge.net/projects/pnotes/files/latest/download?source=files|http://www.portablefreeware.com/index.php?id=1320|class="appName">|class="version">|</span>|v9.3.0
 WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|2.1.3.1
-busybox-w32|https://github.com/rmyorston/busybox-w32||http://intgat.tigress.co.uk/rmy/busybox/index.html|foobar||<|03/May/2013
+busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|03/May/2013
 clink|https://code.google.com/p/clink||https://code.google.com/p/clink/downloads/list|<td class="vt"|files/clink_|_setup.exe|0.3.1
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.97
 mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version ||:<|1.70 (2013-03-07)
@@ -26,7 +24,7 @@ Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.mic
 locate32|http://sourceforge.net/projects/locate32/||http://sourceforge.net/projects/locate32/|locate32/files/latest/download|Download /locate32-|.zip|3.1.11.7100
 musetip text filter|http://www.musetips.com/text-filter.html||http://www.musetips.com/downloads.html|Download Text Filter|Version: |<br>|1.5
 PrcView|http://www.teamcti.com/pview/prcview.htm|package contains|GUI version | and|5.2.11
-Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v2.3.2
+Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v2.4
 SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v2.2 Beta
 TC util BarEditor|http://www.totalcmd.net/plugring/BarEditor.html|http://www.totalcmd.net/download.php?id=BarEditor|http://www.totalcmd.net/directory/util.html|/BarEditor|&nbsp;|<|1.5
 TC util Plugins Manager|http://www.totalcmd.net/plugring/tc_plugman.html|http://www.totalcmd.net/download.php?id=tc_plugman|http://www.totalcmd.net/plugring/tc_plugman.html|<title>|TC Plugins Manager | -|2.2.8
@@ -39,7 +37,7 @@ TC wfx Virtual Disk|http://www.totalcmd.net/plugring/virtdisk.html|http://www.to
 TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
 TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc.berlios/files/|class="opt">Downloads|title="uwfx_sftp_|_base_bin.zip|1_3_60_12
 TC wlx File Info|http://www.totalcmd.net/plugring/fileinfo.html|http://www.totalcmd.net/download.php?id=fileinfo|http://www.totalcmd.net/directory/lister.html|/fileinfo|&nbsp;|<|2.21
-TC wlx TotalHLT (highlight)||http://www.totalcmd.net/download.php?id=hlight|http://www.totalcmd.net/plugring/hlight.html|<h2>TotalHLT ||</h2>|1.6.0.140
+TC wlx TotalHLT (highlight)||http://www.totalcmd.net/download.php?id=hlight|http://www.totalcmd.net/plugring/hlight.html|<h2>TotalHLT ||</h2>|1.7.0.160
 TC wlx+wcx Imagine||http://nyam.pe.kr/dev/imagine/download/unicode/Imagine_[%0a1-5]_Unicode.zip|http://www.nyam.pe.kr/phpBB3/viewtopic.php?f=2&t=14|>Windows|Version|<|1.0.9 (Nov 20 2012) (Stable version)
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.27
 Total Commander (win32)|http://www.ghisler.com/|Total Commander</font>|Version |,|8.01
@@ -49,9 +47,7 @@ Unlocker|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/downl
 
 --- DevTools ---
 AutoHotkey_L (UTF-8)|http://l.autohotkey.net/|http://l.autohotkey.net/AutoHotkey_Lw.zip|http://l.autohotkey.net/docs/AHKL_ChangeLog.htm|new revisions go here|<h2>|<|1.1.13.00 - August 27, 2013
-AutoHotKey_L|http://l.autohotkey.net/|Last update:|- v|<|1.1.13.00
-AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/download/AutoHotkey.zip|http://www.autohotkey.com/download/| |Version | |
-Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|2.4.12-2
+Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-2
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.9.7
 CnWizards (stable)|http://code.google.com/p/cnpack/||http://code.google.com/p/cnpack/downloads/list?q=label:Featured|_src|files/cnwizards_|_src.7z|1.0.1.655
 DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
@@ -78,7 +74,7 @@ WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/a
  
 --- Others ---
 AnVir Task Manager|http://www.anvir.com/|http://www.anvir.com/downloads/taskfree.zip|http://www.anvir.com/task-manager-windows-startup-news.htm|"Subscribe"|<p><b>|</b>|<b>Jan 25, 2013 Version 7.5
-ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v4.11
+ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v4.14
 CCleaner|http://www.ccleaner.com/|http://www.piriform.com/ccleaner/download/portable/downloadfile|http://www.piriform.com/ccleaner/download|Latest version:|>|<|3.25.1872
 CDBurnerXP|http://www.cdburnerxp.se/||http://www.cdburnerxp.se/en/download|Download latest version |>|<|(4.5.2.4214)
 CubicExplorer beta||http://cubicreality.pp.fi/files/ce/CubicExplorer_SVN.zip|http://www.cubicreality.com/|<strong>CubicExplorer ||(SVN|0.96.0.1582
@@ -98,7 +94,6 @@ JkDefrag64|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag64-|.zi
 JkDefrag|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag-|.zip|3.36
 KeePass Password Safe 2.x|http://sourceforge.net/projects/keepass/|http://sourceforge.net/projects/keepass/files/KeePass%202.x/KeePass-[%0A].zip/download|http://sourceforge.net/projects/keepass/files/KeePass%202.x/|Parent folder|tr title="|"|2.23
 Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
-Listary beta||http://www.listary.com/download/beta/Listary4Beta[%a6-].zip|http://discussions.listary.com/|new beta|(|)|4.00.1119
 Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.01.1191
 Microsoft Excel Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=1cd6acf9-ce06-4e1c-8dcf-f33f669dbc3a&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
 Microsoft Word Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
@@ -134,4 +129,10 @@ Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.1.7
 
 
---- addons ---
+--- temp ---
+7-zip alpha|http://sparanoid.com/lab/7z/|class=NewsHeader|NewsTitle>7-Zip|<|9.30 alpha
+ConsoleZ beta|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|last beta version ||<|1.08.0.13231
+AutoHotKey_L|http://l.autohotkey.net/|Last update:|- v|<|1.1.13.00
+AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/download/AutoHotkey.zip|http://www.autohotkey.com/download/| |Version | |
+Listary beta||http://www.listary.com/download/beta/Listary4Beta[%a6-].zip|http://discussions.listary.com/|new beta|(|)|4.00.1119
+ 

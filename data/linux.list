@@ -62,7 +62,7 @@ wget (ezwinports)  |http://sourceforge.net/projects/ezwinports/files/|wget-||-w3
 which (ezwinports) |http://sourceforge.net/projects/ezwinports/files/|which-||-w32|2.20-2
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|release.</p>|/a>|</h2>|0.7.0 (2012-09-30)
 Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3-]/gs[%0a1][%0a3-]w32.exe|http://pages.cs.wisc.edu/~ghost/|>GPL Ghostscript<|>GPL Ghostscript|<|9.02
-
+busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|28/Aug/2013 13:55
 
 ## emacs 24.3
 libpng14 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|libpng_||_win32|1.4.12
