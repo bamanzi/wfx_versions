@@ -6,13 +6,13 @@ Emacs CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/proje
 Emacs ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|/span>Commits|commit-group-heading">|</h3>|Jun 14, 2012
 Emacs auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/commits/master|/span>Commits|commit-group-heading">|</h3>|Oct 22, 2012
 Emacs js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits|<h3 class="commit-group-heading">|</h3>|Feb 16, 2013
-Emacs python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits|commit-group-heading">|</h3>|Oct 14, 2012
 Emacs python.el (loveshack)||http://www.loveshack.ukfsn.org/emacs/python.el|http://www.loveshack.ukfsn.org/emacs/python.el|$Revision: || $|1.40
+Emacs python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits|commit-group-heading">|</h3>|Oct 14, 2012
 Emacs python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|/span>Commits|commit-group-heading">|</h3>|Apr 30, 2012
 
 == Firefox addons ==
 Scrapbook Plus||https://addons.mozilla.org/firefox/downloads/latest/8186/addon-8186-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-plus/?src=search|<span itemprop="name">ScrapBook Plus</span>|<span class="version-number" itemprop="version">|</span>|1.9.23.40
-Scrapbook Plus 2||https://addons.mozilla.org/firefox/downloads/file/225889/scrapbook_plus_2-2.0.0.0a1-fx.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-plus-2/?src=search|<span itemprop="name">ScrapBook Plus 2</span>|<span class="version-number" itemprop="version">|</span>|内容错误 (@开始) 
+Scrapbook Plus 2||https://addons.mozilla.org/firefox/downloads/file/225889/scrapbook_plus_2-2.0.0.0a1-fx.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-plus-2/?src=search|<span itemprop="name">ScrapBook Plus 2</span>|<span class="version-number" itemprop="version">|</span>|2.0.0.0a2
 Fireftp (firefox extension)|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.13
 Pocket (Firefox extension)||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
 Console2 (Firefox extension)|https://addons.mozilla.org/addon/1815|https://addons.mozilla.org/downloads/latest/1815|https://addons.mozilla.org/addons/versions/1815|version item|id="version-|"|0.9
@@ -20,7 +20,7 @@ Console2 (Firefox extension)|https://addons.mozilla.org/addon/1815|https://addon
 == Android ==
 Dropbox (android)|http://davide77.store.aptoide.com/app/market/com.dropbox.android/231010/3932981/Dropbox|itemprop="softwareversion">||</|2.3.10.10
 Instapaper (Android)|http://nadmom.store.aptoide.com/app/market/com.instapaper.android/21/4344615/Instapaper|itemprop="softwareversion">||<|2.1.1
-Pocket /Read It Later (Android)|http://mugendvd.store.aptoide.com/app/market/com.ideashower.readitlater.pro/501/4325028/Pocket|itemprop="softwareversion">||<|4.3.4
+Pocket /Read It Later (Android)|http://mugendvd.store.aptoide.com/app/market/com.ideashower.readitlater.pro/501/4325028/Pocket|itemprop="softwareversion">||<|5.0.1
 Readability (Android)|https://play.google.com/store/apps/details?id=com.readability|itemprop="softwareVersion">||<|1.0.3
 SugarSync (android)|http://tfz.store.aptoide.com/app/market/com.sharpcast.sugarsync/35/2679326/SugarSync|itemprop="softwareversion">||</|4.0.1
 Total Commander (android)||http://ghisler.com/tcandroid2.apk|http://ghisler.com/android.htm|strong>What's new in ||(|2.03 public beta 3
