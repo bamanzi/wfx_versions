@@ -1,5 +1,6 @@
 DejaVu Fonts||http://downloads.sourceforge.net/project/dejavu/dejavu/[%0A]/dejavu-fonts-ttf-[%0A].zip|http://dejavu-fonts.org/wiki/index.php?title=Main_Page||current version is|(|2.34
 Source Code Pro (font)|http://sourceforge.net/projects/sourcecodepro.adobe/|"/projects/sourcecodepro.adobe/files/latest/download"|Download /SourceCodePro_FontsOnly-|.zip|1.017
+geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
 
 == Emacs ==
 Emacs CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/|.tar.|cedet-1.1
