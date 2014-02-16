@@ -7,11 +7,11 @@ JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portab
 PNotes|http://pnotes.sourceforge.net|http://sourceforge.net/projects/pnotes/files/latest/download?source=files|http://www.portablefreeware.com/index.php?id=1320|class="appName">|class="version">|</span>|v9.3.0
 WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|2.1.3.1
 busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|03/May/2013
-clink|https://code.google.com/p/clink||https://code.google.com/p/clink/downloads/list|<td class="vt"|files/clink_|_setup.exe|0.3.1
+clink|https://code.google.com/p/clink||https://code.google.com/p/clink/downloads/list|<td class="vt"|files/clink_|_setup.exe|0.4
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.97
-mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version ||:<|1.70 (2013-03-07)
+mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version ||:<|1.72 (2013-11-13)
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|Looking for the latest version|>Download|.zip|putty_nd2.3
+putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.1
 
 --- Favourites ---
 7-Zip||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|<B>Download|7-Zip | (|9.20
@@ -44,9 +44,10 @@ Total Commander (win32)|http://www.ghisler.com/|Total Commander</font>|Version |
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
 Universal Viewer Free|http://www.uvviewsoft.com/|http://www.portablefreeware.com/download.php?dd=1079|http://www.portablefreeware.com/index.php?id=1079|class="appName">|class="version">|</span>|v5.7.2.0
 Unlocker|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.1
+XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v13.70
 
 --- DevTools ---
-AutoHotkey_L (UTF-8)|http://l.autohotkey.net/|http://l.autohotkey.net/AutoHotkey_Lw.zip|http://l.autohotkey.net/docs/AHKL_ChangeLog.htm|new revisions go here|<h2>|<|1.1.13.00 - August 27, 2013
+AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-2
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.9.7
 CnWizards (stable)|http://code.google.com/p/cnpack/||http://code.google.com/p/cnpack/downloads/list?q=label:Featured|_src|files/cnwizards_|_src.7z|1.0.1.655
@@ -65,7 +66,7 @@ LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.4 build 456
 Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.4.5
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.5.9
 ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.angusj.com/resourcehacker/|Last Updated:|Version: |</TD>|3.6.0
-SciTE4AutoHotkey|http://www.autohotkey.net/~fincs/SciTE4AutoHotkey_3/web/|<h1>SciTE4AutoHotkey v||</h1>|3.0.04
+SciTE4AutoHotkey|http://www.autohotkey.net/~fincs/SciTE4AutoHotkey_3/web/|Last update|- |<|3.0.04
 SQLite Database Browser|http://sourceforge.net/projects/sqlitebrowser/||http://sourceforge.net/projects/sqlitebrowser/files/sqlitebrowser/|Parent folder|class="name">|</a>|2.0 beta1
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.5, 30 Aug 2013
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
@@ -94,7 +95,7 @@ JkDefrag64|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag64-|.zi
 JkDefrag|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag-|.zip|3.36
 KeePass Password Safe 2.x|http://sourceforge.net/projects/keepass/|http://sourceforge.net/projects/keepass/files/KeePass%202.x/KeePass-[%0A].zip/download|http://sourceforge.net/projects/keepass/files/KeePass%202.x/|Parent folder|tr title="|"|2.23
 Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
-Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.01.1191
+Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.10.1446
 Microsoft Excel Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=1cd6acf9-ce06-4e1c-8dcf-f33f669dbc3a&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
 Microsoft Word Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
 MyUninstaller||http://www.nirsoft.net/utils/myuninst.zip|http://www.nirsoft.net/utils/myuninst.html|MyUninstaller |v| |1.74
@@ -102,19 +103,19 @@ NirCmd||http://www.nirsoft.net/utils/nircmd.zip|http://www.nirsoft.net/utils/ind
 PDF Creator||http://sourceforge.net/projects/pdfcreator/files/PDFCreator/PDFCreator-[%0A]_setup.exe/download|http://www.pdfforge.org/|download_note">Download PDFCreator ||</span>|1.6.1
 PDF-XChange Viewer||http://www.docu-track.com/download/PDFX_Vwr_Port.zip|http://www.docu-track.com/product/pdf-xchange-viewer|Current Version:|>|<|2.5.207
 QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.php?id=2237|class="appName">QTranslate|class="version">|</span>|v5.1.0
-Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|v1.44.778
+Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
 Revo Uninstaller |http://www.revouninstaller.com/|http://www.revouninstaller.com/revouninstaller.zip|http://www.portablefreeware.com/index.php?id=1398|class="appName">|class="version">|</span>|v1.95
 SciTE-Ru|http://code.google.com/p/scite-ru/||http://code.google.com/p/scite-ru/downloads/list|href="//scite-ru.googlecode.com/files/SciTE_||.zip|325_99Ru_030313
 Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v7.1e
 TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
 VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
-ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx|<h1>ZoomIt v||</h1>|3.3.0
+ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx|<h1>ZoomIt v||</h1>|4.5
 
 
 --- cross-platform ---
 BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||</h3>|1.7.2 "Cla-de-Lue" 19-jun-2013
 CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.2
-Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.exe|0.5.4.i386-win32
+Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.5.8 beta
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.6.0
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
 Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3-]/gs[%0a1][%0a3-]w32.exe|http://pages.cs.wisc.edu/~ghost/|>GPL Ghostscript<|>GPL Ghostscript|<|9.02
@@ -122,17 +123,15 @@ GIMP-win|http://gimp-win.sourceforge.net/||http://gimp-win.sourceforge.net/stabl
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|release.</p>|a>|<|0.7.0 (2012-09-30)
 madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v6.5
-Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v6.6
+Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|0.8b3
 Puttymanager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.1.7
 
 
 --- temp ---
-7-zip alpha|http://sparanoid.com/lab/7z/|class=NewsHeader|NewsTitle>7-Zip|<|9.30 alpha
-ConsoleZ beta|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|last beta version ||<|1.08.0.13231
-AutoHotKey_L|http://l.autohotkey.net/|Last update:|- v|<|1.1.13.00
-AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/download/AutoHotkey.zip|http://www.autohotkey.com/download/| |Version | |
+7-zip alpha|http://sparanoid.com/lab/7z/|class=NewsHeader|NewsTitle>7-Zip|<|9.32 alpha
+ConsoleZ beta|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|beta version ||<|1.08.0.13231
 Listary beta||http://www.listary.com/download/beta/Listary4Beta[%a6-].zip|http://discussions.listary.com/|new beta|(|)|4.00.1119
  
