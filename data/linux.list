@@ -7,6 +7,9 @@ geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+p
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.23.1
 grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
 meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|1.8.3 - 15 Dec 2013
+midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.12
+midnight commander (debian)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.10-4
+tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.8
 
 
 # useful 
@@ -22,11 +25,9 @@ Guake|http://guake.org/files/?C=M;O=D|href="guake-||.tar.gz|0.4.4
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
-midnight commander (deb)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.10-4
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 RabbitVCS|http://rabbitvcs.org||http://code.google.com/p/rabbitvcs/downloads/list|rabbitvcs-0||.tar.bz2|.15.3
-tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.8
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
 Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
@@ -40,18 +41,18 @@ Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.co
 ConsoleZ|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|release version||<|1.07.1
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
 Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v6.6
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v7.1
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|alt="Download Now"|<p>Version |<p>|1.8
 TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
 TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc.berlios/files/|class="opt">Downloads|title="uwfx_sftp_|_base_bin.zip|1_3_60_12
-WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|4.5.1
+WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.1
 
 ## putty
 Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd3.1
 kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-putty/|Latest version:|KiTTY |<|0.63.0.5
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.32.0.69 Beta
+PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.35.0.75 Beta
 PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 
 
@@ -62,7 +63,7 @@ grep (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|grep-||-w32|
 Hunspell (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|hunspell-||-w32|1.3.2-2
 wget (ezwinports)  |http://sourceforge.net/projects/ezwinports/files/|wget-||-w32|1.13.4
 which (ezwinports) |http://sourceforge.net/projects/ezwinports/files/|which-||-w32|2.20-2
-gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|release.</p>|/a>|</h2>|0.7.0 (2012-09-30)
+gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|<h2>|</a>|<|0.8.0 (2014-02-15)
 Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3-]/gs[%0a1][%0a3-]w32.exe|http://pages.cs.wisc.edu/~ghost/|>GPL Ghostscript<|>GPL Ghostscript|<|9.02
 busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|28/Aug/2013 13:55
 
@@ -92,5 +93,5 @@ giflib5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||
 
 
 # misc 
-Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-2
+Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.4.3-0
