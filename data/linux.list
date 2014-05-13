@@ -1,6 +1,5 @@
 # favrourites 
 emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
-emacs ppa (snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
 DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
 Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.5.7.gtk2.i386
 geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.23
@@ -95,3 +94,6 @@ giflib5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||
 # misc 
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.4.3-0
+emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|r115804-20131229-w32-bin
+emacs ppa (ubuntu snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
+Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-installer/files/dia-shapes/|ico-folder">|/files/dia-shapes/|/|0.6.0
