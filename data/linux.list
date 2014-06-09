@@ -1,14 +1,15 @@
 # favrourites 
 emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
 DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
-Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.5.7.gtk2.i386
-geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.23
-geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.23.1
+Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.5.10.gtk2.i386
+geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.24.1
+geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
 grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
 meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|1.8.3 - 15 Dec 2013
 midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.12
-midnight commander (debian)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.10-4
-tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.8
+midnight commander (debian)|http://packages.debian.org/source/testing/mc||http://packages.qa.debian.org/m/mc.html|title="testing">|3:|</span>|4.8.12-1
+tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.9
+tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.0.2
 
 
 # useful 
@@ -20,7 +21,7 @@ dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/download
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
-Guake|http://guake.org/files/?C=M;O=D|href="guake-||.tar.gz|0.4.4
+Guake|https://github.com/Guake/guake/releases|class="main">|"tag-name">|<|0.4.4
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
@@ -93,7 +94,7 @@ giflib5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||
 
 # misc 
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
-Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.4.3-0
-emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|r115804-20131229-w32-bin
+Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
+emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|24-20140526-154828-w32-bin
 emacs ppa (ubuntu snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
 Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-installer/files/dia-shapes/|ico-folder">|/files/dia-shapes/|/|0.6.0
