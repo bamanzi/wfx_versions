@@ -84,9 +84,11 @@ zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>
 giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
 libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
 
-## xxxxx
+## emacs 24.4
 libpng16 (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|libpng-||-w32|1.6.7
 jpeg9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-||-w32|v9
+
+## xxxxx
 jpeg8 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|jpeg_||_win32|8d-1
 tiff4 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|tiff-||-w32|4.0.3
 giflib5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||-w32|5.0.5
