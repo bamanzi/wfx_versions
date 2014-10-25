@@ -1,0 +1,63 @@
+# linux
+emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
+emacs ppa (snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
+
+
+# windows
+emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.4-bin(i686-pc-mingw32)
+emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|24-20140526-154828-w32-bin
+emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-bin-w64-|.7z|24.4
+
+
+## emacs 23.1
+libpng12 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libpng.htm|Version<|<p>|</p>|1.2.37
+jpeg62 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/jpeg.htm|Version<|<p>|</p>|6b
+tiff3 (gnuwin32) |http://gnuwin32.sourceforge.net/packages/tiff.htm|Version<|<p>|</p>|3.8.2
+zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>|</p>|1.2.3
+giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
+libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
+
+## emacs 24.3
+libpng14 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|libpng_||_win32|1.4.12-1
+jpeg62 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/jpeg.htm|Version<|<p>|</p>|6b
+tiff3 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|libtiff_||_win32|3.9.2-1
+tiff3 (gnuwin32) |http://gnuwin32.sourceforge.net/packages/tiff.htm|Version<|<p>|</p>|3.8.2
+zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>|</p>|1.2.3
+giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
+libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
+
+## emacs 24.4
+libpng16 (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|libpng-||-w32|1.6.7
+jpeg9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-||-w32|v9
+giflib5/libgif-7 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||-w32|5.1.0
+tiff-4 / libtiff-5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|tiff-||-w32-bin|4.0.3-
+jpeg-v9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-v||-w32-bin|9a
+
+## xxxxx
+jpeg8 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|jpeg_||_win32|8d-1
+
+
+## utils
+putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
+findutils (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|findutils-||-w|4.2.30-5
+file (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|file-||-w32|5.09
+grep (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|grep-||-w32|2.10
+hunspell (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|hunspell-||-w32|1.3.2-2
+wget (ezwinports)  |http://sourceforge.net/projects/ezwinports/files/|wget-||-w32|1.13.4
+which (ezwinports) |http://sourceforge.net/projects/ezwinports/files/|which-||-w32|2.20-2
+gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|<h2>|</a>|<|0.8.0 (2014-02-15)
+Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3-]/gs[%0a1][%0a3-]w32.exe|http://pages.cs.wisc.edu/~ghost/|>GPL Ghostscript<|>GPL Ghostscript|<|9.02
+busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|28/Aug/2013 13:55
+
+
+# packages
+org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.2.10</b> (Oct. 2014)
+w3m-el-snapshot||http://ftp.de.debian.org/debian/pool/main/w/w3m-el-snapshot/w3m-el-snapshot_1.4.537+0.20141001-1_all.deb|https://packages.debian.org/jessie/w3m-el-snapshot|<h1>Package: w3m-el-snapshot|(|)|1.4.537+0.20141001-1
+realgud (snapshot)|https://github.com/rocky/emacs-dbgr/|https://github.com/rocky/emacs-dbgr/archive/master.zip|https://github.com/rocky/emacs-dbgr/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 25, 2014
+eim (fork)|https://github.com/noinil/emacs-eim|https://github.com/noinil/emacs-eim/archive/master.zip|https://github.com/noinil/emacs-eim/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 01, 2014
+magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|class="tag-info commit|"tag-name">|<|1.2.2
+magit (snapshot)|https://github.com/magit/magit|https://github.com/magit/magit/releases/archive/master.zip|https://github.com/magit/magit/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 16, 2014
+projectile (release)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/latest|https://github.com/bbatsov/projectile/releases|class="tag-info commit|"tag-name">|<|v0.10.0
+projectile (snapshot)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/archive/master.zip|https://github.com/bbatsov/projectile/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 21, 2014
+web-mode (release)|https://github.com/fxbois/web-mode|https://github.com/fxbois/web-mode/releases/latest|https://github.com/fxbois/web-mode/releases|class="tag-references"|css-truncate-target">|<|v9
+markdown-mode|http://jblevins.org/projects/markdown-mode/||http://jblevins.org/git/markdown-mode.git/refs/|Tag</th>|/git/markdown-mode.git/tag/?id=v|'|1.9
