@@ -2,7 +2,8 @@ DejaVu Fonts||http://downloads.sourceforge.net/project/dejavu/dejavu/[%0A]/dejav
 Source Code Pro (font)|http://sourceforge.net/projects/sourcecodepro.adobe/|"/projects/sourcecodepro.adobe/files/latest/download"|Download /SourceCodePro_FontsOnly-|.zip|1.017
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
 
-
+bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.13.1
+ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|2.3.0
 
 == Android ==
 Dropbox (android)|http://davide77.store.aptoide.com/app/market/com.dropbox.android/231010/3932981/Dropbox|itemprop="softwareversion">||</|2.3.10.10
