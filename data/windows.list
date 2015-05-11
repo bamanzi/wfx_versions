@@ -104,7 +104,7 @@ PrcView|http://www.teamcti.com/pview/prcview.htm|package contains|GUI version | 
 QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.php?id=2237|class="appName">QTranslate|class="version">|</span>|v5.1.0
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
 Revo Uninstaller |http://www.revouninstaller.com/|http://www.revouninstaller.com/revouninstaller.zip|http://www.portablefreeware.com/index.php?id=1398|class="appName">|class="version">|</span>|v1.95
-SciTE-Ru|http://code.google.com/p/scite-ru/||http://code.google.com/p/scite-ru/downloads/list|href="//scite-ru.googlecode.com/files/SciTE_||.zip|325_99Ru_030313
+SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v2.5.2
 SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v2.2 Beta
 TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
@@ -126,8 +126,7 @@ Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3
 GIMP-win|http://gimp-win.sourceforge.net/||http://gimp-win.sourceforge.net/stable.html|(version ||)|2.8.2
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|Gow release.|a>|<|0.8.0 (2014-02-15)
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.97
-madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
-madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|0.8b3
 VcXsrv|http://sourceforge.net/projects/vcxsrv/files/vcxsrv|<tbody>|<tr title="|"|1.15.0.2
 
@@ -153,3 +152,5 @@ Listary beta||http://www.listary.com/download/beta/Listary4Beta[%a6-].zip|http:/
 Puttymanager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 TC wlx+wcx Imagine||http://nyam.pe.kr/dev/imagine/download/unicode/Imagine_[%0a1-5]_Unicode.zip|http://www.nyam.pe.kr/phpBB3/viewtopic.php?f=2&t=14|>Windows|Version|<|1.0.9 (Nov 20 2012) (Stable version)
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
+madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
+madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9

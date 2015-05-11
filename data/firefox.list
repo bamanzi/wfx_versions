@@ -1,30 +1,35 @@
 == Firefox addons: 5 stars ==
-AutoProxy|https://addons.mozilla.org/firefox/addon/autoproxy|https://addons.mozilla.org/downloads/latest/autoproxy|https://addons.mozilla.org/firefox/addon/autoproxy/versions|version item|id="version-|"|0.4b2.2013051811
+!bang selection|https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3
 Clearly|https://addons.mozilla.org/en-US/firefox/addon/clearly|https://addons.mozilla.org/downloads/latest/clearly|https://addons.mozilla.org/en-US/firefox/addon/clearly|version item|id="version-|"|7.33
 Color Toggle|https://addons.mozilla.org/en-US/firefox/addon/color-toggle|https://addons.mozilla.org/downloads/latest/color-toggle|https://addons.mozilla.org/en-US/firefox/addon/color-toggle|version item|id="version-|"|0.15
 ColorfulTabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|https://addons.mozilla.org/downloads/latest/colorfultabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|version item|id="version-|"|22.0
 CoLT|https://addons.mozilla.org/en-US/firefox/addon/colt|https://addons.mozilla.org/downloads/latest/colt|https://addons.mozilla.org/en-US/firefox/addon/colt|version item|id="version-|"|2.6.0
-*Context Search X|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|https://addons.mozilla.org/downloads/latest/context-search-x|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|version item|id="version-|"|0.4.6.17
+Fast Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/10907/addon-10907-latest.xpi?src=ss|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|itemprop="name">Fast Translation|itemprop="version">|<|1.10.2
 gTranslate|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|https://addons.mozilla.org/downloads/latest/gtranslate|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|version item|id="version-|"|0.9
 Keysnail|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|<h3|>Version |<|2.0.2
 LastPass|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|https://addons.mozilla.org/downloads/latest/lastpass-password-manager|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|version item|id="version-|"|3.1.1
 Lazarus Form Recovery|https://addons.mozilla.org/en-US/firefox/addon/lazarus-form-recovery|https://addons.mozilla.org/downloads/latest/lazarus-form-recovery|https://addons.mozilla.org/en-US/firefox/addon/lazarus-form-recovery|version item|id="version-|"|2.3
-*Multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|https://addons.mozilla.org/downloads/latest/multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|version item|id="version-|"|2.2.1
+Multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|https://addons.mozilla.org/downloads/latest/multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|version item|id="version-|"|2.2.1
+*OneTab|https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector/||https://addons.mozilla.org/zh-CN/firefox/addon/onetab|itemprop="version">||</span>|1.9
 Pocket ||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
+Proxy Selector|https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector||https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector|itemprop="version">||</span>|1.31
 Save Link to Folder|https://addons.mozilla.org/en-US/firefox/addon/save-link-in-folder|https://addons.mozilla.org/downloads/latest/save-link-in-folder|https://addons.mozilla.org/en-US/firefox/addon/save-link-in-folder|version item|id="version-|"|1.5.14
 Scrapbook Plus||https://addons.mozilla.org/firefox/downloads/latest/8186/addon-8186-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-plus/?src=search|<span itemprop="name">ScrapBook Plus</span>|<span class="version-number" itemprop="version">|</span>|1.9.23.40
-Scrapbook X|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search|https://addons.mozilla.org/firefox/downloads/latest/scrapbook-x|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search|<span itemprop="name">ScrapBook X</span>|<span class="version-number" itemprop="version">|</span>|1.12.0a25
+*Scrapbook X|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search|https://addons.mozilla.org/firefox/downloads/latest/scrapbook-x|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search|<span itemprop="name">ScrapBook X</span>|<span class="version-number" itemprop="version">|</span>|1.12.0a25
 Skip Cert Error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|https://addons.mozilla.org/downloads/latest/skip-cert-error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|version item|id="version-|"|0.4.1
 Tab Utilities|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|https://addons.mozilla.org/downloads/latest/tab-utilities|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|version item|id="version-|"|1.5.28
+*Tab Utilities Fixed|https://github.com/yfdyh000/tabutils/releases|Latest release|truncate-target">|<|2015.03.09-fix
 
 
 === Firefox addons: 4 stars ===
+AutoProxy|https://addons.mozilla.org/firefox/addon/autoproxy|https://addons.mozilla.org/downloads/latest/autoproxy|https://addons.mozilla.org/firefox/addon/autoproxy/versions|version item|id="version-|"|0.4b2.2013051811
 Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|https://addons.mozilla.org/downloads/latest/blank-your-monitor-easy-readin|https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|version item|id="version-|"|1.9.8
+Context Search X|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|https://addons.mozilla.org/downloads/latest/context-search-x|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|version item|id="version-|"|0.4.6.17
 Dict|https://addons.mozilla.org/en-US/firefox/addon/dict|https://addons.mozilla.org/downloads/latest/dict|https://addons.mozilla.org/en-US/firefox/addon/dict|version item|id="version-|"|0.8.0.8
 DownThemAll|https://addons.mozilla.org/en-US/firefox/addon/downthemall|https://addons.mozilla.org/downloads/latest/downthemall|https://addons.mozilla.org/en-US/firefox/addon/downthemall|version item|id="version-|"|2.0.5
-Edit Bookmark Plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|https://addons.mozilla.org/downloads/latest/edit-bookmark-plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|version item|id="version-|"|2.3.0
 Flashblock|https://addons.mozilla.org/en-US/firefox/addon/flashblock|https://addons.mozilla.org/downloads/latest/flashblock|https://addons.mozilla.org/en-US/firefox/addon/flashblock|version item|id="version-|"|1.5.15
 Float Notes|https://addons.mozilla.org/en-US/firefox/addon/floatnotes|https://addons.mozilla.org/downloads/latest/floatnotes|https://addons.mozilla.org/en-US/firefox/addon/floatnotes|version item|id="version-|"|0.8.2
+gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|version item|id="version-|"|0.8
 Google/Yandex search link fix||https://addons.mozilla.org/firefox/downloads/latest/351740/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|itemprop="version">||</span>|1.4.1
 *OneTab (fx>29)||https://addons.mozilla.org/firefox/downloads/latest/onetab|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/|itemprop="version">||</span>|1.9
 QuickFox Notes|https://addons.mozilla.org/en-US/firefox/addon/quickfox-notes|https://addons.mozilla.org/downloads/latest/quickfox-notes|https://addons.mozilla.org/en-US/firefox/addon/quickfox-notes|version item|id="version-|"|2.8.1
@@ -49,6 +54,9 @@ HeadingMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|https://ad
 HttpFox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|https://addons.mozilla.org/downloads/latest/httpfox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|version item|id="version-|"|0.8.12
 JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|https://addons.mozilla.org/downloads/latest/javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|version item|id="version-|"|0.9.89
 JSONView|https://addons.mozilla.org/en-US/firefox/addon/jsonview|https://addons.mozilla.org/downloads/latest/jsonview|https://addons.mozilla.org/en-US/firefox/addon/jsonview|version item|id="version-|"|0.8
+JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search|version item|id="version-|"|1.9.6.1
+Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.11
+RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|version item|id="version-|"|2.0.3
 SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|https://addons.mozilla.org/firefox/downloads/latest/5817/addon-5817-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|itemprop="version">||</span>|0.8.1
 The easiest Xdebug|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|https://addons.mozilla.org/downloads/latest/the-easiest-xdebug|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|version item|id="version-|"|1.2
 Tiny JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|https://addons.mozilla.org/downloads/latest/tiny-javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|version item|id="version-|"|0.9.5
@@ -57,13 +65,15 @@ XPCOMViewer|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|https://
 
 
 === Firefox addons misc ===
+Edit Bookmark Plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|https://addons.mozilla.org/downloads/latest/edit-bookmark-plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|version item|id="version-|"|2.3.0
+Fox Splitter|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerly-split-br|https://addons.mozilla.org/downloads/latest/fox-splitter-formerly-split-br|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerly-split-br|version item|id="version-|"|0.6.2009110501
+Page Hacker Revived|https://addons.mozilla.org/zh-CN/firefox/addon/page-hacker-revived/|version item|id="version-|"|3.0.7
 PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||http://www.palemoon.org/tabgroups.shtml|<center>|palemoon-tabgroups-|.xpi|0.2
 Scrapbook Plus 2||https://addons.mozilla.org/firefox/downloads/file/225889/scrapbook_plus_2-2.0.0.0a1-fx.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-plus-2/?src=search|<span itemprop="name">ScrapBook Plus 2</span>|<span class="version-number" itemprop="version">|</span>|2.0.0.0a2
+Scrapbook for SeaMonkey|https://xsidebar.mozdev.org/|Uploaded Scrapbook||<li|1.3.7.
+Split Panel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|https://addons.mozilla.org/downloads/latest/split-pannel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|version item|id="version-|"|1.00
 Tabbundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|https://addons.mozilla.org/downloads/latest/tabundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|version item|id="version-|"|0.1.2
 wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|version item|id="version-|"|1.0
-Split Panel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|https://addons.mozilla.org/downloads/latest/split-pannel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|version item|id="version-|"|1.00
-Fox Splitter|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerly-split-br|https://addons.mozilla.org/downloads/latest/fox-splitter-formerly-split-br|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerly-split-br|version item|id="version-|"|0.6.2009110501
-Scrapbook for SeaMonkey|https://xsidebar.mozdev.org/|Uploaded Scrapbook||<li|1.3.7.
 ?SeaTabX|https://addons.mozilla.org/en-US/firefox/addon/1815|https://addons.mozilla.org/downloads/latest/1815|https://addons.mozilla.org/en-US/firefox/addon/1815|version item|id="version-|"|1.1.3
 
 === Thunderbird addons ===
