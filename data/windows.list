@@ -5,12 +5,14 @@ ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/inde
 Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.04
 clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.4
 ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|140505
+ConsoleZ|https://github.com/cbucher/console/releases||https://github.com/cbucher/console/wiki/Downloads|Latest release|css-truncate-target">|<|1.09.0.13335
 FileMenu Tools|http://www.lopesoft.com/en/filemenutools/changelog|>Changelog<|<h2>|</h2>|v6.6
 Hddb|http://hddb.xp-zed.com/release_notes.html||http://hddb.xp-zed.com/|<p id="version">|Currently|<|0.0.0
 locate32|http://sourceforge.net/projects/locate32/||http://sourceforge.net/projects/locate32/|locate32/files/latest/download|Download /locate32-|.zip|3.1.11.7100
 Process Hacker|http://processhacker.sourceforge.net/|http://www.portablefreeware.com/download.php?dd=1934|http://www.portablefreeware.com/index.php?id=1934|"appName"|"version">|<|v2.33
 PicPick||http://www.nteworks.com/latestdownload/picpick_portable.zip|http://www.portablefreeware.com/index.php?id=1496|class="appName">|class="version">|<|v4.0.4
 Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v8.0a
+SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html||http://totalcmd.net/download.php?id=SynWriteLite|h2>SynWrite Lite ||<|6.1.185
 System explorer|http://www.systemexplorer.net/|http://www.portablefreeware.com/download.php?dd=1491|http://www.portablefreeware.com/index.php?id=1491|class="appName"|class="version">|<|v5.8.0
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
@@ -62,9 +64,11 @@ ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.ang
 SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
 SQLite Database Browser|http://sourceforge.net/projects/sqlitebrowser/||http://sourceforge.net/projects/sqlitebrowser/files/sqlitebrowser/|Parent folder|class="name">|</a>|3.2
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.5, 30 Aug 2013
+SynWrite|http://totalcmd.net/plugring/syn2.html||http://totalcmd.net/download.php?id=syn2|h2>SynWrite Editor ||<|6.18.2105
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
 WinMerge|http://winmerge.org/downloads.php|Download Now!|Version|;|2.12.4
 WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
+winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
  
 
 --- Others ---
@@ -140,13 +144,13 @@ mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http
 Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.1
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.36.0.76 Beta
+SuperPuTTY (fork)|https://github.com/sepich/superputty/releases|release-title">|">|<|1.4.0.5 p2
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.4
+
 
 --- temp ---
 7-zip alpha|http://sparanoid.com/lab/7z/|class=NewsHeader|NewsTitle>7-Zip|<|9.32 alpha
 Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.com/download.php?dd=963|http://www.portablefreeware.com/index.php?id=963|class="appName">|class="version">|</span>|v2.00 b148
-ConsoleZ|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|release version||<|1.09.0.13335
-ConsoleZ beta|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|beta version ||<|1.08.0.13231
 DM2|http://dm2.sf.net/|<td class="top"><b>DM2</b>|Version: <b class="red">|</b>|1.23.1
 Listary beta||http://www.listary.com/download/beta/Listary4Beta[%a6-].zip|http://discussions.listary.com/|new beta|(|)|4.00.1119
 Puttymanager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
@@ -154,3 +158,6 @@ TC wlx+wcx Imagine||http://nyam.pe.kr/dev/imagine/download/unicode/Imagine_[%0a1
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
+PNotepad|https://github.com/simonsteele/pn/releases|http://www.pnotepad.org/||Latest release|css-truncate-target">|<|v2.4
+
+
