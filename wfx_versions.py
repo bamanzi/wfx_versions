@@ -2,6 +2,12 @@
 import os
 import urllib
 
+CL_BOLD  = "\033[1m"
+CL_RESET = "\033[0m"
+CL_RED   = "\033[31m"
+CL_BLUE  = "\033[34m"
+CL_GREEN = "\033[32m"
+
 # spec:
 #   name|url_check|url_home|url_download|anchor_str|before_str|after_str|version
 # or
@@ -21,13 +27,13 @@ def check_version(line):
     s_after   = parts[-2]
     s_version = parts[-1].strip()
 
-    print "%20s..." % s_name ,
+    print "%s %20s %s..." % (CL_BOLD, s_name, CL_RESET) ,
     if s_anchor=="" and s_before=="":
-        print "error: both @start and @before are empty."
+        print CL_RED + "error: both @start and @before are empty." + CL_RESET
         return
 
     if s_after=="":
-        print "error: empty @after."
+        print CL_RED + "error: empty @after." + CL_RESET
         return
 
     o = urllib.urlopen(s_url_check)
@@ -37,7 +43,7 @@ def check_version(line):
         if pos > 0:
             content = content[pos+len(s_anchor):]
         else:
-            print "error in @start: '%s' not found" % (s_anchor)
+            print CL_RED + "error in @start: '%s' not found" % (s_anchor) + CL_RESET
             return
 
     if s_before<>'':
@@ -45,15 +51,17 @@ def check_version(line):
         if pos > 0:
             content = content[pos+len(s_before):]
         else:
-            print "error in @before: '%s' not found" % (s_before)
+            print CL_RED + "error in @before: '%s' not found" % (s_before) + CL_RESET
             return
 
     pos = content.find(s_after)
     if pos > 0:
         content = content[:pos]
+        if content.strip() != s_version:
+            content = CL_GREEN + content + CL_RESET
         print "%20s => %s" % (s_version, content)
     else:
-        print "error in @after: '%s' not found" % (s_after)
+        print CL_RED + "error in @after: '%s' not found" % (s_after) + CL_RESET
         return
             
 
@@ -66,4 +74,4 @@ if __name__ == "__main__":
         try:
             check_version(line)
         except:
-            print "error: %s" % sys.exc_info()[0]
+            print CL_RED + "error: %s" % sys.exc_info()[0] + CL_RESET
