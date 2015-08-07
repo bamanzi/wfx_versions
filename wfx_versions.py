@@ -9,7 +9,7 @@ CL_BLUE  = "\033[34m"
 CL_GREEN = "\033[32m"
 
 # spec:
-#   name|url_check|url_home|url_download|anchor_str|before_str|after_str|version
+#   name|url_home|url_download|url_check|anchor_str|before_str|after_str|version
 # or
 #   name|url_check|anchor_str|before_str|after_str|version
 
@@ -19,9 +19,10 @@ def check_version(line):
     if len(parts)<=5: return
 
     s_name = parts[0]
-    s_url_check = parts[1]
-    s_url_home = parts[2] if len(parts)>7 else ""
-    s_url_download = parts[3] if len(parts)>7 else ""
+    s_url_home = parts[1] if len(parts)>7 else ""
+    s_url_download = parts[2] if len(parts)>7 else ""
+    
+    s_url_check = parts[-5]
     s_anchor  = parts[-4]
     s_before  = parts[-3]
     s_after   = parts[-2]
@@ -56,8 +57,8 @@ def check_version(line):
 
     pos = content.find(s_after)
     if pos > 0:
-        content = content[:pos]
-        if content.strip() != s_version:
+        content = content[:pos].strip()
+        if content != s_version:
             content = CL_GREEN + content + CL_RESET
         print "%20s => %s" % (s_version, content)
     else:
