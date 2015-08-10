@@ -1,9 +1,5 @@
 DejaVu Fonts||http://downloads.sourceforge.net/project/dejavu/dejavu/[%0A]/dejavu-fonts-ttf-[%0A].zip|http://dejavu-fonts.org/wiki/index.php?title=Main_Page||current version is|(|2.34
 Source Code Pro (font)|http://sourceforge.net/projects/sourcecodepro.adobe/|"/projects/sourcecodepro.adobe/files/latest/download"|Download /SourceCodePro_FontsOnly-|.zip|1.017
-geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
-
-bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.13.1
-ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|2.3.0
 
 == Android ==
 Dropbox (android)|http://davide77.store.aptoide.com/app/market/com.dropbox.android/231010/3932981/Dropbox|itemprop="softwareversion">||</|2.3.10.10
@@ -12,8 +8,5 @@ Pocket /Read It Later (Android)|http://mugendvd.store.aptoide.com/app/market/com
 Readability (Android)|https://play.google.com/store/apps/details?id=com.readability|itemprop="softwareVersion">||<|1.0.3
 SugarSync (android)|http://tfz.store.aptoide.com/app/market/com.sharpcast.sugarsync/35/2679326/SugarSync|itemprop="softwareversion">||</|4.0.1
 Total Commander (android)||http://ghisler.com/tcandroid2.apk|http://ghisler.com/android.htm|strong>What's new in ||(|2.03 public beta 3
-Ubuntu One Files(android)|http://advcfs.store.aptoide.com/app/market/com.ubuntuone.android.files/460/2488150/Ubuntu%20One%20Files|itemprop="softwareversion">||</|1.2.7
 Zite (Android)|http://haithammotawee.store.aptoide.com/app/market/com.zite/6/3961093/Zite|itemprop="softwareversion">||<|2.0.2
 
-== Eclipse ==
-Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5

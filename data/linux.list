@@ -4,7 +4,8 @@ Double Commander (linux)|http://doublecmd.sourceforge.net/|http://sourceforge.ne
 geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.24.1
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
 grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
-meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|1.8.3 - 15 Dec 2013
+meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.14.0 - 23 Jul 2015
+meld (1.8.x)|https://git.gnome.org/browse/meld/log/?h=meld-1-8|class='tag-deco'|>|<|1.8.2
 midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.12
 midnight commander (ubuntu-12.04)|http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
 tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|1.9
@@ -13,10 +14,7 @@ tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig
 
 # useful 
 BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.7.2 "Cla-de-Lue" 19-jun-2013
-bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.12
 CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.2
-DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.1.0
-dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
@@ -36,10 +34,7 @@ Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest releas
 coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
 colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
 colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
-Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.com/download.php?dd=963|http://www.portablefreeware.com/index.php?id=963|class="appName">|class="version">|</span>|v2.00 b148
-ConsoleZ|https://github.com/cbucher/console/||https://github.com/cbucher/console/wiki/Downloads|release version||<|1.07.1
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
-Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
 MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v7.1
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|alt="Download Now"|<p>Version |<p>|1.8
 TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
@@ -59,4 +54,3 @@ PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/project
 # misc 
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
-Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-installer/files/dia-shapes/|ico-folder">|/files/dia-shapes/|/|0.6.0
