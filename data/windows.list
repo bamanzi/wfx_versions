@@ -3,23 +3,21 @@
 AnVir Task Manager|http://www.anvir.com/|http://www.anvir.com/downloads/taskfree.zip|http://www.anvir.com/task-manager-windows-startup-news.htm|"Subscribe"|<p><b>|</b>|Jan 25, 2013 Version 7.5
 ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v4.18
 Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.04
-clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.4
 ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|140505
 ConsoleZ|https://github.com/cbucher/console/releases||https://github.com/cbucher/console/wiki/Downloads|Latest release|css-truncate-target">|<|1.14.0
 FileMenu Tools|http://www.lopesoft.com/en/filemenutools/changelog|>Changelog<|<h2>|</h2>|v6.6
 Hddb|http://hddb.xp-zed.com/release_notes.html||http://hddb.xp-zed.com/|<p id="version">|Currently|<|3.5.1
+Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.10.1446
 locate32|http://sourceforge.net/projects/locate32/||http://sourceforge.net/projects/locate32/|locate32/files/latest/download|Download /locate32-|.zip|3.1.11.7100
 PicPick||http://www.nteworks.com/latestdownload/picpick_portable.zip|http://www.portablefreeware.com/index.php?id=1496|class="appName">|class="version">|<|v4.0.4
-QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.php?id=2237|class="appName">QTranslate|class="version">|</span>|v5.1.0
+QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.php?id=2237|class="appName">QTranslate|class="version">|</span>|v5.5.1
 Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v8.0c
 SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html||http://totalcmd.net/download.php?id=SynWriteLite|h2>SynWrite Lite ||<|6.1.185
 System explorer|http://www.systemexplorer.net/|http://www.portablefreeware.com/download.php?dd=1491|http://www.portablefreeware.com/index.php?id=1491|class="appName"|class="version">|<|v6.4.3
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
 Universal Viewer Free|http://www.uvviewsoft.com/|http://www.portablefreeware.com/download.php?dd=1079|http://www.portablefreeware.com/index.php?id=1079|class="appName">|class="version">|</span>|v5.7.2.0
-Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.0
-WizTree|http://www.portablefreeware.com/index.php?id=2360|http://www.portablefreeware.com/index.php?id=2360||"appName"|"version">|<|v1.07
-XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v15.20.0300
+WizTree|http://www.portablefreeware.com/index.php?id=2360|http://www.portablefreeware.com/index.php?id=2360||"appName"|"version">|<|v1.0.7
 xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|Latest Release|>v|<|3.0.0.4 (1 June 2015)
 
 --- Total Commander ---
@@ -34,59 +32,72 @@ TC wfx Uninstaller64||http://www.totalcmd.net/download.php?id=uninstaller64|http
 TC wfx Uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|http://www.totalcmd.net/download.php?id=uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|<h2>Uninstaller ||</h2>|1.8.1
 TC wfx Virtual Disk|http://www.totalcmd.net/plugring/virtdisk.html|http://www.totalcmd.net/download.php?id=virtdisk|http://www.totalcmd.net/directory/fsplugin.html|/virtdisk|&nbsp;|<|1.3.3 Final
 TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.6.0
-TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
-TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_3_63_2
+TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_3_63_2
 TC wxl tLister||http://www.totalcmd.net/download.php?id=tlister|http://www.totalcmd.net/plugring/tlister.html|<b>tLister ||<|1.2.0
 TC wlx File Info|http://www.totalcmd.net/plugring/fileinfo.html|http://www.totalcmd.net/download.php?id=fileinfo|http://www.totalcmd.net/directory/lister.html|/fileinfo|&nbsp;|<|2.21
 TC wlx TotalHLT (highlight)||http://www.totalcmd.net/download.php?id=hlight|http://www.totalcmd.net/plugring/hlight.html|<h2>TotalHLT ||</h2>|1.7.0.160
 
- 
+
+--- useful ---
+AquaSnap|http://www.portablefreeware.com/index.php?id=1964|class="appName"|class="version">v|<|1.12.3
+Foxit Reader Portable|http://portableapps.com/apps/office/foxit_reader_portable|http://mirrors.foxitsoftware.com/pub/foxit/reader/desktop/win/[%0a1-2]x/[%0a1-3]/enu/FoxitReader[%0a1][%0a3]_enu.zip|http://www.portablefreeware.com/index.php?id=1041|class="appName">|class="version">|</span>|v6.0.6
+FreeCommanderXE||http://www.freecommander.com/FreeCommanderXE_portable.zip|http://www.freecommander.com/fc_beta_en.htm|FreeCommanderXE_setup.zip|&nbsp;|</font>|17.05.2013
+Input Director|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|Beta Version|<b>|<|v1.3 build 101
+Mouse without Borders|http://www.microsoft.com/en-us/download/details.aspx?id=35460|Version:</span>|<p>|<|2.1.2.1212
+PDF Creator||http://sourceforge.net/projects/pdfcreator/files/PDFCreator/PDFCreator-[%0A]_setup.exe/download|http://www.pdfforge.org/|download_note">Download PDFCreator ||</span>|1.6.1
+Revo Uninstaller |http://www.revouninstaller.com/|http://www.revouninstaller.com/revouninstaller.zip|http://www.portablefreeware.com/index.php?id=1398|class="appName">|class="version">|</span>|v1.95
+TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
+Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.1.0.15039
+WizHTMLEditor|http://cn.wizbrother.com/htmleditor/|http://wizbrother.com/download/?p=htmleditor|http://cn.wizbrother.com/downloads.html|<H2>Html/Mht编辑工具&nbsp;WizHtmlEditor ||<|1.0 (2010-2-20)
+WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|2.1.3.1
+Winaero Tweaker||http://winaero.com/request.php?1796|http://winaero.com/download.php?view.1796|forumheader3'>Date|forumheader3'>|<|Monday 2015 March 09 - 19:16:03
+XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v15.20.0300
+
+--- small utils ---
+clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.4
+Don't Sleep|http://www.softwareok.com/?seite=Microsoft/DontSleep|http://www.portablefreeware.com/download.php?dd=1738|http://www.portablefreeware.com/index.php?id=1738|class="appName">|class="version">v|</span>|3.42
+Firemin|http://datumza.com/downloads/||>Datum Firemin|</|0.3.6.365
+MyUninstaller||http://www.nirsoft.net/utils/myuninst.zip|http://www.nirsoft.net/utils/myuninst.html|MyUninstaller |v| |1.74
+NirCmd||http://www.nirsoft.net/utils/nircmd.zip|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="nircmd.html">|NirCmd v|</a>|2.75
+musetip text filter|http://www.musetips.com/text-filter.html|http://www.portablefreeware.com/download.php?dd=2015|http://www.portablefreeware.com/index.php?id=2015|class="appName"|class="version">|<|1.6
+Win+R alias manager||http://winaero.com/request.php?28|http://winaero.com/download.php?view.28|forumheader3'>Date|forumheader3'>|<|Monday 2012 July 02 - 01:15:41
+ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx|<h1>ZoomIt v||</h1>|4.5
+
+--- rescue ---
+Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
+TakeOwnershipPro|http://www.top-password.com/take-ownership-pro.html|http://www.top-password.com/download/TakeOwnershipPro.exe|
+Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.0
+Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.1
+
 
 --- Others ---
-
 CCleaner|http://www.ccleaner.com/|http://www.piriform.com/ccleaner/download/portable/downloadfile|http://www.piriform.com/ccleaner/download|Latest version:|>|<|3.25.1872
 CDBurnerXP|http://www.cdburnerxp.se/||http://www.cdburnerxp.se/en/download|Download latest version |>|<|(4.5.2.4214)
 Dexpot||http://www.dexpot.de/index.php?id=thankyou|http://www.dexpot.de/index.php?id=download|Current version|<li>|</li>|1.6.9 Build 2285
-Don't Sleep|http://www.softwareok.com/?seite=Microsoft/DontSleep|http://www.portablefreeware.com/download.php?dd=1738|http://www.portablefreeware.com/index.php?id=1738|class="appName">|class="version">v|</span>|3.42
 FileTypesMan|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="file_types_manager.html">|FileTypesMan v|</a>|1.62
-Firemin|http://datumza.com/downloads/||>Datum Firemin|</|0.3.6.365
 Folder Size|http://foldersize.sourceforge.net/changelog.html|<h1>Folder Size Changelog</h1>|<h3>Version |</h3>|2.5
-Foxit Reader Portable|http://portableapps.com/apps/office/foxit_reader_portable|http://mirrors.foxitsoftware.com/pub/foxit/reader/desktop/win/[%0a1-2]x/[%0a1-3]/enu/FoxitReader[%0a1][%0a3]_enu.zip|http://www.portablefreeware.com/index.php?id=1041|class="appName">|class="version">|</span>|v6.0.6
 Far Manager (stable)|http://farmanager.com/download.php?l=en|Stable builds|files/Far|.7z|30b4242.x86.20150117
-FreeCommanderXE||http://www.freecommander.com/FreeCommanderXE_portable.zip|http://www.freecommander.com/fc_beta_en.htm|FreeCommanderXE_setup.zip|&nbsp;|</font>|17.05.2013
 FreeCommander|http://www.freecommander.com/fc_downl_en.htm|fc_setup_.zip|&nbsp;|</font>|12.09.2010
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|5.9
 HtmlDocEdit|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="html_doc_edit.html">|HtmlDocEdit v|</a>|1.02
 ImgBurn|http://www.imgburn.com/|current version:| |<|2.5.8.0
-Input Director (beta)|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|Beta Version|<b>|<|v1.3 build 101
 JkDefrag64|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag64-|.zip|3.36
 JkDefrag|http://www.kessels.com/JkDefrag/index.html|>Download<|JkDefrag-|.zip|3.36
 Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
 KeePass Password Safe 2.x|http://sourceforge.net/projects/keepass/|http://sourceforge.net/projects/keepass/files/KeePass%202.x/KeePass-[%0A].zip/download|http://sourceforge.net/projects/keepass/files/KeePass%202.x/|Parent folder|tr title="|"|2.23
 Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
-Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.10.1446
 Microsoft Excel Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=1cd6acf9-ce06-4e1c-8dcf-f33f669dbc3a&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
 Microsoft Word Viewer|http://www.microsoft.com/downloads/details.aspx?FamilyID=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&DisplayLang=DE|<td class="quickInfoName">Version:</td>|<td class="quickInfoValue">|</td>|
-Mouse without Borders|http://www.microsoft.com/en-us/download/details.aspx?id=35460|Version:</span>|<p>|<|2.1.2.1212
-MyUninstaller||http://www.nirsoft.net/utils/myuninst.zip|http://www.nirsoft.net/utils/myuninst.html|MyUninstaller |v| |1.74
-musetip text filter|http://www.musetips.com/text-filter.html|http://www.portablefreeware.com/download.php?dd=2015|http://www.portablefreeware.com/index.php?id=2015|class="appName"|class="version">|<|1.6
-NirCmd||http://www.nirsoft.net/utils/nircmd.zip|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="nircmd.html">|NirCmd v|</a>|2.75
-PDF Creator||http://sourceforge.net/projects/pdfcreator/files/PDFCreator/PDFCreator-[%0A]_setup.exe/download|http://www.pdfforge.org/|download_note">Download PDFCreator ||</span>|1.6.1
+mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version ||:<|1.72 (2013-11-13)
 PDF-XChange Viewer||http://www.docu-track.com/download/PDFX_Vwr_Port.zip|http://www.docu-track.com/product/pdf-xchange-viewer|Current Version:|>|<|2.5.207
 PNotes|http://pnotes.sourceforge.net|http://sourceforge.net/projects/pnotes/files/latest/download?source=files|http://www.portablefreeware.com/index.php?id=1320|class="appName">|class="version">|</span>|v9.3.0
 PrcView|http://www.teamcti.com/pview/prcview.htm|package contains|GUI version | and|5.2.11
 Process Hacker|http://processhacker.sourceforge.net/|http://www.portablefreeware.com/download.php?dd=1934|http://www.portablefreeware.com/index.php?id=1934|"appName"|"version">|<|v2.33
-Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
-Revo Uninstaller |http://www.revouninstaller.com/|http://www.revouninstaller.com/revouninstaller.zip|http://www.portablefreeware.com/index.php?id=1398|class="appName">|class="version">|</span>|v1.95
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v3.0
 SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v2.2 Beta
-TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
-Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.1.0.15039
 VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
-WizHTMLEditor|http://cn.wizbrother.com/htmleditor/|http://wizbrother.com/download/?p=htmleditor|http://cn.wizbrother.com/downloads.html|<H2>Html/Mht编辑工具&nbsp;WizHtmlEditor ||<|1.0 (2010-2-20)
-WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|2.1.3.1
-ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx|<h1>ZoomIt v||</h1>|4.5
 
 
 --- cross-platform ---
@@ -98,21 +109,21 @@ Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3
 GIMP-win|http://gimp-win.sourceforge.net/||http://gimp-win.sourceforge.net/stable.html|(version ||)|2.8.2
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|Gow release.|a>|<|0.8.0 (2014-02-15)
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
+wxMEdit|||http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|0.8b3
 VcXsrv|http://sourceforge.net/projects/vcxsrv/files/vcxsrv|<tbody>|<tr title="|"|1.15.0.2
 
 --- SSH
+WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.4
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.6.0
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
-kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-putty/|Latest version:|KiTTY |<|0.63.0.5
 MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v7.1
-mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version ||:<|1.72 (2013-11-13)
-mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
+putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
+kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-putty/|Latest version:|KiTTY |<|0.63.0.5
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.1
+mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.36.0.76 Beta
 SuperPuTTY (fork)|https://github.com/sepich/superputty/releases|release-title">|">|<|1.4.0.5 p2
-WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.4
 
 
 --- temp ---
@@ -123,6 +134,4 @@ Puttymanager|http://puttymanager.sourceforge.net/|http://sourceforge.net/project
 TC wlx+wcx Imagine||http://nyam.pe.kr/dev/imagine/download/unicode/Imagine_[%0a1-5]_Unicode.zip|http://www.nyam.pe.kr/phpBB3/viewtopic.php?f=2&t=14|>Windows|Version|<|1.0.9 (Nov 20 2012) (Stable version)
 madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
-Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.1
-
 
