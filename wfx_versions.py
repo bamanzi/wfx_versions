@@ -13,6 +13,9 @@ CL_GREEN = "\033[32m"
 # or
 #   name|url_check|anchor_str|before_str|after_str|version
 
+def print_error(msg):
+    print CL_RED + msg + CL_RESET
+    
 def check_version(line):
     parts=line.split('|')
 
@@ -29,12 +32,16 @@ def check_version(line):
     s_version = parts[-1].strip()
 
     print "%s %20s %s..." % (CL_BOLD, s_name, CL_RESET) ,
+    if s_url_check.strip() == "":
+        print_error("@url_check is empty.")
+        return
+    
     if s_anchor=="" and s_before=="":
-        print CL_RED + "error: both @start and @before are empty." + CL_RESET
+        print_error("both @start and @before are empty." )
         return
 
     if s_after=="":
-        print CL_RED + "error: empty @after." + CL_RESET
+        print_error("empty @after." )
         return
 
     o = urllib.urlopen(s_url_check)
@@ -44,7 +51,7 @@ def check_version(line):
         if pos > 0:
             content = content[pos+len(s_anchor):]
         else:
-            print CL_RED + "error in @start: '%s' not found" % (s_anchor) + CL_RESET
+            print_error("@start: '%s' not found" % (s_anchor) )
             return
 
     if s_before<>'':
@@ -52,17 +59,17 @@ def check_version(line):
         if pos > 0:
             content = content[pos+len(s_before):]
         else:
-            print CL_RED + "error in @before: '%s' not found" % (s_before) + CL_RESET
+            print_error("@before: '%s' not found" % (s_before) )
             return
 
     pos = content.find(s_after)
     if pos > 0:
         content = content[:pos].strip()
         if content != s_version:
-            content = CL_GREEN + content + CL_RESET
+            content = CL_GREEN + content )
         print "%20s => %s" % (s_version, content)
     else:
-        print CL_RED + "error in @after: '%s' not found" % (s_after) + CL_RESET
+        print_error("@after: '%s' not found" % (s_after) )
         return
             
 
@@ -75,4 +82,4 @@ if __name__ == "__main__":
         try:
             check_version(line)
         except:
-            print CL_RED + "error: %s" % sys.exc_info()[0] + CL_RESET
+            print_error("%s" % sys.exc_info()[0] )
