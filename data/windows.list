@@ -17,7 +17,7 @@ System explorer|http://www.systemexplorer.net/|http://www.portablefreeware.com/d
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
 Universal Viewer Free|http://www.uvviewsoft.com/|http://www.portablefreeware.com/download.php?dd=1079|http://www.portablefreeware.com/index.php?id=1079|class="appName">|class="version">|</span>|v5.7.2.0
-WizTree|http://www.portablefreeware.com/index.php?id=2360|http://www.portablefreeware.com/index.php?id=2360||"appName"|"version">|<|v1.0.7
+WizTree|http://www.portablefreeware.com/index.php?id=2360||http://www.portablefreeware.com/index.php?id=2360|"appName"|"version">|<|v1.07
 xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|Latest Release|>v|<|3.0.0.4 (1 June 2015)
 
 --- Total Commander ---
@@ -27,14 +27,15 @@ TC util BarEditor|http://www.totalcmd.net/plugring/BarEditor.html|http://www.tot
 TC util Plugins Manager|http://www.totalcmd.net/plugring/tc_plugman.html|http://www.totalcmd.net/download.php?id=tc_plugman|http://www.totalcmd.net/plugring/tc_plugman.html|<title>|TC Plugins Manager | -|2.2.8
 TC wcx 7zip|http://www.totalcmd.net/plugring/7zip_plugin.html|http://www.totalcmd.net/download.php?id=7zip_plugin|http://www.totalcmd.net/directory/packer.html|/7zip_plugin|&nbsp;|<|0.7.6.5a
 TC wcx Total7zip||http://www.totalcmd.net/download.php?id=Total7zip|http://www.totalcmd.net/plugring/Total7zip.html|<h2>Total7zip ||</h2>|0.8.5.6
-TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|alt="Download Now"|<p>Version |<p>|1.8
+TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|button blue downloadprod|>Version |<|1.9.3
+TC wfx procviewer|http://totalcmd.net/plugring/procview.html|<h2>procViewer ||<|1.5.1 beta
+TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.6.0
+TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_6
 TC wfx Uninstaller64||http://www.totalcmd.net/download.php?id=uninstaller64|http://www.totalcmd.net/plugring/uninstaller64.html|<h2>Uninstaller64||</h2>|1.0.1
 TC wfx Uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|http://www.totalcmd.net/download.php?id=uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|<h2>Uninstaller ||</h2>|1.8.1
 TC wfx Virtual Disk|http://www.totalcmd.net/plugring/virtdisk.html|http://www.totalcmd.net/download.php?id=virtdisk|http://www.totalcmd.net/directory/fsplugin.html|/virtdisk|&nbsp;|<|1.3.3 Final
-TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.6.0
-TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
-TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_3_63_2
-TC wxl tLister||http://www.totalcmd.net/download.php?id=tlister|http://www.totalcmd.net/plugring/tlister.html|<b>tLister ||<|1.2.0
+TC wlx tLister||http://www.totalcmd.net/download.php?id=tlister|http://www.totalcmd.net/plugring/tlister.html|<b>tLister ||<|1.2.0
 TC wlx File Info|http://www.totalcmd.net/plugring/fileinfo.html|http://www.totalcmd.net/download.php?id=fileinfo|http://www.totalcmd.net/directory/lister.html|/fileinfo|&nbsp;|<|2.21
 TC wlx TotalHLT (highlight)||http://www.totalcmd.net/download.php?id=hlight|http://www.totalcmd.net/plugring/hlight.html|<h2>TotalHLT ||</h2>|1.7.0.160
 
@@ -66,7 +67,7 @@ ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microso
 
 --- rescue ---
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
-TakeOwnershipPro|http://www.top-password.com/take-ownership-pro.html|http://www.top-password.com/download/TakeOwnershipPro.exe|
+TakeOwnershipPro||http://www.top-password.com/download/TakeOwnershipPro.exe|http://www.top-password.com/take-ownership-pro.html|initial-scale=||"|1.0
 Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.0
 Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.1
 
