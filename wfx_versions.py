@@ -1,5 +1,6 @@
 
 import os
+import sys
 import urllib
 
 CL_BOLD  = "\033[1m"
@@ -32,6 +33,7 @@ def check_version(line):
     s_version = parts[-1].strip()
 
     print "%s %20s %s..." % (CL_BOLD, s_name, CL_RESET) ,
+    sys.stdout.flush()
     if s_url_check.strip() == "":
         print_error("@url_check is empty.")
         return
@@ -66,7 +68,7 @@ def check_version(line):
     if pos > 0:
         content = content[:pos].strip()
         if content != s_version:
-            content = CL_GREEN + content )
+            content = CL_GREEN + content + CL_RESET
         print "%20s => %s" % (s_version, content)
     else:
         print_error("@after: '%s' not found" % (s_after) )
@@ -75,7 +77,6 @@ def check_version(line):
 
 
 if __name__ == "__main__":
-    import sys
     #line="""!bang selection|https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3"""
     #check_version(line)        
     for line in file("temp.list"):
