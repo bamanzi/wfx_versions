@@ -12,22 +12,27 @@ tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/late
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.0.2
 
 
-# useful 
+# desktop
 BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.7.2 "Cla-de-Lue" 19-jun-2013
-CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.2
-everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
+CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.
+dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukto|-Portable|R6
+dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
+everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
+Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
 Guake|https://github.com/Guake/guake/releases|class="main">|"tag-name">|<|0.4.4
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
+wxMEdit|||http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
-Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
 Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
+Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|1.5.0
 
 
 # windows
