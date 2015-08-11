@@ -82,5 +82,6 @@ if __name__ == "__main__":
     for line in file("temp.list"):
         try:
             check_version(line)
-        except:
-            print_error("%s" % sys.exc_info()[0] )
+        except Exception as e:
+            #print_error("%s" % sys.exc_info()[0])
+            print_error("%s" % e)
