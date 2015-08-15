@@ -32,7 +32,7 @@ def check_version(line):
     s_after   = parts[-2]
     s_version = parts[-1].strip()
 
-    print "%s %20s %s..." % (CL_BOLD, s_name, CL_RESET) ,
+    print "%s %30s %s..." % (CL_BOLD, s_name, CL_RESET) ,
     sys.stdout.flush()
     if s_url_check.strip() == "":
         print_error("@url_check is empty.")
