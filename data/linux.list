@@ -24,11 +24,12 @@ FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablef
 Guake|https://github.com/Guake/guake/releases|class="main">|"tag-name">|<|0.4.4
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
-madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
 wxMEdit|||http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
+PeaZip||https://github.com/giorgiotani/PeaZip/releases/|https://github.com/giorgiotani/PeaZip/releases/|Latest release|css-truncate-target">|<|5.7.1
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
+Synapse|https://launchpad.net/synapse-project|class="version"|Latest version is |<|0.2.99.1
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
 Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
@@ -59,3 +60,4 @@ PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/project
 # misc 
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
+madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
