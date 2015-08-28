@@ -27,7 +27,7 @@ winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
 SynWrite|http://totalcmd.net/plugring/syn2.html||http://totalcmd.net/download.php?id=syn2|h2>SynWrite Editor ||<|6.18.2105
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
-Programmers' Notepad|https://github.com/simonsteele/pn/releases|http://www.pnotepad.org/||Latest release|css-truncate-target">|<|v2.4
+Programmers' Notepad||https://github.com/simonsteele/pn/releases|http://www.pnotepad.org/|Latest release|css-truncate-target">|<|v2.4
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.2.0
@@ -60,6 +60,7 @@ IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/l
 jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.python.org/pypi/jedi|title>jedi || : Python Package Index|0.9.0
 prospector|https://github.com/landscapeio/prospector||https://pypi.python.org/pypi/prospector|title>prospector|| : Python Package Index|0.10.2
 pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|7.1.0
+ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|2.3.0
 pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.python.org/pypi/pyenv|title>pyenv|| : Python Package Index|20150113
 pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyflakes|title>pyflakes|| : Python Package Index|0.9.2
 spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|2.3.5
@@ -69,6 +70,9 @@ virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|
 # ruby
 NetBeans IDE|https://netbeans.org/downloads/index.html|PAGE_ARTIFACTS_LOCATION|download/|/"|8.0.2
 NetBeans ruby and rails plugin|http://plugins.netbeans.org/plugin/38549/ruby-and-rails|Versions available|<b>NetBeans |<|8.0
+Bitnami Ruby Stack|http://gitlab.com||http://bitnami.org/stack/ruby/installer|h2>Linux<|/download/files/stacks/rubystack/|/bitnami-rubystack|2.0.0-30
+Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
+Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 
 # misc
 AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.3.0
@@ -88,4 +92,3 @@ WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/a
 CnWizards (stable)|http://code.google.com/p/cnpack/||http://code.google.com/p/cnpack/downloads/list?q=label:Featured|_src|files/cnwizards_|_src.7z|1.0.1.655
 GExperts|http://www.gexperts.org/||http://sourceforge.net/projects/gexperts/files/GExperts/|Parent folder|title="GExperts |" class|1.36
 WinMerge|http://winmerge.org/downloads.php|Download Now!|Version|;|2.12.4
-
