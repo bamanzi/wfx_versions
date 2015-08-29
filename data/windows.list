@@ -136,19 +136,19 @@ MYS Base|http://sourceforge.net/projects/mingw/files/MSYS/Base/|<tbody>|abbr tit
 MSYS Extensions|http://sourceforge.net/projects/mingw/files/MSYS/Extension/|<tbody>|abbr title="|"|2015-07-03 19:11:34 UTC
 MSYS Contributed|http://sourceforge.net/projects/mingw/files/MSYS/Contributed/|<tbody>|abbr title="|"|2011-11-27 14:54:08 UTC
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|Gow release.|a>|<|0.8.0 (2014-02-15)
-busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|03/May/2013
+busybox-w32|https://github.com/rmyorston/busybox-w32|ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|https://github.com/rmyorston/busybox-w32/releases|data-selected-links="repo_releases|datetime="|"|2015-05-18T08:57:50Z
 
 --- SSH
-WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.4
-FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.6.0
+WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.7.5
+FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.13.1
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v7.1
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.1
 MobaXterm mercurial plugin||http://www.bananahut.net/software/mobaxterm-plugins/Mercurial.mxt3?attredirects=0&d=1|http://www.bananahut.net/software/mobaxterm-plugins|Mercurial.mxt3|span dir="ltr">|</|Feb 20, 2014, 7:14 PM
-putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
-kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-putty/|Latest version:|KiTTY |<|0.63.0.5
-putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.1
+putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.65
+kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-kitty/download/|http://www.filehorse.com/download-kitty/|Latest Version:|KiTTY |<|0.65.0.1
+putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.2
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.36.0.76 Beta
+PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82
 SuperPuTTY (fork)|https://github.com/sepich/superputty/releases|release-title">|">|<|1.4.0.5 p2
 dockany|https://github.com/dokan-dev/dokany/releases|Latest release|css-truncate-target">|<|v0.7.4
 win-sshfs|https://github.com/dimov-cz/win-sshfs/releases|Latest release|css-truncate-target">|<|1.5.12.8
@@ -161,4 +161,3 @@ TC wlx+wcx Imagine||http://nyam.pe.kr/dev/imagine/download/unicode/Imagine_[%0a1
 madedit-pv (patched version)|http://code.google.com/p/madedit-pv/||http://code.google.com/p/madedit-pv/downloads/list|href="//madedit-pv.googlecode.com/files/Madedit||.7z|20130705
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
 FreeCommander|http://freecommander.com/en/downloads/|fc_setup_.zip|0;">|</|12.09.2010
-
