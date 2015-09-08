@@ -10,23 +10,91 @@ emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://source
 
 
 # packages
+## text
+markdown-mode|http://jblevins.org/projects/markdown-mode/||http://jblevins.org/git/markdown-mode.git/refs/|Tag</th>|/git/markdown-mode.git/tag/?id=v|'|2.0
+org-cua-dwim|https://github.com/mlf176f2/org-cua-dwim.el/commits/master|class="commits-listing|Commits on|<|Feb 3, 2012
+org-html-themes|https://github.com/fniessen/org-html-themes/commits/master|class="commits-listing|>Commits on|<|Aug 11, 2015
 org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.2.10</b> (Oct. 2014)
-w3m-el-snapshot||http://ftp.de.debian.org/debian/pool/main/w/w3m-el-snapshot/w3m-el-snapshot_1.4.537+0.20141001-1_all.deb|https://packages.debian.org/jessie/w3m-el-snapshot|<h1>Package: w3m-el-snapshot|(|)|1.4.537+0.20141001-1
-realgud (snapshot)|https://github.com/rocky/emacs-dbgr/|https://github.com/rocky/emacs-dbgr/archive/master.zip|https://github.com/rocky/emacs-dbgr/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 25, 2014
-eim (fork)|https://github.com/noinil/emacs-eim|https://github.com/noinil/emacs-eim/archive/master.zip|https://github.com/noinil/emacs-eim/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 01, 2014
-magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|class="tag-info commit|"tag-name">|<|1.2.2
-magit (snapshot)|https://github.com/magit/magit|https://github.com/magit/magit/releases/archive/master.zip|https://github.com/magit/magit/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 16, 2014
+org-table-comment|https://github.com/mlf176f2/org-table-comment.el|class="commits-listing|>Commits on|<|Feb 10, 2012
+ox-gfm|https://github.com/larstvei/ox-gfm/commits/master|class="commits-listing|>Commits on|<|Jun 4, 2015
+toc-org|https://github.com/snosov1/toc-org/commits/master|class="commits-listing|>Commits on|<|Aug 20, 2015
+ 
+## programming
+auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/releases|>Releases<|class="tag-name">|<|v1.5.0
+CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/cedet-|.tar.|1.1
+ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|/span>Commits on||<|Jun 14, 2012
+helm-etags+|https://github.com/jixiuf/helm-etags-plus/commits/master|class="commits-listing|>Commits on|<|Apr 29, 2015
+highlight-indentation|https://github.com/antonj/Highlight-Indentation-for-Emacs/releases|>Releases<|class="tag-name">|<|v0.7.0
+highlight-symbol|https://github.com/nschum/highlight-symbol.el||https://github.com/nschum/highlight-symbol.el/releases|>Releases<|class="tag-name">|<|1.2
+idle-highlight-mode|https://github.com/nonsequitur/idle-highlight-mode/releases|>Releases<|"tag-name">|<|1.1.3
+indent-guide|https://github.com/zk-phi/indent-guide/commits/master||https://github.com/zk-phi/indent-guide/blob/master/indent-guide.el|>;; Version: ||<|2.0.2
 projectile (release)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/latest|https://github.com/bbatsov/projectile/releases|class="tag-info commit|"tag-name">|<|v0.10.0
 projectile (snapshot)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/archive/master.zip|https://github.com/bbatsov/projectile/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 21, 2014
+
+## python
+anaconda-mode|https://github.com/proofit404/anaconda-mode/commits/master|class="commits-listing|>Commits on|<|Mar, 21, 2015
+py-smart-operator|https://github.com/rmuslimov/py-smart-operator/commits/master|class="commits-listing|>Commits on|<|Aug 25, 2015
+pydoc|https://github.com/statmobile/pydoc/commits/master|class="commits-listing|>Commits on|<|Mar 16, 2015
+pydoc-info|https://bitbucket.org/jonwaltman/pydoc-info/commits/all|commit-list"|data-title="true">|<|2011-03-01
+python-docstring-mode|https://github.com/glyph/python-docstring-mode/commits/master|class="commits-listing|>Commits on|<|Sep 8, 2015
+python-x|https://github.com/wavexx/python-x.el/commits/master|class="commits-listing|>Commits on|<|Aug 28, 2015
+python-info|https://github.com/Wilfred/python-info/commits/master|class="commits-listing|>Commits on|<|Nov 8, 2014
+python3-info|https://github.com/dvhansen/python3-info/commits/master|class="commits-listing|>Commits on|<|Sep 3, 2015
+pylookup|https://github.com/tsgates/pylookup/commits/master|class="commits-listing|>Commits on|<|Jul 23, 2015
+pyvenv|https://github.com/jorgenschaefer/pyvenv/releases|>Releases<|class="tag-name">|<|v1.7
+?python-environment|https://github.com/tkf/emacs-python-environment/releases|>Releases<|class="tag-name">|<|0.0.2
+python.el (loveshack)||http://www.loveshack.ukfsn.org/emacs/python.el|http://www.loveshack.ukfsn.org/emacs/python.el|$Revision: || $|1.40
+python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits on||<|Oct 14, 2012
+python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|/span>Commits on||<|Apr 30, 2012
+ 
+## ruby
+bundler.el|https://github.com/tobiassvn/bundler.el/commits/master|class="commits-listing|>Commits on|<|Mar 16, 2014 
+enh-ruby-mode|https://github.com/zenspider/enhanced-ruby-mode/releases|>Releases<|class="tag-name">|<| rel2014-05-20
+flymake-ruby|https://github.com/purcell/flymake-ruby/commits/master|class="commits-listing|>Commits on|<|Oct 23, 2014
+haml-mode|https://github.com/nex3/haml-mode/releases|>Releases<|class="tag-name">|<|3.1.9
+inf-ruby|https://github.com/nonsequitur/inf-ruby/releases|>Releases<|class="tag-name">|<|2.4.0
+projectile-rails|https://github.com/asok/projectile-rails/releases|>Releases<|class="tag-name">|<|v0.6.2
+pry.el|https://github.com/jacott/emacs-pry/commits/master|class="commits-listing|>Commits on|<|Mar 8, 2013
+rake.el|https://github.com/asok/rake.el/commits/master|class="commits-listing|>Commits on|<|Nov 13, 2012
+rinari|https://github.com/eschulte/rinari/releases|>Releases<|class="tag-name">|<|2.11
+robe|https://github.com/dgutov/robe/commits/master|class="commits-listing|>Commits on|<|Nov 21, 2014 
+ 
+## web
 web-mode (release)|https://github.com/fxbois/web-mode|https://github.com/fxbois/web-mode/releases/latest|https://github.com/fxbois/web-mode/releases|class="tag-references"|css-truncate-target">|<|v9
-markdown-mode|http://jblevins.org/projects/markdown-mode/||http://jblevins.org/git/markdown-mode.git/refs/|Tag</th>|/git/markdown-mode.git/tag/?id=v|'|2.0
-Emacs CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/|.tar.|cedet-1.1
-Emacs ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|/span>Commits on||<|Jun 14, 2012
-Emacs auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/commits/master|/span>Commits on||<|Oct 22, 2012
-Emacs js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits on||<|Feb 16, 2013
-Emacs python.el (loveshack)||http://www.loveshack.ukfsn.org/emacs/python.el|http://www.loveshack.ukfsn.org/emacs/python.el|$Revision: || $|1.40
-Emacs python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits on||<|Oct 14, 2012
-Emacs python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|/span>Commits on||<|Apr 30, 2012
+php-mode|https://github.com/ejmr/php-mode/releases|>Releases<|class="tag-name">|<|v1.17.0
+know-your-http-well|https://github.com/for-GET/know-your-http-well/releases|>Releases<|class="tag-name">|<|v0.2.0
+rainbow-mode|https://github.com/emacsmirror/rainbow-mode/blob/master/rainbow-mode.el|>;; Version: ||<|0.8
+restclient.el|https://github.com/pashky/restclient.el/commits/master|class="commits-listing|>Commits on|<|Dec 22, 2014 
+jquery-doc.el|https://github.com/ananthakumaran/jquery-doc.el/commits/master|class="commits-listing|>Commits on|<|Aug 12, 2015
+js2-mode|https://github.com/mooz/js2-mode/releases|>Releases<|class="tag-name">|<|20130619
+js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits on||<|Feb 16, 2013
+
+# vc
+magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|class="tag-info commit|"tag-name">|<|1.2.2
+magit (snapshot)|https://github.com/magit/magit|https://github.com/magit/magit/releases/archive/master.zip|https://github.com/magit/magit/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 16, 2014
+diff-hl|https://github.com/dgutov/diff-hl/blob/master/diff-hl.el|>;; Version: ||<|1.5.0
+monky|http://github.com/ananthakumaran/monky/commits/master|class="commits-listing|Commits on|<|May 13, 2013 
+smeargle|https://github.com/syohex/emacs-smeargle/releases|>Releases<|class="tag-name">|<|0.02
+ahg|https://bitbucket.org/agriggio/ahg/commits/all|commit-list">|data-title="true">|<|2015-08-17
+ 
+## chinese
+chinese-font-setup|https://github.com/tumashu/chinese-fonts-setup/commits/master/|class="commits-listing|>Commits on|<|Aug 18, 2015
+pinyin-search|https://github.com/xuchunyang/pinyin-search.el/commits/master/|class="commits-listing|>Commits on|<|Aug 18, 2015
+youdao-dictionary|https://github.com/xuchunyang/youdao-dictionary.el/commits/master|class="commits-listing|>Commits on|<|Aug 18, 2015
+eim (fork)|https://github.com/noinil/emacs-eim|https://github.com/noinil/emacs-eim/archive/master.zip|https://github.com/noinil/emacs-eim/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 01, 2014
+ 
+## misc
+anything-config|http://repo.or.cz/w/anything-config.git||http://repo.or.cz/w/anything-config.git/shortlog|table class="shortlog"|<i>|</i>|2013-06-06
+bm|https://github.com/joodland/bm/||https://github.com/joodland/bm/commits/master|class="commits-listing|>Commits on|<|Dec 13, 2014
+drag-stuff|https://github.com/rejeep/drag-stuff.el/releases|>Releases<|class="tag-name">|<|v0.1.0
+golden-ration|https://github.com/roman/golden-ratio.el/releases|>Releases<|"tag-name">|<|v1.0
+helm|https://github.com/emacs-helm/helm/releases|>Releases<|"tag-name">|<|v1.7.8
+iedit|https://github.com/victorhge/iedit/blob/master/iedit.el|>;; Version ||<|0.95
+ivy / swiper|https://github.com/abo-abo/swiper/releases|Latest release|css-truncate-target">|<|0.4.1
+org-link-minor-mode|https://github.com/seanohalpin/org-link-minor-mode/commits/master|class="commits-listing|Commits on|<|Aug 26, 2012
+tabbar-ruler|http://github.com/mlf176f2/tabbar-ruler.el/releases|>Releases<|css-truncate-target">|<|v0.40
+vim-region|https://github.com/ongaeshi/emacs-vim-region/releases|>Releases<|tag-name">|<|v0.2
+w3m-el-snapshot||http://ftp.de.debian.org/debian/pool/main/w/w3m-el-snapshot/w3m-el-snapshot_1.4.537+0.20141001-1_all.deb|https://packages.debian.org/jessie/w3m-el-snapshot|<h1>Package: w3m-el-snapshot|(|)|1.4.537+0.20141001-1
 
 
 # windows additions
