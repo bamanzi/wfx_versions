@@ -12,6 +12,7 @@ SQLite Database Browser|http://sourceforge.net/projects/sqlitebrowser/||http://s
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.5, 30 Aug 2013
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h2>Download HeidiSQL ||</h2>|8.3 (25 Jan 2014)
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
+sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
 
 # win32 programming
 DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
@@ -19,9 +20,10 @@ Dependency Walker|http://www.dependencywalker.com/|<strong>|Dependency Walker |<
 Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.5.9
 ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.angusj.com/resourcehacker/|Last Updated:|Version: |</TD>|3.6.0
+winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
 AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
 SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
-winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
+wscript chm|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
 
 # editors
 SynWrite|http://totalcmd.net/plugring/syn2.html||http://totalcmd.net/download.php?id=syn2|h2>SynWrite Editor ||<|6.18.2105

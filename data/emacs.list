@@ -15,7 +15,7 @@ markdown-mode|http://jblevins.org/projects/markdown-mode/||http://jblevins.org/g
 org-cua-dwim|https://github.com/mlf176f2/org-cua-dwim.el/commits/master|class="commits-listing|Commits on|<|Feb 3, 2012
 org-html-themes|https://github.com/fniessen/org-html-themes/commits/master|class="commits-listing|>Commits on|<|Aug 11, 2015
 org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.2.10</b> (Oct. 2014)
-org-table-comment|https://github.com/mlf176f2/org-table-comment.el|class="commits-listing|>Commits on|<|Feb 10, 2012
+org-table-comment|https://github.com/mlf176f2/org-table-comment.el/commits/master|class="commits-listing|>Commits on|<|Feb 10, 2012
 ox-gfm|https://github.com/larstvei/ox-gfm/commits/master|class="commits-listing|>Commits on|<|Jun 4, 2015
 toc-org|https://github.com/snosov1/toc-org/commits/master|class="commits-listing|>Commits on|<|Aug 20, 2015
  
@@ -70,8 +70,8 @@ js2-mode|https://github.com/mooz/js2-mode/releases|>Releases<|class="tag-name">|
 js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits on||<|Feb 16, 2013
 
 # vc
-magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|class="tag-info commit|"tag-name">|<|1.2.2
-magit (snapshot)|https://github.com/magit/magit|https://github.com/magit/magit/releases/archive/master.zip|https://github.com/magit/magit/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 16, 2014
+magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|Latest release|class="css-truncate-target">|<|2.2.2
+magit (1.x)|https://github.com/magit/magit|https://github.com/magit/magit/releases/archive/master.zip|https://github.com/magit/magit/releases|/tree/1.|class="css-truncate-target">|<|1.4.2
 diff-hl|https://github.com/dgutov/diff-hl/blob/master/diff-hl.el|>;; Version: ||<|1.5.0
 monky|http://github.com/ananthakumaran/monky/commits/master|class="commits-listing|Commits on|<|May 13, 2013 
 smeargle|https://github.com/syohex/emacs-smeargle/releases|>Releases<|class="tag-name">|<|0.02
@@ -88,7 +88,7 @@ anything-config|http://repo.or.cz/w/anything-config.git||http://repo.or.cz/w/any
 bm|https://github.com/joodland/bm/||https://github.com/joodland/bm/commits/master|class="commits-listing|>Commits on|<|Dec 13, 2014
 drag-stuff|https://github.com/rejeep/drag-stuff.el/releases|>Releases<|class="tag-name">|<|v0.1.0
 golden-ration|https://github.com/roman/golden-ratio.el/releases|>Releases<|"tag-name">|<|v1.0
-helm|https://github.com/emacs-helm/helm/releases|>Releases<|"tag-name">|<|v1.7.8
+helm|https://github.com/emacs-helm/helm/releases|Latest release|class="css-truncate-target">|<|v1.7.8
 iedit|https://github.com/victorhge/iedit/blob/master/iedit.el|>;; Version ||<|0.95
 ivy / swiper|https://github.com/abo-abo/swiper/releases|Latest release|css-truncate-target">|<|0.4.1
 org-link-minor-mode|https://github.com/seanohalpin/org-link-minor-mode/commits/master|class="commits-listing|Commits on|<|Aug 26, 2012
@@ -136,3 +136,11 @@ jpeg-v9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-v||-
 
 ## xxxxx
 jpeg8 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|jpeg_||_win32|8d-1
+
+
+# microemacs
+Jasspa's MicroEmacs|http://www.jasspa.com/downlinux.html|h2>Debian |/me-jasspa_|_i386|0.0.20091011
+JED|http://www.jedsoft.org/jed||http://www.jedsoft.org/releases/jed/|href="jed-||.tar|0.99-19
+Jed on Windows|http://www.paneura.com/~dino/wjed.html|HREF="files/jed_||.exe|0.99.18-s2.0.6-i154
+JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.1
+JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="joewin-src-|.zip|3.8
