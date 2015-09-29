@@ -23,6 +23,9 @@ ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.ang
 winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
 AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
 SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
+AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/index.php?id=50|class="appName">|class="version">|<|v3.3.14.1
+AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
+PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.51
 wscript chm|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
 
 # editors
@@ -68,6 +71,10 @@ pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyfl
 spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|2.3.5
 smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.python.org/pypi/smiley|title>smiley || : Python Package Index|0.8.1
 virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|13.1.0
+dbghelper|https://pypi.python.org/pypi/dbghelper|title>dbghelper || :|0.3
+ipdb|https://pypi.python.org/pypi/ipdb|title>ipdb|| :|0.8.1
+pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.2
+
 
 # ruby
 NetBeans IDE|https://netbeans.org/downloads/index.html|PAGE_ARTIFACTS_LOCATION|download/|/"|8.0.2
@@ -83,6 +90,7 @@ AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.3.0
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
 ColorPic|http://www.iconico.com/colorpic/||http://www.portablefreeware.com/index.php?id=1225|class="appName"|class="version">|<|v4.1
+ColorPix|http://www.colorschemer.com/colorpix_info.php||http://www.portablefreeware.com/index.php?id=2034|class="appName"|class="version">|<|v1.1
 Dia installer|http://dia-installer.de||http://sourceforge.net/projects/dia-installer/files/dia-win32-installer/|ico-folder">|/dia-win32-installer/|/|0.97.2
 Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-installer/files/dia-shapes/|ico-folder">|/files/dia-shapes/|/|0.6.0
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*

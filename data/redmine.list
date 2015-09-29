@@ -10,10 +10,10 @@ Favourite Projects|https://github.com/syntacticvexation/redmine_favourite_projec
 Git Hosting|https://github.com/jbox-web/redmine_git_hosting||https://jbox-web.github.io/redmine_git_hosting/about/releases-notes/|list-group">|.html">Release |</a|1.0.1
 Information|http://www.r-labs.org/projects/rp-admin-reports/wiki/Redmine_Information_Plugin||http://sourceforge.jp/projects/rp-information/releases/|.zip/">rp-information-||.zip|1.0.2
 Lightbox||https://github.com/zipme/redmine_lightbox/archive/master.zip|https://github.com/zipme/redmine_lightbox/commits/master|</span>Commits on ||<|Feb 15, 2013
+Per-project formatting|https://github.com/a-ono/redmine_per_project_formatting||http://www.redmine.org/plugins/per-project-formatting|>Changelog<|h4 id="|"|0.0.4
 Pretend|https://github.com/leonko/redmine_pretend||https://github.com/leonko/redmine_pretend/commits/master|>Commits on||<|Dec 16, 2014
 Q&A plugin (redmine_questions)|http://www.redminecrm.com/projects/questions/pages/1|a name="Changelog"|a name="|"|v005-28-May-2013
 SCM Creator|http://projects.andriylesyuk.com/projects/scm-creator||http://projects.andriylesyuk.com/projects/scm-creator/files|table class="list files"|icon icon-package">|<|0.5.0b
-Usability|https://github.com/tdvsdv/usability||https://github.com/tdvsdv/usability/commits/master|</span>Commits on||</div|Jan 8, 2015
 Wiki Extensions|http://www.r-labs.org/projects/r-labs/wiki/Wiki_Extensions_en||https://bitbucket.org/haru_iida/redmine_wiki_extensions/downloads|class="count">Downloads|href="/haru_iida/redmine_wiki_extensions/downloads/redmine_wiki_extensions-|.zip|0.6.5
 
 # 4stars
@@ -24,6 +24,7 @@ Banner|https://github.com/akiko-pusu/redmine_banner|https://github.com/akiko-pus
 Blogs (fork)|https://github.com/edavis10/redmine_blogs|https://github.com/ichizok/redmine_blogs/archive/redmine2.x.zip|https://github.com/ichizok/redmine_blogs/commits/redmine2.x|span>Commits on||<|Dec 16, 2013
 Checkout (fork)||https://github.com/rkallensee/redmine_checkout/archive/master.zip|https://github.com/rkallensee/redmine_checkout/commits/master|/span>Commits on||<|Jul 26, 2013
 Download button|http://projects.andriylesyuk.com/projects/download-button/files|<table class="list files">|icon-package">|<|0.1.0
+Freemind|https://bitbucket.org/changeworld/redmine_free_mind/downloads|<td class="name">tip</td>|<td class="name">|<|1.1.1
 Gitlab Merge Request|https://github.com/pixel-cookers/redmine_gitlab_merge_request/|https://github.com/pixel-cookers/redmine_gitlab_merge_request/archive/master.zip|https://github.com/pixel-cookers/redmine_gitlab_merge_request/commits/master|span>Commits on||<|Jul 13, 2013
 LDAP Sync|http://www.redmine.org/plugins/redmine_ldap_sync|https://github.com/thorin/redmine_ldap_sync/archive/master.zip|http://www.redmine.org/plugins/redmine_ldap_sync|<h4|">|<|2.0.0.devel
 Local avatars|https://github.com/thorin/redmine_local_avatars||https://github.com/thorin/redmine_local_avatars/commits/master|>Commits on||<|Jan 27, 2015
@@ -59,3 +60,4 @@ Usability|http://rmplus.pro/en/redmine/plugins/usability||http://www.redmine.org
 Checklists|http://www.redminecrm.com/projects/checklist/pages/1||http://www.redmine.org/plugins/redmine_checklists|>Changelog<|h4 id="|"|3.1.1
 Scrum|https://redmine.ociotec.com/projects/redmine-plugin-scrum||http://www.redmine.org/plugins/scrum-plugin|>Changelog<|h4 id="|"|0.12.0
 Redmine Tweaks|https://github.com/alexandermeindl/redmine_tweaks||http://www.redmine.org/plugins/redmine_tweaks|>Changelog<|h4 id="|"|0.5.4
+
