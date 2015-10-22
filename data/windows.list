@@ -15,6 +15,7 @@ ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||
 clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.4
 
 ## editor
+SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.6.1
 Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.6
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html||http://totalcmd.net/download.php?id=SynWriteLite|h2>SynWrite Lite ||<|6.1.185
@@ -28,6 +29,7 @@ BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|0.8b3
 
 ## file comparer
+DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.1.0
 ExamDiff|http://www.prestosoft.com/edp_examdiff.asp|The current released version is|">|</a|1.9
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.98
 
@@ -106,8 +108,7 @@ Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware
 ## shell
 FileMenu Tools|http://www.lopesoft.com/en/filemenutools/changelog|>Changelog<|<h2>|</h2>|v6.6
 Open++||http://www.portablefreeware.com/download.php?dd=2084|http://www.portablefreeware.com/index.php?id=2084|class="appName"|class="version">|<|v1.5.1
-ShellExView||http://www.nirsoft.net/utils/shexview.zip|http://www.nirsoft.net/utils/shexview.html|class=%22utilcaption%22|%3Ctd%3EShellExView||-|v1.97
-ShellExView||http://www.nirsoft.net/utils/shexview.zip|http://www.nirsoft.net/utils/shexview.html|class="utilcaption"|<td>ShellExView| -|v1.9
+ShellExView||http://www.nirsoft.net/utils/shexview.zip|http://www.nirsoft.net/utils/shexview.html|class="utilcaption"|<td>ShellExView| -|v1.97
 
 ## system cleaner
 CCleaner|http://www.ccleaner.com/|http://www.piriform.com/ccleaner/download/portable/downloadfile|http://www.piriform.com/ccleaner/download|Latest version:|>|<|3.25.1872
@@ -221,6 +222,8 @@ PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager
 SuperPuTTY (fork)|https://github.com/sepich/superputty/releases|release-title">|">|<|1.4.0.5 p2
 dockany|https://github.com/dokan-dev/dokany/releases|Latest release|css-truncate-target">|<|v0.7.4
 win-sshfs|https://github.com/dimov-cz/win-sshfs/releases|Latest release|css-truncate-target">|<|1.5.12.8
+Xshell|https://www.netsarang.com/products/xsh_overview.html||https://www.netsarang.com/products/xsh_update.html|h1>Update
+
 
 --- deprecated ---
 Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.com/download.php?dd=963|http://www.portablefreeware.com/index.php?id=963|class="appName">|class="version">|</span>|v2.00 b148

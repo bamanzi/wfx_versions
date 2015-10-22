@@ -21,26 +21,43 @@ Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-targe
 
 
 # desktop apps
-CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.
-DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
-Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.5.gtk2.i386
-FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
-FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
-KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
-PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|25.7.3
+## archiver
 PeaZip||https://github.com/giorgiotani/PeaZip/releases/|https://github.com/giorgiotani/PeaZip/releases/|Latest release|css-truncate-target">|<|5.7.1
-Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
-Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
-Dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukto|-Portable|R6
-Everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
+
+## editor
+cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|#40b040>version
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
-mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
-pinta|http://pinta-project.com/|Current Version: ||<|1.6
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 
-# desktop apps - development
+## editor - html
 BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.7.2 "Cla-de-Lue" 19-jun-2013
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
+
+## file manager
+Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.5.gtk2.i386
+
+## graphics
+mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
+pinta|http://pinta-project.com/|Current Version: ||<|1.6
+
+## network 
+FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
+dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukto|-Portable|R6
+FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
+PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|25.7.3
+
+## notes
+CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.
+everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
+Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
+
+## misc
+KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
+TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
+Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
+DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
+
+# desktop apps - development
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.25
 geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.25
 meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.14.0 - 23 Jul 2015
@@ -49,6 +66,7 @@ RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/
 
 # sysadmin
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.5.1
+webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.770
 
 
 # windows

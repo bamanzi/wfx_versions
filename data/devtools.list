@@ -14,17 +14,20 @@ Database Browser (portable)|http://portableapps.com/apps/development/database_br
 sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
 
 # win32 programming
-DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
 Dependency Walker|http://www.dependencywalker.com/|<strong>|Dependency Walker |<|2.2
-Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.5.9
 ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.angusj.com/resourcehacker/|Last Updated:|Version: |</TD>|3.6.0
+PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.51
+
+DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
+Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
 winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
+
 AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
 SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
+AutoHotKey.chm CN|http://ahkcn.sourceforge.net/docs/AutoHotkey.htm||http://sourceforge.net/projects/ahkcn/files/AutoHotkey%20Help%20-%20Lastest/|td headers="files_date_h|UTC">|<|2014-06-30
 AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/index.php?id=50|class="appName">|class="version">|<|v3.3.14.1
 AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
-PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.51
 wscript chm|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
 
 # editors
@@ -54,22 +57,38 @@ Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com
 Eclipse Color Theme|http://eclipsecolorthemes.org/plugin|http://eclipse-color-theme.github.io/update/eclipse-color-theme-update-site.zip|http://marketplace.eclipse.org/content/eclipse-color-theme|field-label">Version Number|field-item even">|<|1.0.0
 jd-gui|http://jd.benow.ca||https://github.com/java-decompiler/jd-gui/releases|Latest release|css-truncate-target">|<|v1.3.0
 jd-eclise|http://jd.benow.ca||https://github.com/java-decompiler/jd-eclipse/releases|Pre-release|css-truncate-target">|<|v1.0.0
+winrun4j|http://winrun4j.sourceforge.net/|http://sourceforge.net/projects/winrun4j/files/latest/download?source=files|http://sourceforge.net/projects/winrun4j/files/winrun4j/|<tbody|<tr title="|"|0.4.5
 
 # python
+Portable Python|http://portablepython.com/||http://portablepython.com/wiki/Download/|img src="http://portablepython.com/images/download.png|>Portable Python |<|2.7.6.1
+WinPython 2.x|http://winpython.github.io/||http://sourceforge.net/projects/winpython/files/WinPython_2.7/|<tbody>|<tr title="|"|2.7.10.2
+WinPython 3.x|https://winpython.github.io/||http://sourceforge.net/projects/winpython/files/|Looking for the latest version?|bit-|.exe|3.4.3.5
+
+## python - package/env manager
+pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|7.1.0
+pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.python.org/pypi/pyenv|title>pyenv|| : Python Package Index|20150113
+virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|13.1.0
+
+## python - repl
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.12
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
-flake8|https://pypi.python.org/pypi/flake8|title>flake8|| : Python Package Index|2.4.1
 ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|2.3.0
 IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|">|1.12
-jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.python.org/pypi/jedi|title>jedi || : Python Package Index|0.9.0
-prospector|https://github.com/landscapeio/prospector||https://pypi.python.org/pypi/prospector|title>prospector|| : Python Package Index|0.10.2
-pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|7.1.0
 ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|2.3.0
-pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.python.org/pypi/pyenv|title>pyenv|| : Python Package Index|20150113
+
+## python - code checker
+flake8|https://pypi.python.org/pypi/flake8|title>flake8|| : Python Package Index|2.4.1
+prospector|https://github.com/landscapeio/prospector||https://pypi.python.org/pypi/prospector|title>prospector|| : Python Package Index|0.10.2
 pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyflakes|title>pyflakes|| : Python Package Index|0.9.2
+
+
+## python - editor/ide
 spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|2.3.5
+jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.python.org/pypi/jedi|title>jedi || : Python Package Index|0.9.0
+PyScripter|http://sourceforge.net/projects/pyscripter/|http://sourceforge.net/projects/pyscripter/files/latest/download|http://sourceforge.net/projects/pyscripter/files/|<tbody|<tr title="PyScripter-|.zip"|v2.6.0
+
+## python - debug
 smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.python.org/pypi/smiley|title>smiley || : Python Package Index|0.8.1
-virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|13.1.0
 dbghelper|https://pypi.python.org/pypi/dbghelper|title>dbghelper || :|0.3
 ipdb|https://pypi.python.org/pypi/ipdb|title>ipdb|| :|0.8.1
 pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.2
