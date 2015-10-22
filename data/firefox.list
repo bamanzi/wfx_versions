@@ -67,6 +67,12 @@ Tiny JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-jav
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|https://addons.mozilla.org/downloads/latest/web-developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|version item|id="version-|"|1.2
 XPCOMViewer|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|https://addons.mozilla.org/firefox/downloads/latest/7979/addon-7979-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|itemprop="version">||</span>|1.4.2
 
+=== Firefox addons - new ===
+Copy as org-mode|https://addons.mozilla.org/en-US/firefox/addon/copy-as-org-mode/|itemprop="name">Copy as Org-mode|itemprop="version">|<|0.1.1-signed
+Disconnnect||https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|itemprop="name">Disconnect|itemprop="version">|<|3.15.3.1-signed
+Internote||https://addons.mozilla.org/firefox/downloads/latest/2011/addon-2011-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/internote/?src=search|itemprop="name">Internote|itemprop="version">|<|3.0.2.1-signed
+uMatrix||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|itemprop="name">uMatrix|itemprop="version">|<|0.9.2.1
+wepware||https://addons.mozilla.org/firefox/downloads/file/303090/wepware_capture_and_share_live_content-1.0.6-tb+fx+sm.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/wepware-capture-and-share-live/|itemprop="name">Wepware - |itemprop="version">|<|1.0.6.1-signed
 
 === Firefox addons misc ===
 Edit Bookmark Plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|https://addons.mozilla.org/downloads/latest/edit-bookmark-plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|version item|id="version-|"|2.3.0
@@ -74,20 +80,23 @@ Fox Splitter|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerl
 Page Hacker Revived|https://addons.mozilla.org/zh-CN/firefox/addon/page-hacker-revived/|version item|id="version-|"|3.0.7
 PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||http://www.palemoon.org/tabgroups.shtml|<center>|palemoon-tabgroups-|.xpi|0.2
 Scrapbook Plus 2||https://addons.mozilla.org/firefox/downloads/file/225889/scrapbook_plus_2-2.0.0.0a1-fx.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-plus-2/?src=search|<span itemprop="name">ScrapBook Plus 2</span>|<span class="version-number" itemprop="version">|</span>|2.0.0.0a2
-Scrapbook for SeaMonkey|https://xsidebar.mozdev.org/|Uploaded Scrapbook||<li|1.3.7.
 Split Panel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|https://addons.mozilla.org/downloads/latest/split-pannel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|version item|id="version-|"|1.00
 Tabbundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|https://addons.mozilla.org/downloads/latest/tabundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|version item|id="version-|"|0.1.2
-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|version item|id="version-|"|1.0
+
+
+=== SeaMonkey ===
 SeaTab-X-2||https://addons.mozilla.org/seamonkey/downloads/latest/487070/addon-487070-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-us/seamonkey/addon/seatab-x-2/|itemprop="name">SeaTab|itemprop="version">|<|0.3.3
 Sea Fox||https://addons.mozilla.org/seamonkey/downloads/latest/471552/addon-471552-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-us/seamonkey/addon/sea-fox/|itemprop="name">Sea Fox|itemprop="version">|<|0.4.3
+Scrapbook for SeaMonkey|https://xsidebar.mozdev.org/|Uploaded Scrapbook||<li|1.3.7.
 
-=== Firefox addons new ===
+=== SeaMonkey - hackable ==
 Youdao Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/398064/addon-398064-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/youdao-translation/?src=search|itemprop="name">Youdao Translation|itemprop="version">|<|1.1.1-signed
-Internote||https://addons.mozilla.org/firefox/downloads/latest/2011/addon-2011-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/internote/?src=search|itemprop="name">Internote|itemprop="version">|<|3.0.2.1-signed
-Copy as org-mode|https://addons.mozilla.org/en-US/firefox/addon/copy-as-org-mode/|itemprop="name">Copy as Org-mode|itemprop="version">|<|0.1.1-signed
 Disconnnect||https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|itemprop="name">Disconnect|itemprop="version">|<|3.15.3.1-signed
-uMatrix||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|itemprop="name">uMatrix|itemprop="version">|<|0.9.2.1
-wepware||https://addons.mozilla.org/firefox/downloads/file/303090/wepware_capture_and_share_live_content-1.0.6-tb+fx+sm.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/wepware-capture-and-share-live/|itemprop="name">Wepware - |itemprop="version">|<|1.0.6.1-signed
+wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|version item|id="version-|"|1.0
+Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|https://addons.mozilla.org/downloads/latest/blank-your-monitor-easy-readin|https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|version item|id="version-|"|1.9.8
+Pocket ||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
+gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|version item|id="version-|"|0.8
+
 
 === Thunderbird addons ===
 Color Folders |https://addons.mozilla.org/en-US/firefox/addon/color-folders|https://addons.mozilla.org/downloads/latest/color-folders|https://addons.mozilla.org/en-US/firefox/addon/color-folders|version item|id="version-|"|1.1
