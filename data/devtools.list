@@ -20,18 +20,23 @@ ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.ang
 PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.51
 
 DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
+TraceSpy|http://tracespy.codeplex.com/||http://tracespy.codeplex.com/releases|div id="ReleasesContentArea"|>TraceSpy.exe V|<|2.1.0.0
+
 Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
+
 winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
+WindowDetective|http://windowdetective.sourceforge.net/||http://sourceforge.net/projects/windowdetective/files/|<tbody|<tr title="release-|"|3.2.1
+WinCheat|http://alinconstantin.dynu.com/Download/WinCheat/||https://chocolatey.org/packages/wincheat|<h2|>|<|1.7.4680.1
 
 AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
 SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
 AutoHotKey.chm CN|http://ahkcn.sourceforge.net/docs/AutoHotkey.htm||http://sourceforge.net/projects/ahkcn/files/AutoHotkey%20Help%20-%20Lastest/|td headers="files_date_h|UTC">|<|2014-06-30
 AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/index.php?id=50|class="appName">|class="version">|<|v3.3.14.1
 AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
-wscript chm|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
+wscript doc (script56.chm)|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
 
 # editors
-SynWrite|http://totalcmd.net/plugring/syn2.html||http://totalcmd.net/download.php?id=syn2|h2>SynWrite Editor ||<|6.18.2105
+SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|h2>SynWrite Editor ||<|6.18.2105
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
 Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
@@ -92,7 +97,10 @@ smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.python
 dbghelper|https://pypi.python.org/pypi/dbghelper|title>dbghelper || :|0.3
 ipdb|https://pypi.python.org/pypi/ipdb|title>ipdb|| :|0.8.1
 pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.2
+pudb|https://github.com/inducer/pudb||https://pypi.python.org/pypi/pudb|title>pudb||:|2015.4.1
 
+## python - misc
+jupyter|http://jupyter.org||https://pypi.python.org/pypi/jupyter/|<title>|jupyter|:|1.0.0
 
 # ruby
 NetBeans IDE|https://netbeans.org/downloads/index.html|PAGE_ARTIFACTS_LOCATION|download/|/"|8.0.2
