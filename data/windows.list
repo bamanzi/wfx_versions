@@ -57,6 +57,9 @@ WizTree|http://www.portablefreeware.com/index.php?id=2360||http://www.portablefr
 WinDirStat|http://windirstat.info/||http://windirstat.info/download.html|>Latest version: ||<|1.1.2
 Folder Size|http://foldersize.sourceforge.net/changelog.html|<h1>Folder Size Changelog</h1>|<h3>Version |</h3>|2.5
 
+## games
+VCMI (Heroes 3 engine)|http://forum.vcmi.eu/portal.php|http://download.vcmi.eu/vcmi_098.rar|https://github.com/vcmi/vcmi/releases|>Latest release|class="css-truncate-target">|<|0.98
+
 ## graphics
 FSCapture (free)|http://www.portablefreeware.com/index.php?id=775|class="appName">|class="version">|<|v5.3
 PicPick||http://www.nteworks.com/latestdownload/picpick_portable.zip|http://www.portablefreeware.com/index.php?id=1496|class="appName">|class="version">|<|v4.0.4
@@ -71,6 +74,8 @@ Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/
 ## notes
 ResophNotes|http://www.resoph.com/ResophNotes/Welcome.html|http://www.portablefreeware.com/download.php?dd=1951|http://www.portablefreeware.com/index.php?id=1951|class="appName"|class="version">|<|v1.5.7
 CintaNotes|http://cintanotes.com/|http://www.portablefreeware.com/download.php?dd=1468|http://www.portablefreeware.com/index.php?id=1468|class="appName"|class="version">|<|v3.0
+evernote 3.1|http://filehippo.com/zh/download_evernote/history/10/||http://filehippo.com/zh/download_evernote/6461/|og:title" content="Evernote ||"|3.1.0.1225
+evernote portable|http://www.portablesoft.org/down/994/|div id="crumb"|/down/994/">Evernote |<|5.8.13.8152
 
 ## notes - sticky notes
 Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v8.0c
@@ -102,9 +107,12 @@ mRemoteNG|http://www.mremoteng.org/||http://www.mremoteng.org/download|>Version 
 ## rescue
 pstools/pskill||https://download.sysinternals.com/files/PSTools.zip|https://technet.microsoft.com/en-us/sysinternals/bb896683.aspx|h1>PsKill||<|v1.14
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.50.1036
+TestDisk & PhotoRec|http://www.cgsecurity.org/wiki/TestDisk||http://www.cgsecurity.org/wiki/TestDisk_Download|h2><span|>TestDisk &amp; PhotoRec |,|7.0 (18 April 2015)
 TakeOwnershipPro||http://www.top-password.com/download/TakeOwnershipPro.exe|http://www.top-password.com/take-ownership-pro.html|initial-scale=||"|1.0
 Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.0
 Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.1
+AOMEI Partition Assistant|http://www.disk-partition.com/free-partition-manager.html||http://www.disk-partition.com/download-home.html|<li>Version: ||<|5.8
+MiniTool Partition Wizard (Free Edition)|http://minitool.com/partition-manager/partition-wizard-home.html||http://minitool.com/download-center.html|h3>MiniTool Partition Wizard Server Edition ||<|9.1
 
 ## shell
 FileMenu Tools|http://www.lopesoft.com/en/filemenutools/changelog|>Changelog<|<h2>|</h2>|v6.6
@@ -129,6 +137,8 @@ Rapid Environment Editor|http://www.portablefreeware.com/?id=1665#23422|class="a
 Winaero Tweaker||http://winaero.com/request.php?1796|http://winaero.com/download.php?view.1796|forumheader3'>Date|forumheader3'>|<|Monday 2015 March 09 - 19:16:03
 FileTypesMan||http://www.nirsoft.net/utils/filetypesman.zip|http://www.nirsoft.net/utils/file_types_manager.html|class="utilcaption"|<td>FileTypesMan|-|v1.80
 WhatInStartup||http://winaero.com/request.php?28|http://www.nirsoft.net/utils/what_run_in_startup.html|class="utilcaption"|<td>WhatInStartup|<|v1.35
+KeyTweak|http://www.bleepingcomputer.com/download/keytweak/|download/windows/keyboard-mouse-utilities/">|KeyTweak|<|2.3.0
+SharpKeys|https://sharpkeys.codeplex.com/|rating_header">current|<td>|</td>|SharpKeys 3.5
 
 ## viewer
 Universal Viewer Free|http://www.uvviewsoft.com/|http://www.portablefreeware.com/download.php?dd=1079|http://www.portablefreeware.com/index.php?id=1079|class="appName">|class="version">|</span>|v5.7.2.0
@@ -144,17 +154,16 @@ Dual Monitor Taskbar|http://sourceforge.net/projects/dualmonitortb/||http://sour
 VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
 Dexpot||http://www.dexpot.de/index.php?id=thankyou|http://www.dexpot.de/index.php?id=download|Current version|<li>|</li>|1.6.9 Build 2285
 4t Tray Minimizer||http://www.4t-niagara.com/files/4t-min.zip|http://www.4t-niagara.com/tray.html|Current version:||<|5.52
+Winstep Nexus Dock|http://www.winstep.net/nexus.asp|h1>Winstep Nexus ||<|15.9
 
 ## misc
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|5.9
 FreeMind|http://freemind.sourceforge.net||http://sourceforge.net/projects/freemind/files/freemind/|span>Parent folder|<tr title="|"|1.0.1
 KeePass Password Safe 2.x|http://sourceforge.net/projects/keepass/|http://sourceforge.net/projects/keepass/files/KeePass%202.x/KeePass-[%0A].zip/download|http://sourceforge.net/projects/keepass/files/KeePass%202.x/|Parent folder|tr title="|"|2.23
-KeyTweak|http://www.bleepingcomputer.com/download/keytweak/|download/windows/keyboard-mouse-utilities/">|KeyTweak|<|2.3.0
 Listary||http://www.listary.com/download/ListaryPortable.zip|http://www.listary.com/download|Current Version:</strong>||<|4.10.1446
 Noteliner|http://www.noteliner.org/i/Main.html|style_8">Build||<|3.6.3b
 QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.php?id=2237|class="appName">QTranslate|class="version">|</span>|v5.5.1
 Sandboxie||http://www.sandboxie.com/SandboxieInstall.exe|http://www.sandboxie.com/index.php?DownloadSandboxie|Sandboxie version| |<|4.20
-SharpKeys|https://sharpkeys.codeplex.com/|rating_header">current|<td>|</td>|SharpKeys 3.5
 WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|2.1.3.1
 yaP|http://rolandtoth.hu/yaP/|http://rolandtoth.hu/yaP/bin/yaP-latest-beta.zip|http://rolandtoth.hu/yaP/#download|>Latest beta|title="">|<|v0.6.5 build 293
 diff-ext|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|Windows: |diff-ext-|.zip|1.9.2
@@ -229,7 +238,7 @@ SuperPuTTY (fork)|https://github.com/sepich/superputty/releases|release-title">|
 dockany|https://github.com/dokan-dev/dokany/releases|Latest release|css-truncate-target">|<|v0.7.4
 win-sshfs|https://github.com/dimov-cz/win-sshfs/releases|Latest release|css-truncate-target">|<|1.5.12.8
 Xshell|https://www.netsarang.com/products/xsh_overview.html||https://www.netsarang.com/products/xsh_update.html|h1>Update|h4">Xshell|<|5 Build 0788, Oct 08, 2015
-
+xshell portable|http://www.portablesoft.org/down/1985/|div id="crumb"|/down/1985/">Xshell |<|5 Build 0446 (5.0.0446)
 
 --- deprecated ---
 Console2|http://sourceforge.net/projects/console/|http://www.portablefreeware.com/download.php?dd=963|http://www.portablefreeware.com/index.php?id=963|class="appName">|class="version">|</span>|v2.00 b148

@@ -1,15 +1,15 @@
 # DevTools
 
 # compare
-Code Compare|http://www.devart.com/codecompare/revision_history.html||http://www.devart.com/codecompare/download.html|latest version|<b>|<|4.0.54
-DiffUse|http://diffuse.sourceforge.net/||http://diffuse.sourceforge.net/download.html|download Diffuse|/projects/diffuse/files/diffuse/|/diffuse_|0.4.6
-DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.1.0
-kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.97
+Code Compare|http://www.devart.com/codecompare/revision_history.html||http://www.devart.com/codecompare/download.html|latest version|<b>|<|4.1.78
+DiffUse|http://diffuse.sourceforge.net/||http://diffuse.sourceforge.net/download.html|download Diffuse|/projects/diffuse/files/diffuse/|/diffuse_|0.4.8
+DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.2
+kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.98
 
 # database
-SQLite Database Browser|http://sourceforge.net/projects/sqlitebrowser/||http://sourceforge.net/projects/sqlitebrowser/files/sqlitebrowser/|Parent folder|class="name">|</a>|3.2
+SQLite Database Browser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|>Latest release|css-truncate-target">|<|v3.7.0
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.5, 30 Aug 2013
-HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h2>Download HeidiSQL ||</h2>|8.3 (25 Jan 2014)
+HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
 sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
 
@@ -29,7 +29,7 @@ WindowDetective|http://windowdetective.sourceforge.net/||http://sourceforge.net/
 WinCheat|http://alinconstantin.dynu.com/Download/WinCheat/||https://chocolatey.org/packages/wincheat|<h2|>|<|1.7.4680.1
 
 AutoHotkey|http://www.autohotkey.com/|http://www.autohotkey.com/|http://www.portablefreeware.com/?id=217|appname"|class="version">|<|1.1.13.00 - August 27, 2013
-SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|3.0.04
+SciTE4AutoHotkey|http://fincs.ahk4.net/scite4ahk/|Downloads|<strong>|<|v3.0.06.01
 AutoHotKey.chm CN|http://ahkcn.sourceforge.net/docs/AutoHotkey.htm||http://sourceforge.net/projects/ahkcn/files/AutoHotkey%20Help%20-%20Lastest/|td headers="files_date_h|UTC">|<|2014-06-30
 AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/index.php?id=50|class="appName">|class="version">|<|v3.3.14.1
 AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
@@ -43,7 +43,7 @@ Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.2.0
-Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.4.5
+Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
 
 # komodo
 Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|9.2.0
@@ -56,6 +56,9 @@ TabSwitcher revived|http://community.activestate.com/node/9047|Current Version:|
 haml syntax highlighting|http://community.activestate.com/node/9903|Current Version:|>|<|0.1.3
 koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|Latest release|css-truncate-target">|<|0.12
 markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|Latest release|css-truncate-target">|<|0.3
+
+# scm
+TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
 
 # java
 Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5
@@ -73,6 +76,8 @@ WinPython 3.x|https://winpython.github.io/||http://sourceforge.net/projects/winp
 pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|7.1.0
 pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.python.org/pypi/pyenv|title>pyenv|| : Python Package Index|20150113
 virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|13.1.0
+virtualenvwrapper|https://pypi.python.org/pypi/virtualenvwrapper|<title>virtualenvwrapper ||:|4.7.1
+conda|https://github.com/conda/conda||https://pypi.python.org/pypi/conda/|<title>conda ||:|3.17.0
 
 ## python - repl
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.12
@@ -110,9 +115,10 @@ Bitnami rubystack (linux)|https://bitnami.com/stack/ruby/||https://bitnami.com/s
 Bitnami rubystack (windows)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="windows"|/bitnami-rubystack-|-windows-installer|2.0.0-29
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
+rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest
 
 # misc
-AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.3.0
+AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
 ColorPic|http://www.iconico.com/colorpic/||http://www.portablefreeware.com/index.php?id=1225|class="appName"|class="version">|<|v4.1
@@ -122,8 +128,7 @@ Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
 innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=files|http://innounp.sourceforge.net/|Version ||<br>|0.37
 Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files/kodos/|Looking for the latest version?|span>Download kodos-|-installer.exe|2.4.9
-LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.4 build 4566
-TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
+LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
 
 # trash
 WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
