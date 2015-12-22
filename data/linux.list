@@ -1,15 +1,24 @@
 # console
+ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
 grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
+glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
+sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.5.0
+
+
 midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.12
 |midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
-tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|http://sourceforge.net/projects/tmux/files/tmux/|<tbody>|title="tmux-|"|2.0
+ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
+
+tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|https://github.com/tmux/tmux/releases|>Latest release|class="css-truncate-target">|<|2.1
 tmux (ubuntu 12.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=precise|tmux|<td>|<|1.9a-1~ppa1~p
 tmux (ubuntu 14.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=trusty|tmux|<td>|<|2.0-1~ppa1~t
+
+drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.0.2
-ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.1
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.1.1
 zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.2.1
+
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
@@ -78,6 +87,7 @@ geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+p
 
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
+gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.18.0
 
 # sysadmin
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.5.1
@@ -85,12 +95,9 @@ webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.770
 
 
 # windows
-coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
-colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
-colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v7.1
-TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|alt="Download Now"|<p>Version |<p>|1.8
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.5
+TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|class="button blue|Ver |, Win|2.2
 TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
 TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc.berlios/files/|class="opt">Downloads|title="uwfx_sftp_|_base_bin.zip|1_3_60_12
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.1
@@ -104,5 +111,8 @@ PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager
 PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 
 
-# misc 
+# obsolete
 madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/files/latest/download?source=files|http://sourceforge.net/projects/madedit/files/MadEdit/|Parent folder|title="MadEdit-|"|0.2.9
+coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
+colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
+colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
