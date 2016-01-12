@@ -92,14 +92,14 @@ gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/
 # sysadmin
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.5.1
 webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.770
-
+monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version
 
 # windows
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
 MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.5
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|class="button blue|Ver |, Win|2.2
-TC wfx: sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
-TC wfx: SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc.berlios/files/|class="opt">Downloads|title="uwfx_sftp_|_base_bin.zip|1_3_60_12
+TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_6
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.1
 
 ## putty

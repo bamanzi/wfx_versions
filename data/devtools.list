@@ -26,6 +26,25 @@ PlantUML||http://sourceforge.net/projects/plantuml/files/plantuml.jar/download|h
 Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/releases|>Latest release<|class="css-truncate-target">|<|v2.0.14
 yEd Graph Editor|http://www.yworks.com/products/yed||http://www.yworks.com/downloads#yEd|tbl_dlgreen_t">yEd Graph Editor|tbl_dlgreen_v"><span>|<|3.14.4
 
+# editors
+SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|h2>SynWrite Editor ||<|6.18.2105
+geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
+geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
+Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
+Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
+
+FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
+MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.2.0
+JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
+
+# regexp
+Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
+Regular Expression Tester(firefox)|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.11
+Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files/kodos/|Looking for the latest version?|span>Download kodos-|-installer.exe|2.4.9
+
+# scm
+TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
+
 # win32 programming
 Dependency Walker|http://www.dependencywalker.com/|<strong>|Dependency Walker |<|2.2
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.5.9
@@ -49,15 +68,11 @@ AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/ind
 AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
 wscript doc (script56.chm)|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
 
-# editors
-SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|h2>SynWrite Editor ||<|6.18.2105
-geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
-geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
-Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
-FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
-JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
-MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.2.0
-Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
+# misc
+AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
+BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
+LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
+innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=files|http://innounp.sourceforge.net/|Version ||<br>|0.37
 
 # komodo
 Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|9.2.0
@@ -71,8 +86,6 @@ haml syntax highlighting|http://community.activestate.com/node/9903|Current Vers
 koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|Latest release|css-truncate-target">|<|0.12
 markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|Latest release|css-truncate-target">|<|0.3
 
-# scm
-TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
 
 # java
 Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5
@@ -131,13 +144,6 @@ Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/s
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest
 
-# misc
-AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
-BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
-Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
-innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=files|http://innounp.sourceforge.net/|Version ||<br>|0.37
-Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files/kodos/|Looking for the latest version?|span>Download kodos-|-installer.exe|2.4.9
-LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
 
 # trash
 WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
