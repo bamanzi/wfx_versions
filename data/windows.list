@@ -1,25 +1,25 @@
 ## archiver
-Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.04
-7-Zip||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|<B>Download|7-Zip | (|9.20
+Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.10
+7-Zip||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|<B>Download|7-Zip | (|15.14
 7-Zip (beta)||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|64-bit x64|Download 7-Zip |for Windows|15.06 beta (2015-08-09)
 7-Zip (e7z)|http://www.e7z.org/|http://www.e7z.org/easy7zip_x86_x64.exe|http://www.e7z.org/free-download.htm|>Version<|#EEEEEE">|<|0.1.5
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
 
 ## clipboard
-ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v4.18
+ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v5.07
 Ditto|http://www.portablefreeware.com/index.php?id=1361||http://www.portablefreeware.com/index.php?id=1361|"appName"|"version">|<|v3.20.74.0
 
 ## console
 ConsoleZ|https://github.com/cbucher/console/releases||https://github.com/cbucher/console/wiki/Downloads|Latest release|css-truncate-target">|<|1.14.0
-ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|140505
-clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.4
+ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|150813f
+clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.7
 
 ## editor
 SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.6.1
 Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.6
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html||http://totalcmd.net/download.php?id=SynWriteLite|h2>SynWrite Lite ||<|6.1.185
-madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.6
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.0_X86
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 
 ## editor - html
@@ -29,18 +29,18 @@ BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|http://kompozer.net/download.php||Latest development version:|(|0.8b3
 
 ## file comparer
-DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.1.0
+DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.2
 ExamDiff|http://www.prestosoft.com/edp_examdiff.asp|The current released version is|">|</a|1.9
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.98
 diff-ext|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|Windows: |diff-ext-|.zip|1.9.2
 
 
 ## filemanager
-xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|Latest Release|>v|<|3.0.0.4 (1 June 2015)
-XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v15.20.0300
+xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|Latest Release|>v|<|3.1.0.1 (17 January 2016)
+XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v16.10.0200
 FreeCommanderXE||http://freecommander.com/downloads/FreeCommanderXE-32-public_portable.zip|http://freecommander.com/en/downloads/|a title="FreeCommander XE ||32-bit public|2015 Build 685
-Far Manager (stable)|http://farmanager.com/download.php?l=en|Stable builds|files/Far|.7z|30b4242.x86.20150117
-Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.6.1 beta
+Far Manager (stable)|http://farmanager.com/download.php?l=en|Stable builds|files/Far|.7z|30b4510.x86.20160115
+Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.6.6 beta
 
 ## filesystem - copier
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
@@ -50,11 +50,11 @@ SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/down
 ## filesystem - search
 Everything|http://www.portablefreeware.com/index.php?id=1479||http://www.portablefreeware.com/index.php?id=1479|"appName"|"version">|<|v1.3.4.686
 locate32|http://sourceforge.net/projects/locate32/||http://sourceforge.net/projects/locate32/|locate32/files/latest/download|Download /locate32-|.zip|3.1.11.7100
-Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.1.0.15039
+Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.4.1.15248
 DocFetcher|http://www.portablefreeware.com/index.php?id=2660||http://www.portablefreeware.com/index.php?id=2660|"appName"|"version">|<|v1.1.16
 
 ## filesystem - disk usage
-TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v2.7
+TreeSize Free|http://www.jam-software.com/freeware/index.shtml|http://www.portablefreeware.com/download.php?dd=36|http://www.portablefreeware.com/index.php?id=36|class="appName">TreeSize Free|class="version">|</span>|v3.4.4
 WizTree|http://www.portablefreeware.com/index.php?id=2360||http://www.portablefreeware.com/index.php?id=2360|"appName"|"version">|<|v1.07
 WinDirStat|http://windirstat.info/||http://windirstat.info/download.html|>Latest version: ||<|1.1.2
 Folder Size|http://foldersize.sourceforge.net/changelog.html|<h1>Folder Size Changelog</h1>|<h3>Version |</h3>|2.5
@@ -76,7 +76,7 @@ Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/
 ## notes
 KeyNote NF|https://github.com/dpradov/keynote-nf/releases|>Latest release<|"css-truncate-target">Release-|<|1.7.9_Beta_4
 ResophNotes|http://www.resoph.com/ResophNotes/Welcome.html|http://www.portablefreeware.com/download.php?dd=1951|http://www.portablefreeware.com/index.php?id=1951|class="appName"|class="version">|<|v1.5.7
-CintaNotes|http://cintanotes.com/|http://www.portablefreeware.com/download.php?dd=1468|http://www.portablefreeware.com/index.php?id=1468|class="appName"|class="version">|<|v3.0
+CintaNotes|http://cintanotes.com/|http://www.portablefreeware.com/download.php?dd=1468|http://www.portablefreeware.com/index.php?id=1468|class="appName"|class="version">|<|v3.1
 evernote 3.1|http://filehippo.com/zh/download_evernote/history/10/||http://filehippo.com/zh/download_evernote/6461/|og:title" content="Evernote ||"|3.1.0.1225
 evernote portable|http://www.portablesoft.org/down/994/|div id="crumb"|/down/994/">Evernote |<|5.8.13.8152
 
@@ -100,7 +100,7 @@ Foxit Reader Portable|http://portableapps.com/apps/office/foxit_reader_portable|
 PDF Creator||http://sourceforge.net/projects/pdfcreator/files/PDFCreator/PDFCreator-[%0A]_setup.exe/download|http://www.pdfforge.org/|download_note">Download PDFCreator ||</span>|1.6.1
 PDF-XChange Viewer||http://www.docu-track.com/download/PDFX_Vwr_Port.zip|http://www.docu-track.com/product/pdf-xchange-viewer|Current Version:|>|<|2.5.207
 pdftk builder||http://angusj.com/pdftkb/pdftkb_setup.exe|http://angusj.com/pdftkb/|a name="pdftkbuilder"|Version |<|3.9.4
-Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v3.0
+Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-[%0A].zip|http://www.portablefreeware.com/index.php?id=1193|class="appName">|class="version">|</span>|v3.1.1
 
 ## remote/pair desktop
 Input Director|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|Beta Version|<b>|<|v1.3 build 101
@@ -119,7 +119,6 @@ MiniTool Partition Wizard (Free Edition)|http://minitool.com/partition-manager/p
 
 ## shell
 FileMenu Tools|http://www.lopesoft.com/en/filemenutools/changelog|>Changelog<|<h2>|</h2>|v6.6
-Open++||http://www.portablefreeware.com/download.php?dd=2084|http://www.portablefreeware.com/index.php?id=2084|class="appName"|class="version">|<|v1.5.1
 ShellExView||http://www.nirsoft.net/utils/shexview.zip|http://www.nirsoft.net/utils/shexview.html|class="utilcaption"|<td>ShellExView| -|v1.97
 
 ## system cleaner
@@ -152,7 +151,7 @@ HTTrack|http://www.httrack.com/||http://www.httrack.com/page/2/en/index.html|h2>
 
 ## window management
 WinSplit Revolution|http://www.portablefreeware.com/index.php?id=1620|class="appName">|class="version">|<|v11.04
--AquaSnap|http://www.portablefreeware.com/index.php?id=1964|class="appName"|class="version">v|<|1.12.3
+-AquaSnap|http://www.portablefreeware.com/index.php?id=1964|class="appName"|class="version">v|<|1.16.2
 -DisplayFusion|http://www.displayfusion.com/||https://www.displayfusion.com/ChangeLog/|>DisplayFusion Change Log|<h2>|<|v7.3 &bull; September 14, 2015
 Dual Monitor Taskbar|http://sourceforge.net/projects/dualmonitortb/||http://sourceforge.net/projects/dualmonitortb/files/Releases/|span>Parent folder|<tr title="v0|"|1.22.021813
 VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
@@ -187,19 +186,19 @@ TC wcx 7zip|http://www.totalcmd.net/plugring/7zip_plugin.html|http://www.totalcm
 TC wcx CHMDir|http://totalcmd.net/plugring/chmdir.html|h2>CHMDir ||<|0.41-alpha
 TC wcx MhtUnPack |http://totalcmd.net/plugring/MhtUnPack.html|h2>MhtUnPack ||<|2.0
 TC wcx Total7zip||http://www.totalcmd.net/download.php?id=Total7zip|http://www.totalcmd.net/plugring/Total7zip.html|<h2>Total7zip ||</h2>|0.8.5.6
-TC wcx TotalObserver||http://www.totalcmd.net/download.php?id=totalobserver|http://totalcmd.net/plugring/totalobserver.html|<h2>TotalObserver||</h2>|1.0.0
-TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|button blue downloadprod|>Version |<|1.9.3
+TC wcx TotalObserver||http://www.totalcmd.net/download.php?id=totalobserver|http://totalcmd.net/plugring/totalobserver.html|<h1>TotalObserver||</h1>|1.2.0
+TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|button blue downloadprod|>Version |<|2.2
 TC wfx ext4tc|http://sourceforge.net/projects/ext4tc/files/ext4Plugin/|span>Parent folder|<tr title="ext4Plugin-|"|0.17
 TC wfx procviewer|http://totalcmd.net/plugring/procview.html|<h2>procViewer ||<|1.5.1 beta
-TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.6.0
+TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.7.0
 TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
-TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_6
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_8
 TC wfx Uninstaller64||http://www.totalcmd.net/download.php?id=uninstaller64|http://www.totalcmd.net/plugring/uninstaller64.html|<h2>Uninstaller64||</h2>|1.0.1
 TC wfx Uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|http://www.totalcmd.net/download.php?id=uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|<h2>Uninstaller ||</h2>|1.8.1
 TC wfx Virtual Disk|http://www.totalcmd.net/plugring/virtdisk.html|http://www.totalcmd.net/download.php?id=virtdisk|http://www.totalcmd.net/directory/fsplugin.html|/virtdisk|&nbsp;|<|1.3.3 Final
 TC wlx decMaffWLX|http://totalcmd.net/plugring/MaffWlx.html|h2>decMaffWLX ||<|2015.03.21
 TC wlx tLister||http://www.totalcmd.net/download.php?id=tlister|http://www.totalcmd.net/plugring/tlister.html|<b>tLister ||<|1.2.0
-TC wlx File Info|http://www.totalcmd.net/plugring/fileinfo.html|http://www.totalcmd.net/download.php?id=fileinfo|http://www.totalcmd.net/directory/lister.html|/fileinfo|&nbsp;|<|2.21
+TC wlx File Info|http://www.totalcmd.net/plugring/fileinfo.html|http://www.totalcmd.net/download.php?id=fileinfo|http://www.totalcmd.net/directory/lister.html|/fileinfo|&nbsp;|<|2.22
 TC wlx TotalHLT (highlight)||http://www.totalcmd.net/download.php?id=hlight|http://www.totalcmd.net/plugring/hlight.html|<h2>TotalHLT ||</h2>|1.7.0.160
 
 
@@ -219,21 +218,24 @@ kill (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-
 
 --- cross-platform ---
 DiskInternals Linux Reader||http://www.diskinternals.com/download/Linux_Reader.exe|http://www.diskinternals.com/download/|class=dp_name>Linux Reader||<|2.3
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.1
-MobaXterm mercurial plugin||http://www.bananahut.net/software/mobaxterm-plugins/Mercurial.mxt3?attredirects=0&d=1|http://www.bananahut.net/software/mobaxterm-plugins|Mercurial.mxt3|span dir="ltr">|</|Feb 20, 2014, 7:14 PM
 VcXsrv|http://sourceforge.net/projects/vcxsrv/files/vcxsrv|<tbody>|<tr title="|"|1.15.0.2
 VirtualBox|https://www.virtualbox.org/wiki/Downloads|for Windows hosts</strong>|/VirtualBox-|-Win.exe|5.0.6-103037 
 
---- gnu utils
+--- cygwin/msys ---
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.6
+MobaXterm mercurial plugin||http://www.bananahut.net/software/mobaxterm-plugins/Mercurial.mxt3?attredirects=0&d=1|http://www.bananahut.net/software/mobaxterm-plugins|Mercurial.mxt3|span dir="ltr">|</|Feb 20, 2014, 7:14 PM
 MYS Base|http://sourceforge.net/projects/mingw/files/MSYS/Base/|<tbody>|abbr title="|"|2014-10-19 20:45:35 UTC
 MSYS Extensions|http://sourceforge.net/projects/mingw/files/MSYS/Extension/|<tbody>|abbr title="|"|2015-07-03 19:11:34 UTC
 MSYS Contributed|http://sourceforge.net/projects/mingw/files/MSYS/Contributed/|<tbody>|abbr title="|"|2011-11-27 14:54:08 UTC
+mintty|https://github.com/mintty/mintty/releases|class=%22release-timeline%22|class=%22css-truncate-target%22%3E|%3C|2.2.2
+winpty|https://github.com/rprichard/winpty/releases|class=%22release-timeline%22|class=%22css-truncate-target%22%3E|%3C|0.2.1
+
+--- gnu utils
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|Gow release.|a>|<|0.8.0 (2014-02-15)
 busybox-w32|https://github.com/rmyorston/busybox-w32|ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|https://github.com/rmyorston/busybox-w32/releases|data-selected-links="repo_releases|datetime="|"|2015-05-18T08:57:50Z
 
 --- SSH
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.7.5
-FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.13.1
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
 putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.65
 kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-kitty/download/|http://www.filehorse.com/download-kitty/|Latest Version:|KiTTY |<|0.65.0.1
@@ -243,7 +245,7 @@ PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager
 SuperPuTTY|https://github.com/jimradford/superputty/releases|>Latest release<|class="css-truncate-target">|<|1.4.0.8
 dockany|https://github.com/dokan-dev/dokany/releases|Latest release|css-truncate-target">|<|v0.7.4
 win-sshfs|https://github.com/dimov-cz/win-sshfs/releases|Latest release|css-truncate-target">|<|1.5.12.8
-Xshell|https://www.netsarang.com/products/xsh_overview.html||https://www.netsarang.com/products/xsh_update.html|h1>Update|h4">Xshell|<|5 Build 0788, Oct 08, 2015
+Xshell|https://www.netsarang.com/products/xsh_overview.html||https://www.netsarang.com/products/xsh_update.html|h1>Update|h4">Xshell|<|5 Build 0858, Jan 07, 2016
 xshell portable|http://www.portablesoft.org/down/1985/|div id="crumb"|/down/1985/">Xshell |<|5 Build 0446 (5.0.0446)
 
 --- deprecated ---

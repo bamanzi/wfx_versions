@@ -10,7 +10,7 @@ Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/goo
 Dict (+sm)|http://www.filewatcher.com/_/?q=dict-0.8+xpi|ftp://ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/302/dict-0.8.1-sm+fx+tb.xpi|https://addons.mozilla.org/en-US/firefox/addon/dict|version item|id="version-|"|0.8.2
 eDictionary (fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/edictionary|https://addons.mozilla.org/downloads/latest/edictionary|https://addons.mozilla.org/en-US/firefox/addon/edictionary|version item|id="version-|"|0.3
 Fast Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/10907/addon-10907-latest.xpi?src=ss|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|itemprop="name">Fast Translation|itemprop="version">|<|1.11.3
-gTranslate (fx24/31=> 0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|https://addons.mozilla.org/downloads/latest/gtranslate|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|version item|id="version-|"|0.13.0
+gTranslate (fx24/31/sm=> 0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|https://addons.mozilla.org/downloads/latest/gtranslate|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|version item|id="version-|"|0.13.0
 
 ### download
 Save Link to Folder|http://www.filewatcher.com/_/?q=save_link_in_folder-1.5+xpi|ftp://ftp.kr.vim.org/pub/ftp.mozilla.org/addons/613/save_link_in_folder-1.5.12-fx.xpi|https://addons.mozilla.org/en-US/firefox/addon/save-link-in-folder|version item|id="version-|"|1.5.17
@@ -44,9 +44,9 @@ SourceEditor|http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org
 
 ### search
 Add to Search Bar(fx17/24=>2.0, fx31=>2.7)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/3682-0.html||https://addons.mozilla.org/en-US/firefox/addon/add-to-search-bar/?src=search|section class="primary"|class="version-number" itemprop="version">|<|2.8
-Context Search X|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/337150-0.html|https://addons.mozilla.org/firefox/downloads/latest/337150/addon-337150-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/context-search-x/?src=search|section class="primary"|class="version-number" itemprop="version">|<|0.4.6.26
-+Organize Search Engines|https://addons.mozilla.org/en-US/firefox/addon/organize-search-engines/?src=search|section class="primary"|class="version-number" itemprop="version">|<|1.7
-+!bang selection|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/483087-0.html||https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3
++Context Search X|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/337150-0.html|https://addons.mozilla.org/firefox/downloads/latest/337150/addon-337150-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/context-search-x/?src=search|section class="primary"|class="version-number" itemprop="version">|<|0.4.6.26
+Organize Search Engines|https://addons.mozilla.org/en-US/firefox/addon/organize-search-engines/?src=search|section class="primary"|class="version-number" itemprop="version">|<|1.7
+!bang selection|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/483087-0.html||https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3
 
 ### tabs & sessions
 ColorfulTabs (+sm)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|https://addons.mozilla.org/downloads/latest/colorfultabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|version item|id="version-|"|29.7
@@ -60,6 +60,7 @@ Session Manager (fx24/31=>0.8.1.7, +sm)|http://www.filewatcher.com/b/ftp/ftp.kr.
 PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||http://www.palemoon.org/tabgroups.shtml|<center>|palemoon-tabgroups-|.xpi|0.2
 
 ### ui
+OmniSidebar (fx24/31=>1.4.7)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/296534-0.html|https://addons.mozilla.org/firefox/downloads/latest/296534/addon-296534-latest|https://addons.mozilla.org/firefox/addon/omnisidebar|version item|id="version-|"|1.6.9
 All-in-one Sidebar (fx24=>0.7.20, fx31=>0.7.23)|https://addons.mozilla.org/firefox/addon/all-in-one-sidebar|https://addons.mozilla.org/downloads/latest/all-in-one-sidebar|https://addons.mozilla.org/firefox/addon/all-in-one-sidebar/versions|version item|id="version-|"|0.7.28
 Color Toggle|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/9408-0.html|https://addons.mozilla.org/downloads/latest/color-toggle|https://addons.mozilla.org/en-US/firefox/addon/color-toggle|version item|id="version-|"|0.16
 Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|https://addons.mozilla.org/downloads/latest/blank-your-monitor-easy-readin|https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|version item|id="version-|"|1.9.13
@@ -138,4 +139,5 @@ Quote Colors (+sm)|https://addons.mozilla.org/en-US/thunderbird/addon/quote-colo
 Remove Duplicate Messages (Alternate)|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages-alte|https://addons.mozilla.org/downloads/latest/remove-duplicate-messages-alte|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages-alte|version item|id="version-|"|0.3.12
 Remove Duplicate Messages|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages|https://addons.mozilla.org/downloads/latest/remove-duplicate-messages|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages|version item|id="version-|"|0.1.14
 Thunderbird Conversations|https://addons.mozilla.org/en-US/thunderbird/addon/gmail-conversation-view|https://addons.mozilla.org/downloads/latest/gmail-conversation-view|https://addons.mozilla.org/en-US/thunderbird/addon/gmail-conversation-view|version item|id="version-|"|2.10.2
+*Tag Dialog|https://addons.mozilla.org/en-US/thunderbird/addon/tag-dialog|ftp://ftp.linux.org.tr/mozilla/addons/4984/tag_dialog-1.0.7-tb.xpi|http://www.filewatcher.com/_/?q=tag-dialog-1.0+xpi|version item|id="version-|"|content error (@start)
 XNote++ (+sm)|https://addons.mozilla.org/en-US/thunderbird/addon/xnotepp|https://addons.mozilla.org/downloads/latest/xnotepp|https://addons.mozilla.org/en-US/thunderbird/addon/xnotepp|version item|id="version-|"|2.2.9

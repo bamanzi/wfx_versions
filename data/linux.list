@@ -2,10 +2,10 @@
 ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
 grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
 glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
-sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.5.0
+sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.6.0
 
 
-midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.12
+midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest released|Current version is: |;|4.8.15
 |midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
 ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
 
@@ -14,11 +14,11 @@ tmux (ubuntu 12.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.seri
 tmux (ubuntu 14.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=trusty|tmux|<td>|<|2.0-1~ppa1~t
 
 drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
-tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.0.2
+tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.1.1
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.1
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.1.1
 zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.2.1
-
+fzf|https://github.com/junegunn/fzf/releases|class=%22release-timeline%22|class=%22tag-name%22%3E|%3C|0.11.2
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
@@ -35,12 +35,13 @@ PeaZip||https://github.com/giorgiotani/PeaZip/releases/|https://github.com/giorg
 xarchiver|http://xarchiver.sourceforge.net|https://sourceforge.net/projects/xarchiver/files/latest/download|http://xarchiver.sourceforge.net/download.html|latest stable ||release|0.5.4
 
 ## clipboard
+Glipper|https://launchpad.net/glipper|div class="version"|Latest version is |<|2.4
 Parcellite|http://parcellite.sourceforge.net/||http://sourceforge.net/projects/parcellite/files/parcellite/|<tbody|<tr title="parcellite-|"|1.1.9
 CopyQ|http://hluk.github.io/CopyQ/||https://github.com/hluk/CopyQ/releases|>Latest release<|css-truncate-target">|<|0.0.0
 
 ## editor
-cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|#40b040>version|<|0.9.5
-madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.3.1
+cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|#40b040>version|<|1.2.16.0
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.0_X86
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
 
 ## editor - html
@@ -48,9 +49,9 @@ BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 
 ## file compare
-meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.14.0 - 23 Jul 2015
+meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.15.1 - 15 Dec 2015
 meld (1.8.x)|https://git.gnome.org/browse/meld/log/?h=meld-1-8|class='tag-deco'|>|<|1.8.2
-DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.7
+DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.8
 diff-ext (thunar)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Thunar extension)|xdiff-ext-|.tar|0.2.0
 diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Nautilus extension)|gdiff-ext-|.tar|0.3.2
 
@@ -61,19 +62,20 @@ thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/
 ## graphics
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
 pinta|http://pinta-project.com/|Current Version: ||<|1.6
+shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shotwell/tree/NEWS|class='lines'|Shotwell|--|0.22.0 - 23 March 2015
 
 ## network
 Claws Mail|http://www.claws-mail.org/||http://www.claws-mail.org/|Latest Release:|releases.php'>|<|3.13.0
 Dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukto|-Portable|R6
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
-Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|>Latest
+Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.10.17
 PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|25.7.3
 
 ## notes
 CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
-Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.60
+Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 
 ## misc
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
@@ -93,6 +95,7 @@ gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.5.1
 webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.770
 monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version
+fabric|http://fabfile.org/||https://github.com/fabric/fabric/releases|class=%22release-timeline%22|class=%22tag-name%22%3E|%3C|1.10.2
 
 # windows
 FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
