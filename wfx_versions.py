@@ -14,6 +14,13 @@ CL_GREEN = "\033[32m"
 # or
 #   name|url_check|anchor_str|before_str|after_str|version
 
+# reverse spec
+#   |name|url_home|url_download|url_check|anchor_str|before_str|after_str|version
+# 1. search backward for anchor_str
+# 2. continue search backward for after_str (result=>pos_end)
+# 3. continue search backward for before_str (result=>pos_start)
+# 4. slice content between pos_start:pos_end
+
 def print_error(msg):
     print CL_RED + msg + CL_RESET
     
@@ -25,7 +32,12 @@ def check_version(line):
             print "%s %s %s" % (CL_BOLD, line, CL_RESET)
         return
 
-    s_name = parts[0]
+    if line[0]=='|':
+        b_reverse = True
+        s_name = parts[1]
+    else:
+        b_reverse = False
+        s_name = parts[0]
     s_url_home = parts[1] if len(parts)>7 else ""
     s_url_download = parts[2] if len(parts)>7 else ""
     
@@ -49,39 +61,73 @@ def check_version(line):
         print_error("empty @after." )
         return
 
+    #print("reading %s" % s_url_check)
     o = urllib.urlopen(s_url_check)
     content = o.read()
-    if s_anchor<>'':
-        pos = content.find(s_anchor)
-        if pos > 0:
-            content = content[pos+len(s_anchor):]
-        else:
-            print_error("@start: '%s' not found" % (s_anchor) )
-            return
 
-    if s_before<>'':
-        pos = content.find(s_before)
+    if not b_reverse:
+        #import pdbpp
+        #pdbpp.set_trace()
+        if s_anchor<>'':
+            pos = content.find(s_anchor)
+            if pos > 0:
+                content = content[pos+len(s_anchor):]
+            else:
+                print_error("@anchor: '%s' not found" % (s_anchor) )
+                return
+        
+        if s_before<>'':
+            pos = content.find(s_before)
+            if pos > 0:
+                content = content[pos+len(s_before):]
+            else:
+                print_error("@before: '%s' not found" % (s_before) )
+                return
+
+        pos = content.find(s_after)
         if pos > 0:
-            content = content[pos+len(s_before):]
+            content = content[:pos].strip()
+            if content != s_version:
+                content = CL_GREEN + content + CL_RESET
+            print "%20s => %s" % (s_version, content)
+        else:
+            print_error("@after: '%s' not found" % (s_after) )
+            return
+    else:
+        if s_anchor<>'':
+            pos = content.rfind(s_anchor)
+            if pos > 0:
+                content = content[0:pos]
+            else:
+                print_error("@anchor: '%s' not found" % (s_anchor) )
+                return
+        
+        if s_after<>'':
+            pos = content.rfind(s_after)
+            if pos > 0:
+                content = content[0:pos]
+            else:
+                print_error("@after: '%s' not found" % (s_after) )
+                return
+
+        pos = content.rfind(s_before)
+        if pos > 0:
+            content = content[pos+len(s_before):].strip()
+            if content != s_version:
+                content = CL_GREEN + content + CL_RESET
+            print "%20s => %s" % (s_version, content)
         else:
             print_error("@before: '%s' not found" % (s_before) )
             return
-
-    pos = content.find(s_after)
-    if pos > 0:
-        content = content[:pos].strip()
-        if content != s_version:
-            content = CL_GREEN + content + CL_RESET
-        print "%20s => %s" % (s_version, content)
-    else:
-        print_error("@after: '%s' not found" % (s_after) )
-        return
-            
+        
 
 
 if __name__ == "__main__":
     #line="""!bang selection|https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3"""
-    #check_version(line)        
+    #line="""|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30"""
+    #check_version(line)
+
+    print "%s %s %s" % (CL_BOLD, "checking list in temp.list", CL_RESET)
     for line in file("temp.list"):
         try:
             check_version(line)
