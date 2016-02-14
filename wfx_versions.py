@@ -20,7 +20,10 @@ def print_error(msg):
 def check_version(line):
     parts=line.split('|')
 
-    if len(parts)<=5: return
+    if len(parts)<=5:
+        if line[0]=="#":
+            print "%s %s %s" % (CL_BOLD, line, CL_RESET)
+        return
 
     s_name = parts[0]
     s_url_home = parts[1] if len(parts)>7 else ""
@@ -32,7 +35,7 @@ def check_version(line):
     s_after   = parts[-2]
     s_version = parts[-1].strip()
 
-    print "%s %30s %s..." % (CL_BOLD, s_name, CL_RESET) ,
+    print "%s %30s %s..." % (CL_BLUE, s_name, CL_RESET) ,
     sys.stdout.flush()
     if s_url_check.strip() == "":
         print_error("@url_check is empty.")
