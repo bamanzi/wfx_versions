@@ -17,46 +17,46 @@ drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.1.1
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.1
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.1.1
-zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.2.1
-fzf|https://github.com/junegunn/fzf/releases|class=%22release-timeline%22|class=%22tag-name%22%3E|%3C|0.11.2
+zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.4.1
+fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.11.2
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
 nautilus-pyextensions|http://www.giuspen.com/nautilus-pyextensions/|source code|>nautilus-pyextensions-|.tar|3.4.1
-Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|1.5.0
+Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|1.5.2
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
 Synapse|https://launchpad.net/synapse-project|class="version"|Latest version is |<|0.2.99.1
-Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-target">|<|0.8.0
+Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-target">|<|0.8.4
 
 
 # desktop apps
 ## archiver
-PeaZip||https://github.com/giorgiotani/PeaZip/releases/|https://github.com/giorgiotani/PeaZip/releases/|Latest release|css-truncate-target">|<|5.7.1
+PeaZip||https://github.com/giorgiotani/PeaZip/releases/|https://github.com/giorgiotani/PeaZip/releases/|Latest release|css-truncate-target">|<|5.9.1
 xarchiver|http://xarchiver.sourceforge.net|https://sourceforge.net/projects/xarchiver/files/latest/download|http://xarchiver.sourceforge.net/download.html|latest stable ||release|0.5.4
 
 ## clipboard
 Glipper|https://launchpad.net/glipper|div class="version"|Latest version is |<|2.4
 Parcellite|http://parcellite.sourceforge.net/||http://sourceforge.net/projects/parcellite/files/parcellite/|<tbody|<tr title="parcellite-|"|1.1.9
-CopyQ|http://hluk.github.io/CopyQ/||https://github.com/hluk/CopyQ/releases|>Latest release<|css-truncate-target">|<|0.0.0
+CopyQ|http://hluk.github.io/CopyQ/||https://github.com/hluk/CopyQ/releases|>Latest release<|css-truncate-target">|<|v2.6.0
 
 ## editor
 cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|#40b040>version|<|1.2.16.0
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.0_X86
-wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0
+wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0.2
 
 ## editor - html
-BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.7.2 "Cla-de-Lue" 19-jun-2013
+BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.8 "Dolomites" 13-oct-2015
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 
 ## file compare
 meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.15.1 - 15 Dec 2015
-meld (1.8.x)|https://git.gnome.org/browse/meld/log/?h=meld-1-8|class='tag-deco'|>|<|1.8.2
+meld (1.8.x)|https://git.gnome.org/browse/meld/log/?h=meld-1-8|class='tag-deco'|>|<|1.8.6
 DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.8
 diff-ext (thunar)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Thunar extension)|xdiff-ext-|.tar|0.2.0
 diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Nautilus extension)|gdiff-ext-|.tar|0.3.2
 
 ## file manager
-Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.5.gtk2.i386
+Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.6.gtk2.i386
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
 
 ## graphics
@@ -66,51 +66,53 @@ shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shot
 
 ## network
 Claws Mail|http://www.claws-mail.org/||http://www.claws-mail.org/|Latest Release:|releases.php'>|<|3.13.0
+iptux|https://github.com/iptux-src/iptux||https://github.com/iptux-src/iptux/releases|"release-timeline"|class="tag-name">|<|v0.6.3
 Dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukto|-Portable|R6
-FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.7.3
-FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.0
-Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.10.17
-PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|25.7.3
+FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.15.0.2
+FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|7.9
+Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.11.7
+PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|26.0.3
+|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
 
 ## notes
-CherryTree|http://www.giuspen.com/cherrytree/|source code : |cherrytree-|.tar|0.26.
-everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.5.6-0
+CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.36.4
+everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 
 ## misc
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|0.4.3 (2010-03-07)
-Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.03
+Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.04
 wine ppa (ubuntu 12.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=precise|wine1.7|1:|</td|1.7.18-0ubuntu1
-wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.7|1:|</|1.7.50-0ubuntu1
+wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.7|1:|</|1.7.55-0ubuntu1
 
 # desktop apps - development
-geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.25
-geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.25
+geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.26
+geany ppa|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|geany - ||+dfsg|1.26
 
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
-TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.10.1
-gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.18.0
+TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|3.7.1
+gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.19.6
 
 # sysadmin
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.5.1
-webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.770
-monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version
-fabric|http://fabfile.org/||https://github.com/fabric/fabric/releases|class=%22release-timeline%22|class=%22tag-name%22%3E|%3C|1.10.2
+webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.780
+monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version |<|5.16
+fabric|http://fabfile.org/||https://github.com/fabric/fabric/releases|class="release-timeline"|class="tag-name">|<|1.10.2
 
 # windows
-FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.2.6
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.5
+FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://www.freesshd.com/?ctt=download|>freeSSHd.exe<|">&nbsp;|</td>|1.3.1
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v8.6
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|class="button blue|Ver |, Win|2.2
-TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.1
-TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_6
-WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.5.1
+TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.2
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_8
+WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.7.6
 
 ## putty
-Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
-putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd3.1
-kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-putty/|Latest version:|KiTTY |<|0.63.0.5
+Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.66
+putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd3.2
+kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-kitty/|Latest version:|KiTTY |<|0.66.6.2
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
-PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.35.0.75 Beta
+PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
 PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
 
 

@@ -42,33 +42,33 @@ JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portab
 ## notepad++
 Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
  
-Autosave|||https://sourceforge.net/projects/npp-plugins/files/Autosave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
+AutoSave|||https://sourceforge.net/projects/npp-plugins/files/AutoSave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
 Autosave2|http://www.scout-soft.com/autosave/|http://www.scout-soft.com/autosave/autosave2.dll|http://www.scout-soft.com/autosave/|>Current Version|MsoNormal">|<|1.0
-Compare|https://sourceforge.net/projects/npp-compare/||https://sourceforge.net/projects/npp-compare/files/|<tbody|<tr title="|"|1.5.6.0
-DSpellCheck|https://github.com/Predelnik/DSpellCheck||https://github.com/Predelnik/DSpellCheck/releases|>Latest release|css-truncate-target">|<|v1.2.14.2
+Compare|https://sourceforge.net/projects/npp-compare/||https://sourceforge.net/projects/npp-compare/files/|<tbody|<tr title="|"|1.5.6.2
+DSpellCheck|https://github.com/Predelnik/DSpellCheck||https://github.com/Predelnik/DSpellCheck/releases|>Latest release|css-truncate-target">|<|1.2.14.2
 Explorer|||https://sourceforge.net/projects/npp-plugins/files/Explorer/|<tbody|<tr title="Explorer Plugin |"|v1.8.2
 Function List|https://notepad-plus-plus.org/features/function-list.html||https://sourceforge.net/projects/npp-plugins/files/Function%20List/|<tbody|<tr title="FunctionList Plugin|"|v2.1
 Hex Editor|||https://sourceforge.net/projects/npp-plugins/files/Hex Editor/|<tbody|<tr title="Hex Editor Plugin |"|v0.9.5
 jn (scripting)|https://github.com/sieukrem/jn-npp-plugin/wiki||https://github.com/sieukrem/jn-npp-plugin/releases/|>Latest release|css-truncate-target">|<|2.1.181
-LanguageHelp (gfwed)|||https://sites.google.com/site/fstellari/nppplugins|abc|def|xyz|1v61
 NppExec|||https://sourceforge.net/projects/npp-plugins/files/NppExec/|<tbody|<tr title="NppExec Plugin |"|v0.5.3
 NppFTP|http://ashkulz.github.io/NppFTP/||https://github.com/ashkulz/NppFTP/releases|>Latest release|css-truncate-target">|<|v0.26.5
 NppGTags|https://sourceforge.net/projects/nppgtags/files/||https://sourceforge.net/projects/nppgtags/files/|<tbody|<tr title="|"|v4.0.0
 RegEx Helper|http://nppregexhelper.sourceforge.net/||https://sourceforge.net/projects/nppregexhelper/files/|<tbody|<tr title="|"|0.2.3
 SaveAsAdmin|http://sourceforge.net/projects/nppsaveasadmin||https://sourceforge.net/projects/nppsaveasadmin/files/|<tbody|<tr title="NppSaveAsAdmin_|.zip"|1.0.0.3
-
 TagsView|https://sourceforge.net/projects/tagsview||https://sourceforge.net/projects/tagsview/files/TagsView%20for%20Notepad%2B%2B/|<tbody|<tr title="TagsView_Npp_|.zip"|03beta
-TagsJump|https://sourceforge.net/projects/tagsjump||https://sourceforge.net/projects/tagsjump/files/|<tbody|<tr title="TagsJump_|.zip"|v1.1.4_release0924
+TagsJump|https://sourceforge.net/projects/tagsjump||https://sourceforge.net/projects/tagsjump/files/|<tbody|<tr title="TagsJump_bin|"|v1.1.4_release0924
 -TagLEET|https://sourceforge.net/projects/tagleet/||https://sourceforge.net/projects/tagleet/files/|<tbody|<tr title="|"|v1.1.0
-ToolBucket|https://github.com/phdesign/NppToolBucket||http://phdesign.com.au/npptoolbucket/|h2>Download<|>NppToolBucket-|.zip|1.7
--Translate (bing)|https://sourceforge.net/projects/npptranslate||https://sourceforge.net/projects/npptranslate/files/bin/|<tbody|<tr title="Translate_|.zip"|3.1.1.0
- 
+ToolBucket (dotnet)|https://github.com/phdesign/NppToolBucket||http://phdesign.com.au/npptoolbucket/|h2>Download<|>NppToolBucket-|.zip|1.7
+-Translate (dotnet))|https://sourceforge.net/projects/npptranslate||https://sourceforge.net/projects/npptranslate/files/bin/|<tbody|<tr title="Translate_|.zip"|3.1.1.0
+
 DBGP Plugin|||https://sourceforge.net/projects/npp-plugins/files/DBGP Plugin/|<tbody|<tr title="DBGP Plugin |"|v0.13 beta
-HTMLTag|||https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag Plugin |"|v0.50
+HTMLTag|||https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag plugin |"|v0.50
 JSONView|https://sourceforge.net/projects/nppjsonviewer/||https://sourceforge.net/projects/nppjsonviewer/files/JSONViewer%20Unicode/|.dll|<tr title="NPPJSONViewer|.zip"|1_21
 JSToolNpp|http://www.sunjw.us/jstoolnpp/||https://sourceforge.net/projects/jsminnpp/files/Uni/|<tbody|<tr title="JSToolNPP.|.uni.zip|1.17.2
-XML Tools|||https://sourceforge.net/projects/npp-plugins/files/XML Tools/|<tbody|<tr title="XML Tools |"|2.4.8 Unicode
-XPatherizerNPP (gfwed)|https://code.google.com/p/xpatherizernpp||http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central|id="XPatherizeNpp"|<dd> Version |(|2.10
+XML Tools|||https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/|<tbody|<tr title="Xml Tools |"|2.4.8 Unicode
+XPatherizerNPP (dotnet)|https://code.google.com/p/xpatherizernpp||http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central|id="XPatherizeNpp"|<dd> Version |(|2.10
+
+LanguageHelp (gfwed)|||https://sites.google.com/site/fstellari/nppplugins|abc|def|xyz|1v61
 
 # regexp
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
