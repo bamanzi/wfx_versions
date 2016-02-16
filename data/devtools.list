@@ -12,6 +12,9 @@ SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://w
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
 sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
+mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.5.2
+pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|0.20.1
+ 
 
 # colors
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
@@ -31,11 +34,41 @@ SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.24.1
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
 Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
-Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
 
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.2.0
 JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
+
+## notepad++
+Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
+ 
+Autosave|||https://sourceforge.net/projects/npp-plugins/files/Autosave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
+Autosave2|http://www.scout-soft.com/autosave/|http://www.scout-soft.com/autosave/autosave2.dll|http://www.scout-soft.com/autosave/|>Current Version|MsoNormal">|<|1.0
+Compare|https://sourceforge.net/projects/npp-compare/||https://sourceforge.net/projects/npp-compare/files/|<tbody|<tr title="|"|1.5.6.0
+DSpellCheck|https://github.com/Predelnik/DSpellCheck||https://github.com/Predelnik/DSpellCheck/releases|>Latest release|css-truncate-target">|<|v1.2.14.2
+Explorer|||https://sourceforge.net/projects/npp-plugins/files/Explorer/|<tbody|<tr title="Explorer Plugin |"|v1.8.2
+Function List|https://notepad-plus-plus.org/features/function-list.html||https://sourceforge.net/projects/npp-plugins/files/Function%20List/|<tbody|<tr title="FunctionList Plugin|"|v2.1
+Hex Editor|||https://sourceforge.net/projects/npp-plugins/files/Hex Editor/|<tbody|<tr title="Hex Editor Plugin |"|v0.9.5
+jn (scripting)|https://github.com/sieukrem/jn-npp-plugin/wiki||https://github.com/sieukrem/jn-npp-plugin/releases/|>Latest release|css-truncate-target">|<|2.1.181
+LanguageHelp (gfwed)|||https://sites.google.com/site/fstellari/nppplugins|abc|def|xyz|1v61
+NppExec|||https://sourceforge.net/projects/npp-plugins/files/NppExec/|<tbody|<tr title="NppExec Plugin |"|v0.5.3
+NppFTP|http://ashkulz.github.io/NppFTP/||https://github.com/ashkulz/NppFTP/releases|>Latest release|css-truncate-target">|<|v0.26.5
+NppGTags|https://sourceforge.net/projects/nppgtags/files/||https://sourceforge.net/projects/nppgtags/files/|<tbody|<tr title="|"|v4.0.0
+RegEx Helper|http://nppregexhelper.sourceforge.net/||https://sourceforge.net/projects/nppregexhelper/files/|<tbody|<tr title="|"|0.2.3
+SaveAsAdmin|http://sourceforge.net/projects/nppsaveasadmin||https://sourceforge.net/projects/nppsaveasadmin/files/|<tbody|<tr title="NppSaveAsAdmin_|.zip"|1.0.0.3
+
+TagsView|https://sourceforge.net/projects/tagsview||https://sourceforge.net/projects/tagsview/files/TagsView%20for%20Notepad%2B%2B/|<tbody|<tr title="TagsView_Npp_|.zip"|03beta
+TagsJump|https://sourceforge.net/projects/tagsjump||https://sourceforge.net/projects/tagsjump/files/|<tbody|<tr title="TagsJump_|.zip"|v1.1.4_release0924
+-TagLEET|https://sourceforge.net/projects/tagleet/||https://sourceforge.net/projects/tagleet/files/|<tbody|<tr title="|"|v1.1.0
+ToolBucket|https://github.com/phdesign/NppToolBucket||http://phdesign.com.au/npptoolbucket/|h2>Download<|>NppToolBucket-|.zip|1.7
+-Translate (bing)|https://sourceforge.net/projects/npptranslate||https://sourceforge.net/projects/npptranslate/files/bin/|<tbody|<tr title="Translate_|.zip"|3.1.1.0
+ 
+DBGP Plugin|||https://sourceforge.net/projects/npp-plugins/files/DBGP Plugin/|<tbody|<tr title="DBGP Plugin |"|v0.13 beta
+HTMLTag|||https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag Plugin |"|v0.50
+JSONView|https://sourceforge.net/projects/nppjsonviewer/||https://sourceforge.net/projects/nppjsonviewer/files/JSONViewer%20Unicode/|.dll|<tr title="NPPJSONViewer|.zip"|1_21
+JSToolNpp|http://www.sunjw.us/jstoolnpp/||https://sourceforge.net/projects/jsminnpp/files/Uni/|<tbody|<tr title="JSToolNPP.|.uni.zip|1.17.2
+XML Tools|||https://sourceforge.net/projects/npp-plugins/files/XML Tools/|<tbody|<tr title="XML Tools |"|2.4.8 Unicode
+XPatherizerNPP (gfwed)|https://code.google.com/p/xpatherizernpp||http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central|id="XPatherizeNpp"|<dd> Version |(|2.10
 
 # regexp
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
@@ -58,6 +91,7 @@ TraceSpy|http://tracespy.codeplex.com/||http://tracespy.codeplex.com/releases|di
 Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
 
 winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
+WinSpy (thomas stutz)|http://www.tech-ecke.de/index_quereinstieg.htm?/delphi/maus-und_tastendruck_simulieren.htm|http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
 WindowDetective|http://windowdetective.sourceforge.net/||http://sourceforge.net/projects/windowdetective/files/|<tbody|<tr title="release-|"|3.2.1
 WinCheat|http://alinconstantin.dynu.com/Download/WinCheat/||https://chocolatey.org/packages/wincheat|<h2|>|<|1.7.4680.1
 
@@ -144,9 +178,13 @@ Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/s
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest
 
+# delphi / freepascal
+Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6RC2
+Lazarus linux-amd64|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/|tbody|<tr title="Lazarus |"|1.6RC2
+DelphiHelpExpert|http://cc.embarcadero.com/Item/23948|Updated on|lblUpdated">|<|Tue, 14 Aug 2007 02:26:23 GMT
+CnWizards (stable)|http://www.cnpack.org/||http://www.cnpack.org/showmaster.php?id=21&lang=zh-cn|class="pnlheader2"|lang=zh-cn">CnWizards|<|V1.0.9.803
+GExperts|http://www.gexperts.org/||http://sourceforge.net/projects/gexperts/files/GExperts/|Parent folder|title="GExperts |" class|1.36
+Delphi IDE Theme Editor|https://github.com/rruz/delphi-ide-theme-editor||https://theroadtodelphi.wordpress.com/tag/dite/|div class="entry-details"|datetime="|"|2015-09-01T12:55:11+00:00
 
 # trash
-WinSpy||http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
-CnWizards (stable)|http://code.google.com/p/cnpack/||http://code.google.com/p/cnpack/downloads/list?q=label:Featured|_src|files/cnwizards_|_src.7z|1.0.1.655
-GExperts|http://www.gexperts.org/||http://sourceforge.net/projects/gexperts/files/GExperts/|Parent folder|title="GExperts |" class|1.36
 WinMerge|http://winmerge.org/downloads.php|Download Now!|Version|;|2.12.4
