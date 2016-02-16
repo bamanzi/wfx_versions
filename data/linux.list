@@ -64,6 +64,13 @@ mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/f
 pinta|http://pinta-project.com/|Current Version: ||<|1.6
 shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shotwell/tree/NEWS|class='lines'|Shotwell|--|0.22.0 - 23 March 2015
 
+
+ 
+## multimedia
+smplayer|http://smplayer.sourceforge.net/en/downloads||https://launchpad.net/~rvm/+archive/ubuntu/smplayer?field.series_filter=trusty|id="packages_list"|smplayer|<|
+vlc|http://www.videolan.org/vlc/download-sources.html|Latest VLC source|(|)|2.2.1
+
+
 ## network
 Claws Mail|http://www.claws-mail.org/||http://www.claws-mail.org/|Latest Release:|releases.php'>|<|3.13.0
 iptux|https://github.com/iptux-src/iptux||https://github.com/iptux-src/iptux/releases|"release-timeline"|class="tag-name">|<|v0.6.3
@@ -73,6 +80,9 @@ FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablef
 Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.11.7
 PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|26.0.3
 |PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
+firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|44.0.2-0ubuntu1_i386
+seamonkey (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/s/seamonkey-mozilla-build/|Parent folder|title="seamonkey-mozilla-build_|.deb"|2.39-0ubuntu1_amd64
+ 
 
 ## notes
 CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.36.4
