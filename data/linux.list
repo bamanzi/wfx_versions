@@ -58,13 +58,13 @@ diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforg
 ## file manager
 Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.6.gtk2.i386
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
+Nemo (ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|<tbody>|nemo - |~NoobsLab|2.8.7-b~trusty
 
 ## graphics
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
 pinta|http://pinta-project.com/|Current Version: ||<|1.6
 shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shotwell/tree/NEWS|class='lines'|Shotwell|--|0.22.0 - 23 March 2015
-
-
+gthumb|https://wiki.gnome.org/Apps/gthumb||https://git.gnome.org/browse/gthumb/refs/|>Tag<|/tag/?h=|'|3.4.2
  
 ## multimedia
 smplayer|http://smplayer.sourceforge.net/en/downloads||https://launchpad.net/~rvm/+archive/ubuntu/smplayer?field.series_filter=trusty|id="packages_list"|smplayer|<|

@@ -1,12 +1,14 @@
 # linux
 emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
 emacs ppa (snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
+emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-3EL6.x86_64.
 
 
 # windows
 emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.4-bin(i686-pc-mingw32)
 emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|24-20140526-154828-w32-bin
 emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-bin-w64-|.7z|24.4
+emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/|h3>Version<|">|(|24.5-modified-5
 
 
 # packages

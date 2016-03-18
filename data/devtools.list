@@ -14,7 +14,7 @@ Database Browser (portable)|http://portableapps.com/apps/development/database_br
 sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
 mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.5.2
 pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|0.20.1
- 
+robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0 RC6 
 
 # colors
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
@@ -70,6 +70,12 @@ XPatherizerNPP (dotnet)|https://code.google.com/p/xpatherizernpp||http://docs.no
 
 LanguageHelp (gfwed)|||https://sites.google.com/site/fstellari/nppplugins|abc|def|xyz|1v61
 
+# log viewer
+Advanced Log Viewer|http://salplachta.net/AdvancedLogViewer/Features.aspx||http://salplachta.net/AdvancedLogViewer/Default.aspx|Latest version|">|<|7.6.0
+LogViewer Pro|http://uvviewsoft.com/logviewer/||http://uvviewsoft.com/logviewer/download.htm|The latest release is ||).|2.2.0 (feb 2013
+BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
+LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
+ 
 # regexp
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
 Regular Expression Tester(firefox)|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.11
@@ -104,9 +110,8 @@ wscript doc (script56.chm)|http://www.robvanderwoude.com/wshlinks.php|Download W
 
 # misc
 AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
-BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
-LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
 innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=files|http://innounp.sourceforge.net/|Version ||<br>|0.37
+
 
 # komodo
 Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|9.2.0
