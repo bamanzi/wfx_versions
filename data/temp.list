@@ -1,10 +1,10 @@
 ## notepad++
-AutoSave|||https://sourceforge.net/projects/npp-plugins/files/AutoSave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
+AutoSave|https://sourceforge.net/projects/npp-plugins/files/AutoSave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
 TagsJump|https://sourceforge.net/projects/tagsjump||https://sourceforge.net/projects/tagsjump/files/|<tbody|<tr title="TagsJump_bin|"|v1.1.4_release0924
 ToolBucket|https://github.com/phdesign/NppToolBucket||http://phdesign.com.au/npptoolbucket/|h2>Download<|>NppToolBucket-|.zip|1.7
  
-HTMLTag|||https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag plugin |"|v0.50
-XML Tools|||https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/|<tbody|<tr title="Xml Tools |"|2.4.8 Unicode
+HTMLTag|https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag plugin |"|v0.50
+XML Tools|https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/|<tbody|<tr title="Xml Tools |"|2.4.8 Unicode
 
 
 # reverse
@@ -12,6 +12,7 @@ XML Tools|||https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/|<tbo
 |midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
 
 # sf.net
+SageThumbs|https://sourceforge.net/projects/sagethumbs/|https://sourceforge.net/projects/sagethumbs/files/latest/download?source=files|https://sourceforge.net/projects/sagethumbs/files/|<tbody>|<tr title="sagethumbs_|_|2.0.0.22
 grepwin|http://stefanstools.sourceforge.net/grepWin.html|https://sourceforge.net/projects/grepwin/files/latest/download?source=files|https://sourceforge.net/projects/grepwin/files/|<tbody|<tr title="|"|1.6.11
 LAN messenger|http://lanmsngr.sourceforge.net/||http://sourceforge.net/projects/lanmsngr/files/|<tbody|title="|"|1.2.35
 Firefox (ubuntuzilla)|https://sourceforge.net/p/ubuntuzilla/wiki/Main_Page/#installation||https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|<tbody|title="firefox-mozilla-build_|.deb|44.0.2-0ubuntu1_i386
@@ -25,3 +26,5 @@ IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php
 ConsoleZ|https://github.com/cbucher/console/wiki/Downloads||https://github.com/cbucher/console/releases|Latest release|css-truncate-target">|<|1.14.0
 iptux|https://github.com/iptux-src/iptux||https://github.com/iptux-src/iptux/releases|"release-timeline"|class="tag-name">|<|v0.6.3
 
+# launchpad
+wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4

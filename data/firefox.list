@@ -86,31 +86,36 @@ wepware||https://addons.mozilla.org/firefox/downloads/file/303090/wepware_captur
 
 
 === Firefox addons for developer ===
-Console2|https://addons.mozilla.org/addon/1815|https://addons.mozilla.org/downloads/latest/1815|https://addons.mozilla.org/addons/versions/1815|version item|id="version-|"|0.9
 Content Scrollbar|https://addons.mozilla.org/addon/content-scrollbar|https://addons.mozilla.org/downloads/latest/content-scrollbar|https://addons.mozilla.org/addon/content-scrollbar/versions|version item|id="version-|"|0.3.0
 CodeBurner for Firefox|https://addons.mozilla.org/en-US/firefox/addon/codeburner-for-firefox|https://addons.mozilla.org/downloads/latest/codeburner-for-firefox|https://addons.mozilla.org/en-US/firefox/addon/codeburner-for-firefox|version item|id="version-|"|1.6
 Delete Site History|https://addons.mozilla.org/en-US/firefox/addon/delete-site-history|https://addons.mozilla.org/downloads/latest/delete-site-history|https://addons.mozilla.org/en-US/firefox/addon/delete-site-history|version item|id="version-|"|1.3
 ?Devboi (offline)|https://devboi.mozdev.org/|http://downloads.mozdev.org/xsidebar/mods/devboi_offline-0.5.1-mod.xpi|https://xsidebar.mozdev.org/modified.html#devboi|Beta off-line for Seamonkey|devboi_offline-|.xpi|0.5.1-mod
-DOM Inspector|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622|https://addons.mozilla.org/downloads/latest/dom-inspector-6622|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622|version item|id="version-|"|2.0.16
-DOM Inspector Plus!|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-dm|https://addons.mozilla.org/downloads/latest/dom-inspector-dm|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-dm|version item|id="version-|"|2.0.16.2
-Execute JS|https://addons.mozilla.org/en-US/firefox/addon/execute-js/|https://addons.mozilla.org/firefox/downloads/latest/1729/addon-1729-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/execute-js/|itemprop="version">||</span>|0.2.4
 *Firebug|https://addons.mozilla.org/en-US/firefox/addon/firebug|https://addons.mozilla.org/downloads/latest/firebug|https://addons.mozilla.org/en-US/firefox/addon/firebug|version item|id="version-|"|2.0.13
 Firebug (Firefox 17.x)|https://addons.mozilla.org/en-US/firefox/addon/firebug|strong>Firefox 17|>Firebug |<|1.11
 Firebug (Firefox 24.x)|https://addons.mozilla.org/en-US/firefox/addon/firebug|strong>Firefox 24|>Firebug |<|1.12
 Firefinder (css)|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-firebug|https://addons.mozilla.org/downloads/latest/firefinder-for-firebug|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-firebug|version item|id="version-|"|1.4
-Fireftp|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.26
 HttpFox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|https://addons.mozilla.org/downloads/latest/httpfox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|version item|id="version-|"|0.8.14
-JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|https://addons.mozilla.org/downloads/latest/javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|version item|id="version-|"|0.9.89
 JSONView (fx24/31=>0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/jsonview|https://addons.mozilla.org/downloads/latest/jsonview|https://addons.mozilla.org/en-US/firefox/addon/jsonview|version item|id="version-|"|1.1.0
 JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search|version item|id="version-|"|1.9.7.1
-Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.12
 RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|version item|id="version-|"|2.0.3
-SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|https://addons.mozilla.org/firefox/downloads/latest/5817/addon-5817-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|itemprop="version">||</span>|0.8.3
 The easiest Xdebug (fx24=>1.2)|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|https://addons.mozilla.org/downloads/latest/the-easiest-xdebug|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|version item|id="version-|"|2.1
-Tiny JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|https://addons.mozilla.org/downloads/latest/tiny-javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|version item|id="version-|"|1.1.4
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|https://addons.mozilla.org/downloads/latest/web-developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|version item|id="version-|"|1.2.5
+
+## utils
+Fireftp|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.26
+SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|https://addons.mozilla.org/firefox/downloads/latest/5817/addon-5817-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|itemprop="version">||</span>|0.8.3
+Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.12
 Xml Pretty Viewer|https://addons.mozilla.org/en-US/firefox/addon/xmlutils/?src=search|https://addons.mozilla.org/firefox/downloads/file/223506/xml_pretty_viewer-1.2-fx-windows.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/xmlutils/?src=search|itemprop="version">||</span>|1.2.1-signed
+
+## xul 
+Console2|https://addons.mozilla.org/addon/1815|https://addons.mozilla.org/downloads/latest/1815|https://addons.mozilla.org/addons/versions/1815|version item|id="version-|"|0.9
+DOM Inspector|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622|https://addons.mozilla.org/downloads/latest/dom-inspector-6622|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622|version item|id="version-|"|2.0.16
+DOM Inspector Plus!|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-dm|https://addons.mozilla.org/downloads/latest/dom-inspector-dm|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-dm|version item|id="version-|"|2.0.16.2
+Execute JS|https://addons.mozilla.org/en-US/firefox/addon/execute-js/|https://addons.mozilla.org/firefox/downloads/latest/1729/addon-1729-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/execute-js/|itemprop="version">||</span>|0.2.4
+JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|https://addons.mozilla.org/downloads/latest/javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger|version item|id="version-|"|0.9.89
+Tiny JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|https://addons.mozilla.org/downloads/latest/tiny-javascript-debugger|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger|version item|id="version-|"|1.1.4
 XPCOMViewer|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|https://addons.mozilla.org/firefox/downloads/latest/7979/addon-7979-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|itemprop="version">||</span>|1.4.2
+
 
 === SeaMonkey ===
 *SeaTab-X-2||https://addons.mozilla.org/seamonkey/downloads/latest/487070/addon-487070-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-us/seamonkey/addon/seatab-x-2/|itemprop="name">SeaTab|itemprop="version">|<|0.3.3

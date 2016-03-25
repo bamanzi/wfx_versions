@@ -5,9 +5,9 @@ emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-
 
 
 # windows
-emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.4-bin(i686-pc-mingw32)
+emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.5-bin-i686-mingw32
 emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|24-20140526-154828-w32-bin
-emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-bin-w64-|.7z|24.4
+emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-bin-w64-|.7z|24.5-1
 emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/|h3>Version<|">|(|24.5-modified-5
 
 
@@ -18,13 +18,13 @@ org-cua-dwim|https://github.com/mlf176f2/org-cua-dwim.el/commits/master|class="c
 org-html-themes|https://github.com/fniessen/org-html-themes/commits/master|class="commits-listing|>Commits on|<|Aug 11, 2015
 org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.2.10</b> (Oct. 2014)
 org-table-comment|https://github.com/mlf176f2/org-table-comment.el/commits/master|class="commits-listing|>Commits on|<|Feb 10, 2012
-ox-gfm|https://github.com/larstvei/ox-gfm/commits/master|class="commits-listing|>Commits on|<|Jun 4, 2015
+ox-gfm|https://github.com/larstvei/ox-gfm/commits/master|class="commits-listing|>Commits on|<|Mar 11, 2016
 toc-org|https://github.com/snosov1/toc-org/commits/master|class="commits-listing|>Commits on|<|Aug 20, 2015
  
 ## programming
 auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/releases|>Releases<|class="tag-name">|<|v1.5.0
 CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/cedet-|.tar.|1.1
-ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|/span>Commits on||<|Jun 14, 2012
+ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|class="commits-listing|>Commits on|<|Jun 14, 2012
 helm-etags+|https://github.com/jixiuf/helm-etags-plus/commits/master|class="commits-listing|>Commits on|<|Apr 29, 2015
 highlight-indentation|https://github.com/antonj/Highlight-Indentation-for-Emacs/releases|>Releases<|class="tag-name">|<|v0.7.0
 highlight-symbol|https://github.com/nschum/highlight-symbol.el||https://github.com/nschum/highlight-symbol.el/releases|>Releases<|class="tag-name">|<|1.2
@@ -46,12 +46,12 @@ pylookup|https://github.com/tsgates/pylookup/commits/master|class="commits-listi
 pyvenv|https://github.com/jorgenschaefer/pyvenv/releases|>Releases<|class="tag-name">|<|v1.7
 ?python-environment|https://github.com/tkf/emacs-python-environment/releases|>Releases<|class="tag-name">|<|0.0.2
 python.el (loveshack)||http://www.loveshack.ukfsn.org/emacs/python.el|http://www.loveshack.ukfsn.org/emacs/python.el|$Revision: || $|1.40
-python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|/span>Commits on||<|Oct 14, 2012
-python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|/span>Commits on||<|Apr 30, 2012
+python.el (fgallina)|https://github.com/fgallina/python.el/|https://github.com/fgallina/python.el/archive/master.zip|https://github.com/fgallina/python.el/commits/master|class="commits-listing|>Commits on|<|Nov 23, 2014
+python.el emacs23 (fgallina)|https://github.com/fgallina/python.el/tree/emacs23|https://github.com/fgallina/python.el/archive/emacs23.zip|https://github.com/fgallina/python.el/commits/emacs23|class="commits-listing|>Commits on|<|May 27, 2013
  
 ## ruby
 bundler.el|https://github.com/tobiassvn/bundler.el/commits/master|class="commits-listing|>Commits on|<|Mar 16, 2014 
-enh-ruby-mode|https://github.com/zenspider/enhanced-ruby-mode/releases|>Releases<|class="tag-name">|<| rel2014-05-20
+enh-ruby-mode|https://github.com/zenspider/enhanced-ruby-mode/releases|>Releases<|class="tag-name">|<|rel2015-06-04
 flymake-ruby|https://github.com/purcell/flymake-ruby/commits/master|class="commits-listing|>Commits on|<|Oct 23, 2014
 haml-mode|https://github.com/nex3/haml-mode/releases|>Releases<|class="tag-name">|<|3.1.9
 inf-ruby|https://github.com/nonsequitur/inf-ruby/releases|>Releases<|class="tag-name">|<|2.4.0
@@ -66,10 +66,10 @@ web-mode (release)|https://github.com/fxbois/web-mode|https://github.com/fxbois/
 php-mode|https://github.com/ejmr/php-mode/releases|>Releases<|class="tag-name">|<|v1.17.0
 know-your-http-well|https://github.com/for-GET/know-your-http-well/releases|>Releases<|class="tag-name">|<|v0.2.0
 rainbow-mode|https://github.com/emacsmirror/rainbow-mode/blob/master/rainbow-mode.el|>;; Version: ||<|0.8
-restclient.el|https://github.com/pashky/restclient.el/commits/master|class="commits-listing|>Commits on|<|Dec 22, 2014 
+restclient.el|https://github.com/pashky/restclient.el/commits/master|class="commits-listing|>Commits on|<|Mar 18, 2016
 jquery-doc.el|https://github.com/ananthakumaran/jquery-doc.el/commits/master|class="commits-listing|>Commits on|<|Aug 12, 2015
 js2-mode|https://github.com/mooz/js2-mode/releases|>Releases<|class="tag-name">|<|20130619
-js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|/span>Commits on||<|Feb 16, 2013
+js2-mode mooz emacs23|https://github.com/mooz/js2-mode/wiki|https://github.com/mooz/js2-mode/archive/emacs23.zip|https://github.com/mooz/js2-mode/commits/emacs23|class="commits-listing|>Commits on|<|Feb 17, 2013
 
 # vc
 magit (release)|https://github.com/magit/magit|https://github.com/magit/magit/releases/latest|https://github.com/magit/magit/releases|Latest release|class="css-truncate-target">|<|2.2.2
@@ -81,28 +81,28 @@ ahg|https://bitbucket.org/agriggio/ahg/commits/all|commit-list">|data-title="tru
  
 ## chinese
 chinese-font-setup|https://github.com/tumashu/chinese-fonts-setup/commits/master/|class="commits-listing|>Commits on|<|Aug 18, 2015
-pinyin-search|https://github.com/xuchunyang/pinyin-search.el/commits/master/|class="commits-listing|>Commits on|<|Aug 18, 2015
+pinyin-search|https://github.com/xuchunyang/pinyin-search.el/commits/master/|class="commits-listing|>Commits on|<|Jul 20, 2015
 youdao-dictionary|https://github.com/xuchunyang/youdao-dictionary.el/commits/master|class="commits-listing|>Commits on|<|Aug 18, 2015
-eim (fork)|https://github.com/noinil/emacs-eim|https://github.com/noinil/emacs-eim/archive/master.zip|https://github.com/noinil/emacs-eim/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Sep 01, 2014
+eim (fork)|https://github.com/noinil/emacs-eim|https://github.com/noinil/emacs-eim/archive/master.zip|https://github.com/noinil/emacs-eim/commits/master|class="commits-listing|Commits on|</div>|Sep 01, 2014
 fcitx.el||https://github.com/cute-jumper/fcitx.el/archive/master.zip|https://github.com/cute-jumper/fcitx.el/releases|class="release-timeline"|class="tag-name">|<|0.2
  
 ## misc
-anything-config|http://repo.or.cz/w/anything-config.git||http://repo.or.cz/w/anything-config.git/shortlog|table class="shortlog"|<i>|</i>|2013-06-06
-bm|https://github.com/joodland/bm/||https://github.com/joodland/bm/commits/master|class="commits-listing|>Commits on|<|Dec 13, 2014
+anything-config|http://repo.or.cz/w/anything-config.git||http://repo.or.cz/w/anything-config.git/shortlog|table class="shortlog"|<i>|</i>|2015-10-19
+bm|https://github.com/joodland/bm/||https://github.com/joodland/bm/commits/master|class="commits-listing|>Commits on|<|Dec 24, 2015
 drag-stuff|https://github.com/rejeep/drag-stuff.el/releases|>Releases<|class="tag-name">|<|v0.1.0
 golden-ration|https://github.com/roman/golden-ratio.el/releases|>Releases<|"tag-name">|<|v1.0
 helm|https://github.com/emacs-helm/helm/releases|Latest release|class="css-truncate-target">|<|v1.7.8
-iedit|https://github.com/victorhge/iedit/blob/master/iedit.el|>;; Version ||<|0.95
+iedit|https://github.com/victorhge/iedit/|https://github.com/victorhge/iedit/archive/master.zip|https://github.com/victorhge/iedit/commits/master|class="commits-listing|>Commits on|<|Sep 16, 2015
 ivy / swiper|https://github.com/abo-abo/swiper/releases|Latest release|css-truncate-target">|<|0.4.1
 org-link-minor-mode|https://github.com/seanohalpin/org-link-minor-mode/commits/master|class="commits-listing|Commits on|<|Aug 26, 2012
-tabbar-ruler|http://github.com/mlf176f2/tabbar-ruler.el/releases|>Releases<|css-truncate-target">|<|v0.40
-vim-region|https://github.com/ongaeshi/emacs-vim-region/releases|>Releases<|tag-name">|<|v0.2
+tabbar-ruler|http://github.com/mlf176f2/tabbar-ruler.el/releases|>Releases<|css-truncate-target">|<|v0.44
+vim-region|https://github.com/ongaeshi/emacs-vim-region/releases|>Releases<|tag-name">|<|v0.3.0
 w3m-el-snapshot||http://ftp.de.debian.org/debian/pool/main/w/w3m-el-snapshot/w3m-el-snapshot_1.4.537+0.20141001-1_all.deb|https://packages.debian.org/jessie/w3m-el-snapshot|<h1>Package: w3m-el-snapshot|(|)|1.4.537+0.20141001-1
 
 
 # windows additions
 ## utils
-putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.63
+putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.67
 findutils (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|findutils-||-w|4.2.30-5
 file (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|file-||-w32|5.09
 grep (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|grep-||-w32|2.10
