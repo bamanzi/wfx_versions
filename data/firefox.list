@@ -1,4 +1,10 @@
 ## Firefox
+firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|44.0.2-0ubuntu1_i386
+PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|26.0.3
+|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
+seamonkey (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/s/seamonkey-mozilla-build/|Parent folder|title="seamonkey-mozilla-build_|.deb"|2.39-0ubuntu1_amd64
+
+## Addons
 
 ### copy something
 *CoLT (fx24/31: 2.6.5)|http://www.filewatcher.com/_/?q=colt-2.6+xpi|ftp://ftp5.kr.freebsd.org/pub/ftp.mozilla.org/addons/1812/colt-2.6.4-fx.xpi|https://addons.mozilla.org/en-US/firefox/addon/colt|version item|id="version-|"|2.6.7

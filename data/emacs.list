@@ -30,15 +30,14 @@ highlight-indentation|https://github.com/antonj/Highlight-Indentation-for-Emacs/
 highlight-symbol|https://github.com/nschum/highlight-symbol.el||https://github.com/nschum/highlight-symbol.el/releases|>Releases<|class="tag-name">|<|1.2
 idle-highlight-mode|https://github.com/nonsequitur/idle-highlight-mode/releases|>Releases<|"tag-name">|<|1.1.3
 indent-guide|https://github.com/zk-phi/indent-guide/commits/master||https://github.com/zk-phi/indent-guide/blob/master/indent-guide.el|>;; Version: ||<|2.0.2
-projectile (release)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/latest|https://github.com/bbatsov/projectile/releases|class="tag-info commit|"tag-name">|<|v0.10.0
-projectile (snapshot)|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/archive/master.zip|https://github.com/bbatsov/projectile/commits/master|octicon octicon-git-commit"></span>|Commits on|</div>|Oct 21, 2014
+projectile|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/latest|https://github.com/bbatsov/projectile/releases|class="tag-info commit|"tag-name">|<|v0.10.0
 
 ## python
 anaconda-mode|https://github.com/proofit404/anaconda-mode/commits/master|class="commits-listing|>Commits on|<|Mar, 21, 2015
 py-smart-operator|https://github.com/rmuslimov/py-smart-operator/commits/master|class="commits-listing|>Commits on|<|Aug 25, 2015
 pydoc|https://github.com/statmobile/pydoc/commits/master|class="commits-listing|>Commits on|<|Mar 16, 2015
 pydoc-info|https://bitbucket.org/jonwaltman/pydoc-info/commits/all|commit-list"|data-title="true">|<|2011-03-01
-python-docstring-mode|https://github.com/glyph/python-docstring-mode/commits/master|class="commits-listing|>Commits on|<|Sep 8, 2015
+?python-docstring-mode|https://github.com/glyph/python-docstring-mode/commits/master|class="commits-listing|>Commits on|<|Sep 8, 2015
 python-x|https://github.com/wavexx/python-x.el/commits/master|class="commits-listing|>Commits on|<|Aug 28, 2015
 python-info|https://github.com/Wilfred/python-info/commits/master|class="commits-listing|>Commits on|<|Nov 8, 2014
 python3-info|https://github.com/dvhansen/python3-info/commits/master|class="commits-listing|>Commits on|<|Sep 3, 2015

@@ -56,7 +56,7 @@ diff-ext (thunar)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.
 diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Nautilus extension)|gdiff-ext-|.tar|0.3.2
 
 ## file manager
-Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/|/doublecmd/files/latest/download|/doublecmd-|.tar.xz|0.6.6.gtk2.i386
+Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|https://sourceforge.net/projects/doublecmd/files/DC%20for%20Linux%2032%20bit/|<tbody|tr title="Double Commander |"|0.7.1 beta
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
 Nemo (ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|<tbody>|nemo - |~NoobsLab|2.8.7-b~trusty
 
@@ -78,10 +78,6 @@ Dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukt
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.15.0.2
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|7.9
 Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.11.7
-PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|26.0.3
-|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
-firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|44.0.2-0ubuntu1_i386
-seamonkey (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/s/seamonkey-mozilla-build/|Parent folder|title="seamonkey-mozilla-build_|.deb"|2.39-0ubuntu1_amd64
  
 
 ## notes
@@ -121,7 +117,7 @@ WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.ph
 ## putty
 Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.66
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd3.2
-kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-putty/download/|http://www.filehorse.com/download-kitty/|Latest version:|KiTTY |<|0.66.6.2
+kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.0.2
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
 PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16

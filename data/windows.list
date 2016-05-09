@@ -251,7 +251,7 @@ which (ezwinports) |http://sourceforge.net/projects/ezwinports/files/|which-||-w
 
 ## SSH
 putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.66
-kitty|http://kitty.9bis.net/|http://www.filehorse.com/download-kitty/download/|http://www.filehorse.com/download-kitty/|Latest Version:|KiTTY |<|0.66.6.2
+kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.0.2
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|3.2
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
