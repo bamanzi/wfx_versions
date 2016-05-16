@@ -1,6 +1,6 @@
 # linux
-emacs ppa (stable)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
-emacs ppa (snapshot)|https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise||https://launchpad.net/~cassou/+archive/emacs?field.series_filter=precise|package-source"|<td>|~ppa|2:20140101-1
+emacs ppa (stable, precise)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
+emacs ppa (stable, trusty)|https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa||https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa/+packages|package-source"|emacs24 - |ubuntu|24.5+1-6
 emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-3EL6.x86_64.
 
 

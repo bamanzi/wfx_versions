@@ -1,5 +1,5 @@
 ## archiver
-Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.11
+Bandizip|http://www.bandisoft.com/bandizip/cn/|http://down.bandisoft.com/bandizip/BANDIZIP-PORTABLE-EN.ZIP|http://www.bandisoft.com/bandizip/history/|Version_Title"><|>|<|5.13
 7-Zip||http://downloads.sourceforge.net/sevenzip/7z[%0a1][%0a3-].exe|http://www.7-zip.org/?|<B>Download|7-Zip | (|15.14
 7-Zip (e7z)|http://www.e7z.org/|http://www.e7z.org/easy7zip_x86_x64.exe|http://www.e7z.org/free-download.htm|>Version<|#EEEEEE">|<|0.1.5
 Universal Extractor|http://legroom.net/software/uniextract|http://www.portablefreeware.com/download.php?dd=641|http://www.portablefreeware.com/index.php?id=641|class="appName">|class="version">|</span>|v1.6.1
@@ -8,20 +8,21 @@ Universal Extractor 2|http://bioruebe.com/dev/uniextract/|http://www.portablefre
 ## clipboard
 ArsClip|http://www.joejoesoft.com/vcms/97/||http://www.portablefreeware.com/index.php?id=734|class="appName">ArsClip|class="version">|</span>|v5.07
 Ditto|http://www.portablefreeware.com/index.php?id=1361||http://www.portablefreeware.com/index.php?id=1361|"appName"|"version">|<|v3.20.74.0
+Clipboard Magic|http://www.cybermatrix.com/clipboard-magic.html||http://www.cybermatrix.com/cmdownloads.html|b>Version<|:|<|5.02
 
 ## console
 ConsoleZ|https://github.com/cbucher/console/wiki/Downloads||https://github.com/cbucher/console/releases|Latest release|css-truncate-target">|<|1.16.0
-ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|150813f
+ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|160211
 ConEmu-cygwin-connector|https://conemu.github.io/en/CygwinMsysConnector.html||https://github.com/Maximus5/cygwin-connector/releases|>Latest release<|class="css-truncate-target">|<|v0.7.4
 ConEmu plink|https://github.com/Maximus5/plink/releases|>Latest release<|class="css-truncate-target">|<|v151109
 clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.7
 
 ## editor
-SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.6.1
+SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.6.5
 Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.6
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 SynWriteLite||http://totalcmd.net/download.php?id=SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html|h1>SynWrite Lite ||<|6.1.185
-madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.0_X86
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.1_X64
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.0.2
 
 ## editor - html
@@ -42,17 +43,17 @@ xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|L
 XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v16.10.0200
 FreeCommanderXE||http://freecommander.com/downloads/FreeCommanderXE-32-public_portable.zip|http://freecommander.com/en/downloads/|a title="FreeCommander XE ||32-bit public|2015 Build 685
 Far Manager (stable)|http://farmanager.com/download.php?l=en|Stable builds|files/Far|.7z|30b4510.x86.20160115
-Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.6.6 beta
+Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.7.1 beta
 
 ## filesystem - copier
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
 FastCopy|http://www.portablefreeware.com/index.php?id=1437||http://www.portablefreeware.com/index.php?id=1437|"appName"|"version">|<|v3.11
-SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v2.2 Beta
+SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v1.2.2.0
 
 ## filesystem - search
 Everything|http://www.portablefreeware.com/index.php?id=1479||http://www.portablefreeware.com/index.php?id=1479|"appName"|"version">|<|v1.3.4.686
 locate32|http://sourceforge.net/projects/locate32/||http://sourceforge.net/projects/locate32/|locate32/files/latest/download|Download /locate32-|.zip|3.1.11.7100
-Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.4.1.15248
+Ultra File Search Lite|http://www.ultrafilesearch.com/|http://www.portablefreeware.com/download.php?dd=1717|http://www.portablefreeware.com/index.php?id=1717|class="appName">|class="version">|<|v4.6.0.16023
 DocFetcher|http://www.portablefreeware.com/index.php?id=2660||http://www.portablefreeware.com/index.php?id=2660|"appName"|"version">|<|v1.1.16
 
 ## filesystem - disk usage
@@ -84,7 +85,7 @@ evernote 3.1|http://filehippo.com/zh/download_evernote/history/10/||http://fileh
 evernote portable|http://www.portablesoft.org/down/994/|div id="crumb"|/down/994/">Evernote |<|5.9.1.8742
 
 ## notes - sticky notes
-Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v8.0c
+Stickies|http://www.zhornsoftware.co.uk/stickies/index.html|http://www.portablefreeware.com/download.php?dd=264|http://www.portablefreeware.com/?id=264|class="appName">|class="version">|</span>|v9.0a
 PNotes|http://pnotes.sourceforge.net|http://sourceforge.net/projects/pnotes/files/latest/download?source=files|http://www.portablefreeware.com/index.php?id=1320|class="appName">|class="version">|</span>|v9.3.0
 
 ## office

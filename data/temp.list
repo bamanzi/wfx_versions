@@ -1,3 +1,42 @@
+# new
+peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.3.5
+fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.16
+
+LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|en-US|45.0
+Classic Theme Restorer(>29)|https://addons.mozilla.org/en-US/firefox/addon/classicthemerestorer|https://addons.mozilla.org/downloads/latest/classicthemerestorer|https://addons.mozilla.org/en-US/firefox/addon/iclassicthemerestorer|version item|id="version-|"|1.4.8
+
+Clipboard Magic|http://www.cybermatrix.com/clipboard-magic.html||http://www.cybermatrix.com/cmdownloads.html|b>Version<|:|<|5.02
+
+
+# sf.net
+## check first line in 'files' list
+Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.7.1 beta
+## check the link to 'latest version'
+IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|">|1.12
+
+
+# github
+# releases, with 'Latest release' button
+SuperPuTTY|https://github.com/jimradford/superputty/releases|>Latest release<|class="css-truncate-target">|<|1.4.0.8
+# releases, without 'Latest release' button
+fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.12.1
+# directly from commit history
+python-x|https://github.com/wavexx/python-x.el/commits/master|class="commits-listing|>Commits on|<|Aug 28, 2015
+
+
+# launchpad
+wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
+
+# reverse
+|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
+|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
+
+
+# misc
+pstart|http://www.pegtop.net/start/|http://www.portablefreeware.com/download.php?dd=374|http://www.portablefreeware.com/index.php?id=374|class="appName">|class="version">|</span>|v2.11
+Universal Extractor 2|http://bioruebe.com/dev/uniextract/|http://www.portablefreeware.com/download.php?dd=2764|http://www.portablefreeware.com/index.php?id=2764|class="appName">|class="version">|</span>|v2.0.0 Beta 2
+IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php?dd=49|http://www.portablefreeware.com/index.php?id=49|"appName"|"version">|<|v4.41
+
 ## notepad++
 AutoSave|https://sourceforge.net/projects/npp-plugins/files/AutoSave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
 TagsJump|https://sourceforge.net/projects/tagsjump||https://sourceforge.net/projects/tagsjump/files/|<tbody|<tr title="TagsJump_bin|"|v1.1.4_release0924
@@ -6,25 +45,3 @@ ToolBucket|https://github.com/phdesign/NppToolBucket||http://phdesign.com.au/npp
 HTMLTag|https://sourceforge.net/projects/npp-plugins/files/HTMLTag/|<tbody|<tr title="HTMLTag plugin |"|v0.50
 XML Tools|https://sourceforge.net/projects/npp-plugins/files/XML%20Tools/|<tbody|<tr title="Xml Tools |"|2.4.8 Unicode
 
-
-# reverse
-|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
-|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
-
-# sf.net
-SageThumbs|https://sourceforge.net/projects/sagethumbs/|https://sourceforge.net/projects/sagethumbs/files/latest/download?source=files|https://sourceforge.net/projects/sagethumbs/files/|<tbody>|<tr title="sagethumbs_|_|2.0.0.22
-grepwin|http://stefanstools.sourceforge.net/grepWin.html|https://sourceforge.net/projects/grepwin/files/latest/download?source=files|https://sourceforge.net/projects/grepwin/files/|<tbody|<tr title="|"|1.6.11
-LAN messenger|http://lanmsngr.sourceforge.net/||http://sourceforge.net/projects/lanmsngr/files/|<tbody|title="|"|1.2.35
-Firefox (ubuntuzilla)|https://sourceforge.net/p/ubuntuzilla/wiki/Main_Page/#installation||https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|<tbody|title="firefox-mozilla-build_|.deb|44.0.2-0ubuntu1_i386
-
-# pfw
-pstart|http://www.pegtop.net/start/|http://www.portablefreeware.com/download.php?dd=374|http://www.portablefreeware.com/index.php?id=374|class="appName">|class="version">|</span>|v2.11
-Universal Extractor 2|http://bioruebe.com/dev/uniextract/|http://www.portablefreeware.com/download.php?dd=2764|http://www.portablefreeware.com/index.php?id=2764|class="appName">|class="version">|</span>|v2.0.0 Beta 2
-IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php?dd=49|http://www.portablefreeware.com/index.php?id=49|"appName"|"version">|<|v4.41
-
-# github
-ConsoleZ|https://github.com/cbucher/console/wiki/Downloads||https://github.com/cbucher/console/releases|Latest release|css-truncate-target">|<|1.14.0
-iptux|https://github.com/iptux-src/iptux||https://github.com/iptux-src/iptux/releases|"release-timeline"|class="tag-name">|<|v0.6.3
-
-# launchpad
-wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
