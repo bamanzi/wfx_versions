@@ -3,7 +3,7 @@ firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozill
 PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|26.2.2
 |PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30
 seamonkey (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/s/seamonkey-mozilla-build/|Parent folder|title="seamonkey-mozilla-build_|.deb"|2.39-0ubuntu1_amd64
-LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|en-US|45.0
+LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|en-US|47.0
 
 ## Addons
 
@@ -14,9 +14,10 @@ Copy as org-mode (fx>30)|https://addons.mozilla.org/en-US/firefox/addon/copy-as-
 
 ### dictionary & translation
 *Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|https://addons.mozilla.org/downloads/latest/google-dictionary-and-google-t|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|version item|id="version-|"|7.5
-*Dict (+sm)|http://www.filewatcher.com/_/?q=dict-0.8+xpi|ftp://ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/302/dict-0.8.1-sm+fx+tb.xpi|https://addons.mozilla.org/en-US/firefox/addon/dict|version item|id="version-|"|0.8.5
-*eDictionary (fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/edictionary|https://addons.mozilla.org/downloads/latest/edictionary|https://addons.mozilla.org/en-US/firefox/addon/edictionary|version item|id="version-|"|0.3
+*S3.Google Translator (+sm)|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator||https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search|version item|id="version-|"|5.24
 Fast Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/10907/addon-10907-latest.xpi?src=ss|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|itemprop="name">Fast Translation|itemprop="version">|<|1.11.5
+*eDictionary (fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/edictionary|https://addons.mozilla.org/downloads/latest/edictionary|https://addons.mozilla.org/en-US/firefox/addon/edictionary|version item|id="version-|"|0.3
+*Dict (+sm)|http://www.filewatcher.com/_/?q=dict-0.8+xpi|ftp://ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/302/dict-0.8.1-sm+fx+tb.xpi|https://addons.mozilla.org/en-US/firefox/addon/dict|version item|id="version-|"|0.8.5
 gTranslate (fx24/31/sm=> 0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|https://addons.mozilla.org/downloads/latest/gtranslate|https://addons.mozilla.org/en-US/firefox/addon/gtranslate|version item|id="version-|"|0.13.1
 
 ### download
@@ -56,8 +57,10 @@ Context Search X|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.moz
 ?!bang selection|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/483087-0.html||https://addons.mozilla.org/en-US/firefox/addon/bang-selection/?src=search|version item|id="version-|"|0.3
 
 ### tabs & sessions
-*ColorfulTabs (+sm)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|https://addons.mozilla.org/downloads/latest/colorfultabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|version item|id="version-|"|30.0.4
 *OneTab (fx>29)||https://addons.mozilla.org/firefox/downloads/latest/onetab|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/|itemprop="version">||</span>|1.9
+*Tab Mix Plus||https://addons.mozilla.org/firefox/downloads/latest/tab-mix-plus|https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus/|itemprop="version">||</span>|0.5.0.0
+*ColorfulTabs (+sm)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|https://addons.mozilla.org/downloads/latest/colorfultabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|version item|id="version-|"|30.0.4
+
 +Tab Utilities Fixed (github)|https://github.com/yfdyh000/tabutils/releases|Latest release|truncate-target">|<|2016.06.05
 Tab Utilities(fx<29)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/59961-2.html|https://addons.mozilla.org/downloads/latest/tab-utilities|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|version item|id="version-|"|1.5.28
 TooManyTabs (fx24=>1.4.3, fx31=>1.4.5)|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|https://addons.mozilla.org/downloads/latest/toomanytabs-saves-your-memory|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|version item|id="version-|"|1.4.7
@@ -78,6 +81,7 @@ Classic Theme Restorer(>29)|https://addons.mozilla.org/en-US/firefox/addon/class
 *+Keysnail (github)|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|<h3|>Version |<|2.1.6 (signed)
 *LastPass (+sm)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/8542-1.html|https://addons.mozilla.org/downloads/latest/lastpass-password-manager|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|version item|id="version-|"|3.3.1
 *Diigo Toolbar|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|https://addons.mozilla.org/downloads/latest/lastpass-password-managerhttps://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|version item|id="version-|"|5.1.0.38
+
 HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|https://addons.mozilla.org/downloads/latest/headingsmap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|version item|id="version-|"|2.1
 Lazarus Form Recovery|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/6984-0.html|https://addons.mozilla.org/downloads/latest/lazarus-form-recovery|https://addons.mozilla.org/en-US/firefox/addon/lazarus-form-recovery|version item|id="version-|"|2.3
 Skip Cert Error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|https://addons.mozilla.org/downloads/latest/skip-cert-error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|version item|id="version-|"|0.4.4
@@ -91,7 +95,7 @@ Fox Splitter|https://addons.mozilla.org/en-US/firefox/addon/fox-splitter-formerl
 Scrapbook Plus 2||https://addons.mozilla.org/firefox/downloads/file/225889/scrapbook_plus_2-2.0.0.0a1-fx.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-plus-2/?src=search|<span itemprop="name">ScrapBook Plus 2</span>|<span class="version-number" itemprop="version">|</span>|2.0.0.0a5
 Tabbundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|https://addons.mozilla.org/downloads/latest/tabundle|https://addons.mozilla.org/en-US/firefox/addon/tabundle|version item|id="version-|"|0.1.2
 wepware||https://addons.mozilla.org/firefox/downloads/file/303090/wepware_capture_and_share_live_content-1.0.6-tb+fx+sm.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/wepware-capture-and-share-live/|itemprop="name">Wepware - |itemprop="version">|<|1.0.6
-Octotree (fx24=>1.5.1, fx31=>1.7.2)|https://addons.mozilla.org/en-us/firefox/addon/octotree/||https://addons.mozilla.org/en-us/firefox/addon/octotree/|version item|id="version-|"|2.0.10
+
 
 === Firefox addons for developer ===
 Content Scrollbar|https://addons.mozilla.org/addon/content-scrollbar|https://addons.mozilla.org/downloads/latest/content-scrollbar|https://addons.mozilla.org/addon/content-scrollbar/versions|version item|id="version-|"|0.3.0
@@ -105,12 +109,15 @@ Firefinder (css)|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-f
 HttpFox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|https://addons.mozilla.org/downloads/latest/httpfox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|version item|id="version-|"|0.8.14
 JSONView (fx24/31=>0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/jsonview|https://addons.mozilla.org/downloads/latest/jsonview|https://addons.mozilla.org/en-US/firefox/addon/jsonview|version item|id="version-|"|1.1.1
 JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search|version item|id="version-|"|1.9.7.1
+Poster|https://addons.mozilla.org/en-US/firefox/addon/poster/|version item|id="version-|"|3.1.0.1-signed.1-signed
 RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|version item|id="version-|"|2.0.5
 The easiest Xdebug (fx24=>1.2)|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|https://addons.mozilla.org/downloads/latest/the-easiest-xdebug|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|version item|id="version-|"|2.1
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|https://addons.mozilla.org/downloads/latest/web-developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|version item|id="version-|"|1.2.5
+Developer Edition theme enabler|https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/|version item|id="version-|"|1.0
 
 ## utils
 Fireftp|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.26
+Octotree (fx24->1.5.1, fx31->1.7.2)|https://addons.mozilla.org/en-us/firefox/addon/octotree|version item|id="version-|"|2.0.10
 SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|https://addons.mozilla.org/firefox/downloads/latest/5817/addon-5817-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|itemprop="version">||</span>|0.8.3
 Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.12
 Xml Pretty Viewer|https://addons.mozilla.org/en-US/firefox/addon/xmlutils/?src=search|https://addons.mozilla.org/firefox/downloads/file/223506/xml_pretty_viewer-1.2-fx-windows.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/xmlutils/?src=search|itemprop="version">||</span>|1.2.1-signed
