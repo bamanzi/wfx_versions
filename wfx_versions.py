@@ -7,7 +7,7 @@ import urllib
 CL_BOLD  = "\033[1m"
 CL_RESET = "\033[0m"
 CL_RED   = "\033[31m"
-CL_BLUE  = "\033[34m"
+CL_BLUE  = "\033[33m"
 CL_GREEN = "\033[32m"
 
 # spec:
@@ -128,10 +128,31 @@ if __name__ == "__main__":
     #line="""|PaleMoon raspi|http://raspi.palemoon.org/||http://raspi.palemoon.org/latest/|application|filedesc">|</TD><TD>|10/01/2016 14:06:30"""
     #check_version(line)
 
-    print "%s %s %s" % (CL_BOLD, "checking list in temp.list", CL_RESET)
-    for line in file("temp.list"):
-        try:
-            check_version(line)
-        except Exception as e:
-            #print_error("%s" % sys.exc_info()[0])
-            print_error("%s" % e)
+    # usage
+    #    ./wfx_versions.py
+    #          check new version of softwares listed in data/temp.list
+    #    ./wfx_version.py regexp
+    #          check new version of softwares (in data/*.list) whose name match /regexp/
+    if len(sys.argv)==1:
+        print "%s %s %s" % (CL_BOLD, "checking list in temp.list", CL_RESET)
+        for line in file("data/temp.list"):
+            try:
+                check_version(line)
+            except Exception as e:
+                #print_error("%s" % sys.exc_info()[0])
+                print_error("%s" % e)
+    
+    else:
+        import re
+        re1 = re.compile(sys.argv[1], re.I)
+        from glob import glob
+        for fn in glob("data/*.list"):
+            for line in file(fn):
+                parts=line.split('|')
+                if (len(parts)>2) and (re1.search(parts[0]) or re1.search(parts[1])):
+                    try:
+                        print "%s === %s === %s" % (CL_BOLD, fn, CL_RESET)
+                        check_version(line)
+                    except Exception as e:
+                        #print_error("%s" % sys.exc_info()[0])
+                        print_error("%s" % e)   
