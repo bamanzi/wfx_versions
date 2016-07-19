@@ -7,11 +7,11 @@ DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_releas
 kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.98
 
 # database
-SQLite Database Browser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|>Latest release|css-truncate-target">|<|v3.7.0
+sqlitebrowser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|>Latest release|css-truncate-target">|<|v3.7.0
 SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index|Version</strong> ||, <a|1.9.5, 30 Aug 2013
+SQLiteStudio|http://sqlitestudio.pl/||http://sqlitestudio.pl/?act=download|>Windows<|MB</td><td>|<|3.1.0
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
-sqlitebrowser|http://sourceforge.net/projects/sqlitebrowser/||https://github.com/sqlitebrowser/sqlitebrowser/releases|Latest release|css-truncate-target">|<|v3.7.0
 mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.5.2
 pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|0.20.1
 robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0 RC6 
@@ -76,6 +76,7 @@ LogViewer Pro|http://uvviewsoft.com/logviewer/||http://uvviewsoft.com/logviewer/
 LogWizard|https://github.com/jtorjo/logwizard||https://github.com/jtorjo/logwizard/releases|>Latest release<|class="css-truncate-target">|<|1.9.1
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
+glogg (win+linux)|http://glogg.bonnefon.org/index.html|http://glogg.bonnefon.org/files/glogg-latest-x86_64-setup.exe|https://github.com/nickbnf/glogg/releases|>Releases<|"tag-name">|<|v1.1.1
  
 # regexp
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
@@ -147,11 +148,11 @@ virtualenvwrapper|https://pypi.python.org/pypi/virtualenvwrapper|<title>virtuale
 conda|https://github.com/conda/conda||https://pypi.python.org/pypi/conda/|<title>conda ||:|3.17.0
 
 ## python - repl
-bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.12
+bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.15
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|2.3.0
 IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|">|1.12
-ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|2.3.0
+ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|0.34
 
 ## python - code checker
 flake8|https://pypi.python.org/pypi/flake8|title>flake8|| : Python Package Index|2.4.1
@@ -167,9 +168,10 @@ PyScripter|http://sourceforge.net/projects/pyscripter/|http://sourceforge.net/pr
 ## python - debug
 smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.python.org/pypi/smiley|title>smiley || : Python Package Index|0.8.1
 dbghelper|https://pypi.python.org/pypi/dbghelper|title>dbghelper || :|0.3
-ipdb|https://pypi.python.org/pypi/ipdb|title>ipdb|| :|0.8.1
-pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.2
-pudb|https://github.com/inducer/pudb||https://pypi.python.org/pypi/pudb|title>pudb||:|2015.4.1
+ipdb|https://pypi.python.org/pypi/ipdb|title>ipdb|| :|0.10.1
+pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.3
+pudb|https://github.com/inducer/pudb||https://pypi.python.org/pypi/pudb|title>pudb||:|2016.2
+pdb-clone|https://bitbucket.org/xdegaye/pdb-clone/wiki/Home||http://pypi.io/project/pdb-clone|package-header__name"|pdb-clone |<|1.10
 
 ## python - misc
 jupyter|http://jupyter.org||https://pypi.python.org/pypi/jupyter/|<title>|jupyter|:|1.0.0
