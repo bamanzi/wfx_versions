@@ -12,8 +12,8 @@ SQLiteSpy|http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index||http://w
 SQLiteStudio|http://sqlitestudio.pl/||http://sqlitestudio.pl/?act=download|>Windows<|MB</td><td>|<|3.1.0
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
-mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.5.2
-pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|0.20.1
+mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.8.0
+pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|1.2.0
 robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0 RC6 
 
 # colors
@@ -30,7 +30,7 @@ Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/relea
 yEd Graph Editor|http://www.yworks.com/products/yed||http://www.yworks.com/downloads#yEd|tbl_dlgreen_t">yEd Graph Editor|tbl_dlgreen_v"><span>|<|3.14.4
 
 # editors
-SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|h2>SynWrite Editor ||<|6.18.2105
+SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.23.2320
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.27
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|>Commits|commit-group-heading">|<|Dec 31, 2013
 Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
@@ -90,13 +90,13 @@ TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/th
 Dependency Walker|http://www.dependencywalker.com/|<strong>|Dependency Walker |<|2.2
 ResEdit|http://www.resedit.net/|http://www.portablefreeware.com/download.php?dd=1675|http://www.portablefreeware.com/index.php?id=1675|class="appName">|class="version">|</span>|v1.6.6
 ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.angusj.com/resourcehacker/|Last Updated:|Version: |</TD>|3.6.0
-PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.51
+PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.49
 
-DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.7.1
+DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.81
 DebugView++|https://debugviewpp.wordpress.com/||https://github.com/djeedjay/DebugViewPP|Download latest version|DebugView++|.zip|2015_09_20
 TraceSpy|http://tracespy.codeplex.com/||http://tracespy.codeplex.com/releases|div id="ReleasesContentArea"|>TraceSpy.exe V|<|2.1.0.0
 
-Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.31
+Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.5
 
 winspy++|http://www.catch22.net/software/winspy-17|content="WinSpy++||"|1.7
 WinSpy (thomas stutz)|http://www.tech-ecke.de/index_quereinstieg.htm?/delphi/maus-und_tastendruck_simulieren.htm|http://www.torry.net/tools/other/other/WinSpy.zip|http://www.torry.net/authorsmore.php?id=5786|Developer Tools > Other Tools > Other|WinSpy v.|</b>|1.9.3
@@ -116,8 +116,8 @@ innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=fi
 
 
 # komodo
-Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|9.2.0
-Komodo IDE|http://www.activestate.com/komodo/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|9.2.0
+Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
+Komodo IDE|http://www.activestate.com/komodo/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
 New Source Tree|http://community.activestate.com/xpi/nst-new-source-tree|Current Version:|>|<|0.63
 Side by Side Diff|http://community.activestate.com/xpi/side-side-diff|Current Version:|>|<|0.2.4
 Sites|http://community.activestate.com/node/6894|Current Version:|>|<|0.3.1
@@ -150,7 +150,7 @@ conda|https://github.com/conda/conda||https://pypi.python.org/pypi/conda/|<title
 ## python - repl
 bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.15
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
-ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|2.3.0
+ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|5.1.0
 IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|">|1.12
 ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|0.34
 
@@ -177,20 +177,20 @@ pdb-clone|https://bitbucket.org/xdegaye/pdb-clone/wiki/Home||http://pypi.io/proj
 jupyter|http://jupyter.org||https://pypi.python.org/pypi/jupyter/|<title>|jupyter|:|1.0.0
 
 # ruby
-NetBeans IDE|https://netbeans.org/downloads/index.html|PAGE_ARTIFACTS_LOCATION|download/|/"|8.0.2
+NetBeans IDE|https://netbeans.org/downloads/index.html|PAGE_ARTIFACTS_LOCATION|download/|/"|8.1
 NetBeans ruby and rails plugin|http://plugins.netbeans.org/plugin/38549/ruby-and-rails|Versions available|<b>NetBeans |<|8.0
 pry|http://pryrepl.org/||https://github.com/pry/pry/releases|>Releases<|class="tag-name">|<|v0.10.1
-Bitnami rubystack (linux)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="linux"|/bitnami-rubystack-|-linux-x64-installer|2.0.0-29
-Bitnami rubystack (windows)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="windows"|/bitnami-rubystack-|-windows-installer|2.0.0-29
+Bitnami rubystack (linux)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="linux"|/bitnami-rubystack-|-linux-x64-installer|2.3.1-4
+Bitnami rubystack (windows)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="windows"|/bitnami-rubystack-|-windows-installer|2.2.5-4
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
-rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest
+rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest release|css-truncate-target">|<|v3.7.0
 
 # delphi / freepascal
 Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6RC2
 Lazarus linux-amd64|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/|tbody|<tr title="Lazarus |"|1.6RC2
 DelphiHelpExpert|http://cc.embarcadero.com/Item/23948|Updated on|lblUpdated">|<|Tue, 14 Aug 2007 02:26:23 GMT
-CnWizards (stable)|http://www.cnpack.org/||http://www.cnpack.org/showmaster.php?id=21&lang=zh-cn|class="pnlheader2"|lang=zh-cn">CnWizards|<|V1.0.9.803
+CnWizards (stable)|http://www.cnpack.org/||http://www.cnpack.org/showmaster.php?id=21&lang=zh-cn|class="pnlheader2"|lang=zh-cn">CnWizards|<|V1.1.1.849
 GExperts|http://www.gexperts.org/||http://sourceforge.net/projects/gexperts/files/GExperts/|Parent folder|title="GExperts |" class|1.36
 Delphi IDE Theme Editor|https://github.com/rruz/delphi-ide-theme-editor||https://theroadtodelphi.wordpress.com/tag/dite/|div class="entry-details"|datetime="|"|2015-09-01T12:55:11+00:00
 
