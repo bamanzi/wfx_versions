@@ -6,9 +6,9 @@ emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-
 
 # windows
 emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.5-bin-i686-mingw32
-emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|24-20140526-154828-w32-bin
-emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-bin-w64-|.7z|24.5-1
-emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/|h3>Version<|">|(|24.5-modified-5
+emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|25-20160818T142322Z-bin-i686-mingw32
+emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-w64-|.7z|25.1-O2-with-modules
+emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/|h3>Version<|">|(|25.1-modified-1
 
 
 # packages
@@ -16,7 +16,7 @@ emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windo
 markdown-mode|http://jblevins.org/projects/markdown-mode/||http://jblevins.org/git/markdown-mode.git/refs/|Tag</th>|/git/markdown-mode.git/tag/?id=v|'|2.0
 org-cua-dwim|https://github.com/mlf176f2/org-cua-dwim.el/commits/master|class="commits-listing|Commits on|<|Feb 3, 2012
 org-html-themes|https://github.com/fniessen/org-html-themes/commits/master|class="commits-listing|>Commits on|<|Aug 11, 2015
-org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.2.10</b> (Oct. 2014)
+org-mode|http://orgmode.org/|Stable version <b>||&#x2014;|8.3.6</b> (Sept. 2016)
 org-table-comment|https://github.com/mlf176f2/org-table-comment.el/commits/master|class="commits-listing|>Commits on|<|Feb 10, 2012
 ox-gfm|https://github.com/larstvei/ox-gfm/commits/master|class="commits-listing|>Commits on|<|Mar 11, 2016
 toc-org|https://github.com/snosov1/toc-org/commits/master|class="commits-listing|>Commits on|<|Aug 20, 2015
@@ -24,7 +24,7 @@ toc-org|https://github.com/snosov1/toc-org/commits/master|class="commits-listing
 ## programming
 auto-complete|http://cx4a.org/software/auto-complete/|https://github.com/auto-complete/auto-complete/archive/master.zip|https://github.com/auto-complete/auto-complete/releases|>Releases<|class="tag-name">|<|v1.5.0
 CEDET (stable)|http://cedet.sourceforge.net/||http://sourceforge.net/projects/cedet/|download_button"|Download /cedet/cedet-|.tar.|1.1
-ECB (fork)|http://ecb.sourceforge.net|https://github.com/alexott/ecb/archive/master.zip|https://github.com/alexott/ecb/commits/master|class="commits-listing|>Commits on|<|Jun 14, 2012
+ECB|http://ecb.sourceforge.net|https://github.com/ecb-home/ecb/archive/master.zip|https://github.com/ecb-home/ecb/commits/master|class="commits-listing|>Commits on|<|Jan 1, 2016
 helm-etags+|https://github.com/jixiuf/helm-etags-plus/commits/master|class="commits-listing|>Commits on|<|Apr 29, 2015
 highlight-indentation|https://github.com/antonj/Highlight-Indentation-for-Emacs/releases|>Releases<|class="tag-name">|<|v0.7.0
 highlight-symbol|https://github.com/nschum/highlight-symbol.el||https://github.com/nschum/highlight-symbol.el/releases|>Releases<|class="tag-name">|<|1.2
@@ -112,13 +112,33 @@ gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downl
 Ghostscript win32||http://mirror.cs.wisc.edu/pub/mirrors/ghost/GPL/gs[%0a1][%0a3-]/gs[%0a1][%0a3-]w32.exe|http://pages.cs.wisc.edu/~ghost/|>GPL Ghostscript<|>GPL Ghostscript|<|9.02
 busybox-w32|https://github.com/rmyorston/busybox-w32||ftp://ftp.tigress.co.uk/public/gpl/6.0.0/busybox/|g3fd3465.tgz|size="-1">|<|28/Aug/2013 13:55
 
-## emacs 23.1
-libpng12 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libpng.htm|Version<|<p>|</p>|1.2.37
-jpeg62 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/jpeg.htm|Version<|<p>|</p>|6b
-tiff3 (gnuwin32) |http://gnuwin32.sourceforge.net/packages/tiff.htm|Version<|<p>|</p>|3.8.2
-zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>|</p>|1.2.3
-giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
-libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
+## emacs 25.1
+gnutls (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|gnutls-||-w32|3.4.15
+
+libpng16 (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|libpng-||-w32|1.6.12
+libjpeg-8 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-v8|jpeg-|-w32|v8d
+libgif-7 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||-w32|5.1.0
+
+libxml2-2 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|libxml2-||-w32-bin|2.7.8
+\_ zlib1|http://sourceforge.net/projects/ezwinports/files/|zlib-||-w32-bin|1.2.8-2
+
+libtiff-5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|tiff-||-w32-bin|4.0.3
+\_ zlib1|http://sourceforge.net/projects/ezwinports/files/|zlib-||-w32-bin|1.2.8-2
+\_ liblzma-5|http://sourceforge.net/projects/ezwinports/files/|xz-||-w32|5.0.3
+
+## emacs 25.1 win64
+
+libjpeg-8|http://ftp.gnome.org/pub/gnome/binaries/win64/dependencies/?C=M;O=D|jpeg_8||_win64|8d-1
+
+libxml2-2|http://ftp.gnome.org/pub/gnome/binaries/win64/dependencies/?C=M;O=D|libxml2_||_win64|2.7.7-1
+\_ zlib1|http://ftp.gnome.org/pub/gnome/binaries/win64/dependencies/?C=M;O=D|zlib_||_win64|1.2.5-1
+
+
+## emacs 24.4
+libpng16 (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|libpng-||-w32|1.6.7
+jpeg9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-v9|jpeg-|-w32|v9a
+giflib5/libgif-7 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||-w32|5.1.0
+tiff-4 / libtiff-5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|tiff-||-w32-bin|4.0.3
 
 ## emacs 24.3
 libpng14 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|libpng_||_win32|1.4.12-1
@@ -129,20 +149,20 @@ zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>
 giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
 libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
 
-## emacs 24.4
-libpng16 (ezwinports) )|http://sourceforge.net/projects/ezwinports/files/|libpng-||-w32|1.6.7
-jpeg9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-||-w32|v9
-giflib5/libgif-7 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|giflib-||-w32|5.1.0
-tiff-4 / libtiff-5 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|tiff-||-w32-bin|4.0.3
-jpeg-v9 (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|jpeg-v||-w32-bin|9a
+## emacs 23.1
+libpng12 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libpng.htm|Version<|<p>|</p>|1.2.37
+jpeg62 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/jpeg.htm|Version<|<p>|</p>|6b
+tiff3 (gnuwin32) |http://gnuwin32.sourceforge.net/packages/tiff.htm|Version<|<p>|</p>|3.8.2
+zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>|</p>|1.2.3
+giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
+libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
 
 ## xxxxx
-jpeg8 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|jpeg_||_win32|8d-1
 
 
 # microemacs
 Jasspa's MicroEmacs|http://www.jasspa.com/downlinux.html|h2>Debian |/me-jasspa_|_i386|0.0.20091011
 JED|http://www.jedsoft.org/jed||http://www.jedsoft.org/releases/jed/|href="jed-||.tar|0.99-19
 Jed on Windows|http://www.paneura.com/~dino/wjed.html|HREF="files/jed_||.exe|0.99.18-s2.0.6-i154
-JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.1
+JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.3
 JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="joewin-src-|.zip|3.8

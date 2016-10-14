@@ -11,13 +11,15 @@ Ditto|http://www.portablefreeware.com/index.php?id=1361||http://www.portablefree
 Clipboard Magic|http://www.cybermatrix.com/clipboard-magic.html||http://www.cybermatrix.com/cmdownloads.html|b>Version<|:|<|5.02
 
 ## console
-ConsoleZ|https://github.com/cbucher/console/wiki/Downloads||https://github.com/cbucher/console/releases|Latest release|css-truncate-target">|<|1.16.0
+ConsoleZ|https://github.com/cbucher/console/wiki/Downloads||https://github.com/cbucher/console/releases|Latest release|css-truncate-target">|<|1.17.1
 ConEmu (preview channel)|http://sourceforge.net/projects/conemu/?source=navbar||http://sourceforge.net/projects/conemu/files/Preview/|id="parent_folder"|title="ConEmuPack.|.7z|160529
 ConEmu-cygwin-connector|https://conemu.github.io/en/CygwinMsysConnector.html||https://github.com/Maximus5/cygwin-connector/releases|>Latest release<|class="css-truncate-target">|<|v0.7.4
 ConEmu plink|https://github.com/Maximus5/plink/releases|>Latest release<|class="css-truncate-target">|<|v151109
 clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.7
 
 ## editor
+BowPad|http://www.portablefreeware.com/index.php?id=26832683||http://www.portablefreeware.com/index.php?id=2683|"appName"|"version">|<|v2.2.4
+
 SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.6.5
 Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.6
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
@@ -46,7 +48,7 @@ Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/
 
 ## filesystem - copier
 TeraCopy|http://www.codesector.com/download.php|http://www.portablefreeware.com/download.php?dd=1513|http://www.portablefreeware.com/index.php?id=1513|class="appName">|class="version">|</span>|v2.3
-FastCopy|http://www.portablefreeware.com/index.php?id=1437||http://www.portablefreeware.com/index.php?id=1437|"appName"|"version">|<|v3.13
+FastCopy|http://www.portablefreeware.com/index.php?id=1437||http://www.portablefreeware.com/index.php?id=1437|"appName"|"version">|<|v3.22
 SuperCopier|http://supercopier.sfxteam.org/|http://www.portablefreeware.com/download.php?dd=819|http://www.portablefreeware.com/index.php?id=819|class="appName">|class="version">|</span>|v1.2.2.0
 
 ## filesystem - search
@@ -68,6 +70,7 @@ VCMI (Heroes 3 engine)|http://forum.vcmi.eu/portal.php|http://download.vcmi.eu/v
 IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php?dd=49|http://www.portablefreeware.com/index.php?id=49|"appName"|"version">|<|v4.42
 SageThumbs|https://sourceforge.net/projects/sagethumbs/|https://sourceforge.net/projects/sagethumbs/files/latest/download?source=files|https://sourceforge.net/projects/sagethumbs/files/|<tbody>|<tr title="sagethumbs_|_|2.0.0.22
 FSCapture (free)|http://www.portablefreeware.com/index.php?id=775|class="appName">|class="version">|<|v5.3
+
 PicPick||http://www.nteworks.com/latestdownload/picpick_portable.zip|http://www.portablefreeware.com/index.php?id=1496|class="appName">|class="version">|<|v4.1.4
 Paint.net||http://www.dotpdn.com/downloads/pdn.html|http://www.getpaint.net/download.html|Version</font>|<strong>|<|4.0.9
 GIMP (win)|http://www.gimp.org/||http://www.gimp.org/downloads/|h2>GIMP for Windows|class="button_headline">Download GIMP |<|2.8.14
@@ -191,7 +194,7 @@ CloneApp|http://www.mirinsoft.com/downloads/ca_update/changelog.txt|Changelog ||
 
 # Total Commander ---
 Total Commander (win32)|http://www.ghisler.com/|Total Commander</font>|Version |,|8.52a
-Total Commander (beta)|http://www.ghisler.com/|<strong>New|Total Commander|for Windows|9.0 beta 13 (32+64 bit)
+Total Commander (beta)|http://www.ghisler.com/|<strong>New|Total Commander|for Windows|9.0 beta 17 (32+64 bit)
 TC util BarEditor|http://www.totalcmd.net/plugring/BarEditor.html|http://www.totalcmd.net/download.php?id=BarEditor|http://www.totalcmd.net/directory/util.html|/BarEditor|&nbsp;|<|1.5
 TC util Plugins Manager|http://www.totalcmd.net/plugring/tc_plugman.html|http://www.totalcmd.net/download.php?id=tc_plugman|http://www.totalcmd.net/plugring/tc_plugman.html|<title>|TC Plugins Manager | -|2.2.8
 TC util NTLinksMaker|http://totalcmd.net/plugring/NTLinksMaker.html|http://totalcmd.net/download.php?id=NTLinksMaker|http://totalcmd.net/plugring/NTLinksMaker.html|<title>|NTLinks Maker| -|1.1.0.306
@@ -200,7 +203,7 @@ TC wcx CHMDir|http://totalcmd.net/plugring/chmdir.html|h1>CHMDir ||<|0.41-alpha
 TC wcx MhtUnPack |http://totalcmd.net/plugring/MhtUnPack.html|h1>MhtUnPack ||<|2.0
 TC wcx Total7zip||http://www.totalcmd.net/download.php?id=Total7zip|http://www.totalcmd.net/plugring/Total7zip.html|<h1>Total7zip ||</h1>|0.8.5.6
 TC wcx TotalObserver||http://www.totalcmd.net/download.php?id=totalobserver|http://totalcmd.net/plugring/totalobserver.html|<h1>TotalObserver||</h1>|1.2.0
-TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|button blue downloadprod|>Version |<|2.2
+TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|button blue downloadprod|>Version |<|2.3
 TC wfx ext4tc|http://sourceforge.net/projects/ext4tc/files/ext4Plugin/|span>Parent folder|<tr title="ext4Plugin-|"|0.17
 TC wfx procviewer|http://totalcmd.net/plugring/procview.html|<h1>procViewer ||<|1.5.1 beta
 TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.7.0
@@ -238,12 +241,12 @@ kill (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-
 
 
 # Unixer on Windows
-DiskInternals Linux Reader||http://www.diskinternals.com/download/Linux_Reader.exe|http://www.diskinternals.com/download/|class=dp_name>Linux Reader||<|2.3.0.3
+DiskInternals Linux Reader||http://www.diskinternals.com/download/Linux_Reader.exe|http://www.diskinternals.com/download/|class=dp_name>Linux Reader||<|2.4
 VcXsrv|http://sourceforge.net/projects/vcxsrv/files/vcxsrv|<tbody>|<tr title="|"|1.18.1.1
 VirtualBox|https://www.virtualbox.org/wiki/Downloads|for Windows hosts</strong>|/VirtualBox-|-Win.exe|5.0.20-106931
 
 ## cygwin/msys
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v9.1
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v9.3
 MobaXterm mercurial plugin (gfwed?)||http://www.bananahut.net/software/mobaxterm-plugins/Mercurial.mxt3?attredirects=0&d=1|http://www.bananahut.net/software/mobaxterm-plugins|Mercurial.mxt3|span dir="ltr">|</|Feb 20, 2014, 7:14 PM
 MYS Base|http://sourceforge.net/projects/mingw/files/MSYS/Base/|<tbody>|abbr title="|"|2014-10-19 20:45:35 UTC
 MSYS Extensions|http://sourceforge.net/projects/mingw/files/MSYS/Extension/|<tbody>|abbr title="|"|2015-11-20 20:59:00 UTC

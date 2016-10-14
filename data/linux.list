@@ -22,7 +22,7 @@ tmux (ubuntu 12.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.seri
 tmux (ubuntu 14.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=trusty|tmux|<td>|<|2.0-1~ppa1~t
 
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.1.1
-joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.2
+joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.3
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
@@ -85,8 +85,7 @@ Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|
  
 
 ## notes
-( new entry )|http:// https:// ftp://|( new entry )|( new entry )|( new entry )|0.0.0
-CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.36.4
+CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.37.5
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
