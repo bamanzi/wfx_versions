@@ -244,7 +244,11 @@ Far Manager (stable)|http://farmanager.com/download.php?l=en|Stable builds|files
 |Far3 plugin NamedFolder|http://code.google.com/p/namedfolder||http://plugring.farmanager.com/plugin.php?pid=453&l=en|Far version</th><td>:</td><td>3|100%">|</td>|4.0.0.284
 |Far3 plugin MultimediaViewer|http://code.goog.com/p/multimediaviewer||http://plugring.farmanager.com/plugin.php?pid=523&l=en|Far version</th><td>:</td><td>3|100%">|</td>|1.4.7.0
 |Far3 plugin ImageViewer|http://farplugs.sourceforge.net/||http://plugring.farmanager.com/plugin.php?pid=874&l=en|Far version</th><td>:</td><td>3|100%">|</td>|3.46.5.4362
-
+Far3 plugin NetBox(github)|https://github.com/michaellukashov/Far-NetBox/||https://github.com/michaellukashov/Far-NetBox/releases|Latest release|class="css-truncate-target">|<|v2.2.0
+|Far3 plugin NetBox|https://github.com/michaellukashov/Far-NetBox/||http://plugring.farmanager.com/plugin.php?pid=859&l=en|Far version|width="100%">|</td>|2.2.0.427
+|Far3 plugin AdvCmpEx|http://code.google.com/p/farplug-alvsl||http://plugring.farmanager.com/plugin.php?pid=19&l=en|Far version</th><td>:</td><td>3|width="100%">|</td>|3.0.0.36
+|Far3 plugin PlugMenu|http://code.google.com/p/far-plugins/wiki/PlugMenu||http://plugring.farmanager.com/plugin.php?pid=882&l=en|Far version</th><td>:</td><td>3|width="100%">|</td>|1.21.0.0
+|Far2 plugin NTFSFile|http://code.google.com/p/farplug||http://plugring.farmanager.com/plugin.php?pid=904&l=en|Far version</th><td>:</td><td>3|width="100%">|</td>|5.5.2.0
 
 # Unixer on Windows
 DiskInternals Linux Reader||http://www.diskinternals.com/download/Linux_Reader.exe|http://www.diskinternals.com/download/|class=dp_name>Linux Reader||<|2.4
@@ -252,7 +256,7 @@ VcXsrv|http://sourceforge.net/projects/vcxsrv/files/vcxsrv|<tbody>|<tr title="|"
 VirtualBox|https://www.virtualbox.org/wiki/Downloads|for Windows hosts</strong>|/VirtualBox-|-Win.exe|5.0.20-106931
 
 ## cygwin/msys
-MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v9.3
+MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v9.4
 MobaXterm mercurial plugin (gfwed?)||http://www.bananahut.net/software/mobaxterm-plugins/Mercurial.mxt3?attredirects=0&d=1|http://www.bananahut.net/software/mobaxterm-plugins|Mercurial.mxt3|span dir="ltr">|</|Feb 20, 2014, 7:14 PM
 MYS Base|http://sourceforge.net/projects/mingw/files/MSYS/Base/|<tbody>|abbr title="|"|2014-10-19 20:45:35 UTC
 MSYS Extensions|http://sourceforge.net/projects/mingw/files/MSYS/Extension/|<tbody>|abbr title="|"|2015-11-20 20:59:00 UTC
