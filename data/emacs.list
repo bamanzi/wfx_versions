@@ -33,7 +33,7 @@ indent-guide|https://github.com/zk-phi/indent-guide/commits/master||https://gith
 projectile|https://github.com/bbatsov/projectile|https://github.com/bbatsov/projectile/releases/latest|https://github.com/bbatsov/projectile/releases|class="tag-info commit|"tag-name">|<|v0.10.0
 
 ## python
-anaconda-mode|https://github.com/proofit404/anaconda-mode/commits/master|class="commits-listing|>Commits on|<|Mar, 21, 2015
+anaconda-mode|https://github.com/proofit404/anaconda-mode/releases|class="release-timeline|class="tag-name">|<|v0.1.6
 py-smart-operator|https://github.com/rmuslimov/py-smart-operator/commits/master|class="commits-listing|>Commits on|<|Aug 25, 2015
 pydoc|https://github.com/statmobile/pydoc/commits/master|class="commits-listing|>Commits on|<|Mar 16, 2015
 pydoc-info|https://bitbucket.org/jonwaltman/pydoc-info/commits/all|commit-list"|data-title="true">|<|2011-03-01
@@ -165,4 +165,4 @@ Jasspa's MicroEmacs|http://www.jasspa.com/downlinux.html|h2>Debian |/me-jasspa_|
 JED|http://www.jedsoft.org/jed||http://www.jedsoft.org/releases/jed/|href="jed-||.tar|0.99-19
 Jed on Windows|http://www.paneura.com/~dino/wjed.html|HREF="files/jed_||.exe|0.99.18-s2.0.6-i154
 JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.3
-JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="joewin-src-|.zip|3.8
+JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="|"|4.3

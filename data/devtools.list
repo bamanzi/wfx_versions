@@ -11,10 +11,10 @@ sqlitebrowser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqliteb
 SQLiteSpy|http://www.yunqa.de/delphi/products/sqlitespy/index||http://www.yunqa.de/delphi/products/sqlitespy/history|<h2|SQLiteSpy |<|1.9.11 – 10 Jun 2016
 SQLiteStudio|http://sqlitestudio.pl/||http://sqlitestudio.pl/?act=download|>Windows<|MB</td><td>|<|3.1.0
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
-Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|4.1.0.13
+Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|5.3.1.9
 mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.8.0
 pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|1.2.0
-robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0 RC6 
+robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0
 
 # colors
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
@@ -30,14 +30,14 @@ Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/relea
 yEd Graph Editor|http://www.yworks.com/products/yed||http://www.yworks.com/downloads#yEd|tbl_dlgreen_t">yEd Graph Editor|tbl_dlgreen_v"><span>|<|3.14.4
 
 # editors
-SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.23.2320
+SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.31.2500
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.28
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|class="commits-listing|Commits on |<|Feb 8, 2016
-Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4
+Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4.2
 
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.4.1
-JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.7.8
+JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.21
 
 ## notepad++
 Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|<title>Notepad++ || - Current Version</title>|v6.8.6
@@ -141,30 +141,31 @@ winrun4j|http://winrun4j.sourceforge.net/|http://sourceforge.net/projects/winrun
 # python
 Portable Python|http://portablepython.com/||http://portablepython.com/wiki/Download/|img src="http://portablepython.com/images/download.png|>Portable Python |<|2.7.6.1
 WinPython 2.x|http://winpython.github.io/||http://sourceforge.net/projects/winpython/files/WinPython_2.7/|<tbody>|<tr title="|"|2.7.10.2
-WinPython 3.x|https://winpython.github.io/||http://sourceforge.net/projects/winpython/files/|Looking for the latest version?|bit-|.exe|3.4.3.5
+WinPython 3.x|https://winpython.github.io/||http://sourceforge.net/projects/winpython/files/|Looking for the latest version?|bit-|.exe|3.5.2.3Qt5
 
 ## python - package/env manager
-pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|7.1.0
+pip|https://pip.pypa.io/||https://pypi.python.org/pypi/pip|title>pip|| : Python Package Index|9.0.1
 pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.python.org/pypi/pyenv|title>pyenv|| : Python Package Index|20150113
-virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|13.1.0
-virtualenvwrapper|https://pypi.python.org/pypi/virtualenvwrapper|<title>virtualenvwrapper ||:|4.7.1
+virtualenv|https://virtualenv.pypa.io/||https://pypi.python.org/pypi/virtualenv|title>virtualenv|| : Python Package Index|15.1.0
+virtualenvwrapper|https://pypi.python.org/pypi/virtualenvwrapper|<title>virtualenvwrapper ||:|4.7.2
 conda|https://github.com/conda/conda||https://pypi.python.org/pypi/conda/|<title>conda ||:|3.17.0
 
 ## python - repl
-bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.15
-dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
+bpython|http://bpython-interpreter.org/||http://pypi.python.org/pypi/bpython/|<h1>|bpython|</h1>|0.16
+ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|0.36
 ipython|http://ipython.org||https://pypi.python.org/pypi/ipython/|<title>|ipython |:|5.1.0
-IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|">|1.12
-ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.python.org/pypi/ptpython/|<title>|ptpython |:|0.34
+IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|.zip|1.13
+
+dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 
 ## python - code checker
-flake8|https://pypi.python.org/pypi/flake8|title>flake8|| : Python Package Index|2.4.1
+flake8|https://pypi.python.org/pypi/flake8|title>flake8|| : Python Package Index|3.2.1
 prospector|https://github.com/landscapeio/prospector||https://pypi.python.org/pypi/prospector|title>prospector|| : Python Package Index|0.10.2
-pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyflakes|title>pyflakes|| : Python Package Index|0.9.2
+pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyflakes|title>pyflakes|| : Python Package Index|1.4.0
 
 
 ## python - editor/ide
-spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|2.3.5
+spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|3.0.2
 jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.python.org/pypi/jedi|title>jedi || : Python Package Index|0.9.0
 PyScripter|http://sourceforge.net/projects/pyscripter/|http://sourceforge.net/projects/pyscripter/files/latest/download|http://sourceforge.net/projects/pyscripter/files/|<tbody|<tr title="PyScripter-|.zip"|v2.6.0
 
@@ -193,8 +194,8 @@ NetBeans ruby and rails plugin|http://plugins.netbeans.org/plugin/38549/ruby-and
 NetBeans python plugin|http://plugins.netbeans.org/plugin/61688/ruby-and-rails|Versions available|<b>NetBeans |<|8.1
 
 # delphi / freepascal
-Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6
-Lazarus linux-amd64|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/|tbody|<tr title="Lazarus |"|1.6
+Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6.2
+Lazarus linux-amd64|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/|tbody|<tr title="Lazarus |"|1.6.2
 DelphiHelpExpert|http://cc.embarcadero.com/Item/23948|Updated on|lblUpdated">|<|Tue, 14 Aug 2007 02:26:23 GMT
 CnWizards (stable)|http://www.cnpack.org/||http://www.cnpack.org/showmaster.php?id=21&lang=zh-cn|class="pnlheader2"|lang=zh-cn">CnWizards|<|V1.1.1.849
 GExperts|http://www.gexperts.org/||http://sourceforge.net/projects/gexperts/files/GExperts/|Parent folder|title="GExperts |" class|1.36
@@ -202,4 +203,3 @@ Delphi IDE Theme Editor|https://github.com/rruz/delphi-ide-theme-editor||https:/
 
 # trash
 WinMerge|http://winmerge.org/downloads.php|Download Now!|Version|;|2.12.4
-

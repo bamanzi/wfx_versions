@@ -201,12 +201,22 @@ winamp lite|http://winamp.en.botbi.com||http://www.portablefreeware.com/index.ph
 
 # small utils
 copytext||http://www10.pair.com/vsap/CopyText.zip|http://www10.pair.com/vsap/|SRC="CopyText.gif|version|<|2.2
+Textify|http://rammichael.com/textify||http://rammichael.com/downloads/textify_setup.exe?changelog|"error-page"|b>|<|v1.5 (November 26, 2016)
+
 Don't Sleep|http://www.softwareok.com/?seite=Microsoft/DontSleep|http://www.portablefreeware.com/download.php?dd=1738|http://www.portablefreeware.com/index.php?id=1738|class="appName">|class="version">v|</span>|3.91
+Caffeine|http://www.zhornsoftware.co.uk/caffeine/index.html|http://www.portablefreeware.com/download.php?dd=266|http://www.portablefreeware.com/index.php?id=266|class="appName">|class="version">v|</span>|1.62
+
 metapath|http://www.flos-freeware.ch/archive.html|metapath|Project last updated: |<|October 28, 2012
-NirCmd||http://www.nirsoft.net/utils/nircmd.zip|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="nircmd.html">|NirCmd v|</a>|2.81
-Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
 win-xkill|https://bitbucket.org/sta-ger/win-xkill/||https://bitbucket.org/sta-ger/win-xkill/downloads|>Download repository|time datetime="|"|2014-10-24T07:48:52.947065
 ZoomIt||http://download.sysinternals.com/files/ZoomIt.zip|http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx|<h1>ZoomIt v||</h1>|4.5
+
+NirCmd||http://www.nirsoft.net/utils/nircmd.zip|http://www.nirsoft.net/utils/index.html|<a class="filetitle" href="nircmd.html">|NirCmd v|</a>|2.81
+Junction||http://download.sysinternals.com/Files/Junction.zip|http://technet.microsoft.com/en-us/sysinternals/bb896768.aspx||Junction v|<|1.06
+
+uptime|http://uptimeexe.codeplex.com|"current_rating"|uptime.exe |<|v1.1
+uptime (w' events)|http://www.zedt.eu/tech/windows/microsofts-uptime-utility/|UPTIME, Version ||(C)|1.01
+ln||http://schinagl.priv.at/nt/ln/ln.zip|http://schinagl.priv.at/nt/ln/ln.html|>Last Updated ||<|May 15, 2016 Version 2.8.7.2
+whereis||http://www.flounder.com/whereis.zip|http://www.flounder.com/whereis.htm|h2|Version|Copyright|1.0.0.4
 sudo (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-and-kill-for-windows/|http://krutonium.leshcatlabs.net/Applications/Sudo/Sudo.exe|http://krutonium.leshcatlabs.net/downloads/|>Sudo|class="tg-|"|031e
 kill (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-and-kill-for-windows/||http://krutonium.leshcatlabs.net/downloads/|>Kill|class="tg-|"|031e
 
@@ -261,8 +271,8 @@ MobaXterm mercurial plugin (gfwed?)||http://www.bananahut.net/software/mobaxterm
 MYS Base|http://sourceforge.net/projects/mingw/files/MSYS/Base/|<tbody>|abbr title="|"|2014-10-19 20:45:35 UTC
 MSYS Extensions|http://sourceforge.net/projects/mingw/files/MSYS/Extension/|<tbody>|abbr title="|"|2015-11-20 20:59:00 UTC
 MSYS Contributed|http://sourceforge.net/projects/mingw/files/MSYS/Contributed/|<tbody>|abbr title="|"|2016-03-15 21:10:54 UTC
-mintty|https://github.com/mintty/mintty/releases|class="release-timeline"|class="css-truncate-target">|<|2.7.2
-winpty|https://github.com/rprichard/winpty/releases|class="release-timeline"|class="css-truncate-target">|<|0.4.0
+mintty|https://github.com/mintty/mintty/releases|class="release-timeline"|class="css-truncate-target">|<|2.7.3
+winpty|https://github.com/rprichard/winpty/releases|class="release-timeline"|class="css-truncate-target">|<|0.4.1
 
 ## gnu utils
 gow|https://github.com/bmatzelle/gow/wiki|https://github.com/bmatzelle/gow/downloads|https://github.com/bmatzelle/gow/wiki/change_log|Gow release.|a>|<|0.8.0 (2014-02-15)
@@ -270,16 +280,18 @@ busybox-w32|https://github.com/rmyorston/busybox-w32|ftp://ftp.tigress.co.uk/pub
 grep (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|grep-||-w32|2.10
 findutils (ezwinports)|http://sourceforge.net/projects/ezwinports/files/|findutils-||-w|4.2.30-5
 wget (ezwinports)  |http://sourceforge.net/projects/ezwinports/files/|wget-||-w32|1.13.4
-whereis||http://www.flounder.com/whereis.zip|http://www.flounder.com/whereis.htm|h2|Version|Copyright|1.0.0.4
 which (ezwinports) |http://sourceforge.net/projects/ezwinports/files/|which-||-w32|2.20-2
 
 ## SSH
 putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.67
-kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.1.2
+kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.4.1
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|4.2
+
+SuperPuTTY|https://github.com/jimradford/superputty/releases|>Latest release<|class="css-truncate-target">|<|1.4.0.8
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
-SuperPuTTY|https://github.com/jimradford/superputty/releases|>Latest release<|class="css-truncate-target">|<|1.4.0.8
+
+
 Xshell|https://www.netsarang.com/products/xsh_overview.html||https://www.netsarang.com/products/xsh_update.html|h1>Update|h4">Xshell|<|5 Build 0983, Jun 03, 2016
 xshell portable|http://www.portablesoft.org/down/1985/|div id="crumb"|/down/1985/">Xshell |<|5 Build 0446 (5.0.0446)
 
@@ -288,7 +300,7 @@ FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://ww
 Copssh|https://itefix.net/copssh||https://itefix.net/taxonomy/term/893|a href="/copssh"|version | |5.5.3
 
 ### scp/sftp
-WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.9.1
+WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.9.3
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.21.0
 dockany|https://github.com/dokan-dev/dokany/releases|Latest release|css-truncate-target">|<|v0.8.0
 win-sshfs|https://github.com/dimov-cz/win-sshfs/releases|Latest release|css-truncate-target">|<|1.5.12.8
