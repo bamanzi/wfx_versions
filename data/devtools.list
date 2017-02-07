@@ -30,9 +30,9 @@ Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/relea
 yEd Graph Editor|http://www.yworks.com/products/yed||http://www.yworks.com/downloads#yEd|tbl_dlgreen_t">yEd Graph Editor|tbl_dlgreen_v"><span>|<|3.14.4
 
 # editors
-SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.31.2500
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.28
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|class="commits-listing|Commits on |<|Feb 8, 2016
+SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.33.2550
 Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4.2
 
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
@@ -121,15 +121,21 @@ innounp||http://sourceforge.net/projects/innounp/files/latest/download?source=fi
 # komodo
 Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
 Komodo IDE|http://www.activestate.com/komodo/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
-New Source Tree|http://community.activestate.com/xpi/nst-new-source-tree|Current Version:|>|<|0.63
-Side by Side Diff|http://community.activestate.com/xpi/side-side-diff|Current Version:|>|<|0.2.4
-Sites|http://community.activestate.com/node/6894|Current Version:|>|<|0.3.1
-TODO Helper|http://community.activestate.com/xpi/todo-helper|Current Version:|>|<|1.4.4
-TabSwitcher revived|http://community.activestate.com/node/9047|Current Version:|>|<|1.1.1
-haml syntax highlighting|http://community.activestate.com/node/9903|Current Version:|>|<|0.1.3
-koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|Latest release|css-truncate-target">|<|0.12
-markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|Latest release|css-truncate-target">|<|0.3
 
+HTML Entities Pane|http://community.komodoide.com/packages/addons/html-entities-pane/||https://github.com/babobski/HTML-Entities/releases|Latest release|css-truncate-target">|<|1.7
+koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|Latest release|css-truncate-target">|<|0.12
+New Source Tree|http://community.komodoide.com/packages/addons/new-source-tree||https://github.com/HTD/NST/blob/testing/install.rdf|>version<|&gt;|&|0.63
+Open in Filezilla|http://community.komodoide.com/packages/addons/open-in-filezilla/||https://github.com/babobski/Open-In-FileZilla/releases|>Latest release|css-truncate-target">|<|1.1-beta
+qwin|http://community.komodoide.com/packages/addons/qwin/||https://github.com/agroszer/komodo-qwin/releases|>Latest release|css-truncate-target">|<|0.8
+Side by Side Diff|http://community.komodoide.com/packages/addons/side-side||https://github.com/babobski/Side-By-Side/releases|Latest release|css-truncate-target">|<|1.1
+Sites|http://community.komodoide.com/packages/addons/sites||https://github.com/brabitom/komodo-sites/releases|Latest release|css-truncate-target">|<|0.4
+TODO Helper|http://community.komodoide.com/packages/addons/todo-helper/||https://github.com/Komodo/Todo/releases|Latest release|css-truncate-target">|<|1.4.4
+
+markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|Latest release|css-truncate-target">|<|0.3
+haml syntax highlighting|http://community.activestate.com/node/9903|Current Version:|>|<|0.1.3
+Perfect Python|http://community.komodoide.com/packages/addons/perfect-python/||https://github.com/raymondbutcher/perfectpython/blob/master/install.rdf|>version<|&gt;|&lt;|0.8.0
+
+?TabSwitcher revived|http://community.activestate.com/node/9047|Current Version:|>|<|1.1.1
 
 # java
 Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5
