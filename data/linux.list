@@ -134,3 +134,4 @@ madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/f
 coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
 colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
 colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
+grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10

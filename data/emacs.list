@@ -152,10 +152,12 @@ libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Versi
 ## emacs 23.1
 libpng12 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libpng.htm|Version<|<p>|</p>|1.2.37
 jpeg62 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/jpeg.htm|Version<|<p>|</p>|6b
+tiff3 (gtk)|http://ftp.gnome.org/pub/gnome/binaries/win32/dependencies/?C=M;O=D|libtiff_||_win32|3.9.2-1
 tiff3 (gnuwin32) |http://gnuwin32.sourceforge.net/packages/tiff.htm|Version<|<p>|</p>|3.8.2
 zlib  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/zlib.htm|Version<|<p>|</p>|1.2.3
 giflib4  (gnuwin32) |http://gnuwin32.sourceforge.net/packages/giflib.htm|Version<|<p>|</p>|4.1.4
 libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Version<|<p>|</p>|4.1.4
+
 
 ## xxxxx
 
