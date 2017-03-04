@@ -7,20 +7,20 @@ sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.co
 drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.2
-zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.4.1
-fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.15.9
-fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.18
-peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.7
+zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.5.0
+fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.5
+fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.20
+peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.9
 
 # tui
-midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest release|Current version is: |;|4.8.17
-|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
+midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest release|Current version is: |;|4.8.18
+|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.18-1
 ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
 
 tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|https://github.com/tmux/tmux/releases|>Latest release|class="css-truncate-target">|<|2.3
 tmux (ubuntu 12.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=precise|tmux|<td>|<|1.9a-1~ppa1~p
 tmux (ubuntu 14.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=trusty|tmux|<td>|<|2.0-1~ppa1~t
-gnu screen|https://www.gnu.org/software/screen/||http://git.savannah.gnu.org/cgit/screen.git/refs/|>Tag<|screen.git/tag/?h=|'|v.4.5.0
+gnu screen|https://www.gnu.org/software/screen/||http://git.savannah.gnu.org/cgit/screen.git/refs/|>Tag<|screen.git/tag/?h=|'|v.4.5.1
 
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.2
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.3
@@ -61,12 +61,13 @@ diff-ext (thunar)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.
 diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Nautilus extension)|gdiff-ext-|.tar|0.3.2
 
 ## file manager
-Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|https://sourceforge.net/projects/doublecmd/files/DC%20for%20Linux%2032%20bit/|<tbody|tr title="Double Commander |"|0.7.7 beta
+Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|https://sourceforge.net/projects/doublecmd/files/DC%20for%20Linux%2032%20bit/|<tbody|tr title="Double Commander |"|0.7.8 beta
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
 Nemo (ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|<tbody>|nemo - |~NoobsLab|2.8.7-b~trusty
 
 ## graphics
 lazpaint|http://lazpaiint.sourceforge.net|http://sourceforge.net/projects/lazpaint/files/latest/download?source=files|http://sourceforge.net/projects/lazpaint/files/bin|_linux32.deb|bin/lazpaint|_|6.4.1
+
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
 pinta|http://pinta-project.com/|Current Version: ||<|1.6
 shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shotwell/tree/NEWS|class='lines'|Shotwell|--|0.22.0 - 23 March 2015
@@ -75,6 +76,7 @@ gthumb|https://wiki.gnome.org/Apps/gthumb||https://git.gnome.org/browse/gthumb/r
 ## multimedia
 smplayer|http://smplayer.sourceforge.net/en/downloads||https://launchpad.net/~rvm/+archive/ubuntu/smplayer?field.series_filter=trusty|id="packages_list"|smplayer|<|
 vlc|http://www.videolan.org/vlc/download-sources.html|Latest VLC source|(|)|2.2.1
+kodi (ppa xenial)|https://github.com/Automattic/simplenote-electron/releases/download/v1.0.8/simplenote-1.0.8.deb||https://launchpad.net/~team-xbmc/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|id="packages_list"|kodi - 2:|<|17.0~git20170210.1529-final-0xenial
 
 
 ## network
@@ -91,6 +93,8 @@ CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/ch
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
+simplenote|https://github.com/Automattic/simplenote-electron/releases/|Latest release|css-truncate-target">|<|v1.0.8
+nvpy|https://github.com/cpbotha/nvpy/releases|class="release |css-truncate-target">|<|v1.0.0-BETA
 
 ## misc
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|2.0.2 (2016-02-02)

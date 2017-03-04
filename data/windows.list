@@ -83,6 +83,7 @@ GIMP (win)|http://www.gimp.org/||http://www.gimp.org/downloads/|h2>GIMP for Wind
 GifCam|http://blog.bahraniapps.com/gifcam/||http://www.portablefreeware.com/index.php?id=2541|class="appName">|class="version">|<|v5.1
 
 ## launcher
+Jumplist Launcher|http://ali.dj/jumplist-launcher||http://techspot.com/downloads/5143-jumplist-launcher.html|itemprop="softwareVersion">||<|7.21
 Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
 RocketDock|https://punklabs.com/rocketdock||http://www.portablefreeware.com/index.php?id=1149|class="appName"|class="version">|<|v1.3.5
 
@@ -127,7 +128,7 @@ Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.ama
 ## remote/pair desktop
 Input Director|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|latest version|<b>|<|v1.4
 Mouse without Borders|http://www.microsoft.com/en-us/download/details.aspx?id=35460|Version:</span>|<p>|<|2.1.5.1103
-mRemoteNG|http://www.mremoteng.org/||http://github.com/mRemoteNG/mRemoteNG/releases|Latest release|css-truncate-target">|<|v1.74
+Real VNC Viewer|https://www.realvnc.com/download/viewer/windows/|data-ga-category="download">Download VNC Viewer ||<|6.0.2
 
 
 ## rescue
@@ -288,6 +289,7 @@ putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest
 kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.4.3
 putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|tbody|putty_nd|.zip|4.2
 
+mRemoteNG|http://www.mremoteng.org/||http://github.com/mRemoteNG/mRemoteNG/releases|Latest release|css-truncate-target">|<|v1.74
 SuperPuTTY|https://github.com/jimradford/superputty/releases|>Latest release<|class="css-truncate-target">|<|1.4.0.8
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
