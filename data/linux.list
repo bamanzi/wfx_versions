@@ -6,15 +6,18 @@ sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.co
 
 drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 
-zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.2
-zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.5.0
-fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.5
+grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10
+
+fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.6
 fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.20
-peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.9
+peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.7
+
+zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.3.1
+zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.5.0
 
 # tui
-midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest release|Current version is: |;|4.8.18
-|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.18-1
+midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest release|Current version is: |;|4.8.17
+|midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.14-1
 ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
 
 tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|https://github.com/tmux/tmux/releases|>Latest release|class="css-truncate-target">|<|2.3
@@ -41,12 +44,12 @@ xarchiver|http://xarchiver.sourceforge.net|https://sourceforge.net/projects/xarc
 
 ## clipboard
 Glipper|https://launchpad.net/glipper|div class="version"|Latest version is |<|2.4
-Parcellite|http://parcellite.sourceforge.net/||http://sourceforge.net/projects/parcellite/files/parcellite/|<tbody|<tr title="parcellite-|"|1.1.9
+Parcellite|http://parcellite.sourceforge.net/||http://sourceforge.net/projects/parcellite/files/parcellite/|<tbody|<tr title="parcellite-|"|1.2.1
 CopyQ|http://hluk.github.io/CopyQ/||https://github.com/hluk/CopyQ/releases|>Latest release<|css-truncate-target">|<|v2.6.0
 
 ## editor
-cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|#40b040>version|<|1.3.14
-madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.1_X64
+cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext/download.html|b>Linux|>version |<|1.7.2 (2017.03.16)
+madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|<tbody>|<tr title="|"|0.4.6
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.1
 
 ## editor - html
@@ -62,7 +65,7 @@ diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforg
 
 ## file manager
 Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|https://sourceforge.net/projects/doublecmd/files/DC%20for%20Linux%2032%20bit/|<tbody|tr title="Double Commander |"|0.7.8 beta
-thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
+thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.11
 Nemo (ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|<tbody>|nemo - |~NoobsLab|2.8.7-b~trusty
 
 ## graphics
@@ -75,7 +78,7 @@ gthumb|https://wiki.gnome.org/Apps/gthumb||https://git.gnome.org/browse/gthumb/r
  
 ## multimedia
 smplayer|http://smplayer.sourceforge.net/en/downloads||https://launchpad.net/~rvm/+archive/ubuntu/smplayer?field.series_filter=trusty|id="packages_list"|smplayer|<|
-vlc|http://www.videolan.org/vlc/download-sources.html|Latest VLC source|(|)|2.2.1
+vlc|http://www.videolan.org/vlc/download-sources.html|Latest VLC source|(|)|2.2.4
 kodi (ppa xenial)|https://github.com/Automattic/simplenote-electron/releases/download/v1.0.8/simplenote-1.0.8.deb||https://launchpad.net/~team-xbmc/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|id="packages_list"|kodi - 2:|<|17.0~git20170210.1529-final-0xenial
 
 
@@ -89,7 +92,7 @@ Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|
  
 
 ## notes
-CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.37.6
+CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.38.0
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
@@ -103,8 +106,8 @@ wine ppa (ubuntu 12.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?f
 wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.7|1:|</|1.7.55-0ubuntu1
 
 ## development
-geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.29
-geany (trusty ppa)|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|geany - ||~trusty|1.29-1
+geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.30
+geany (trusty ppa)|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|geany - ||~trusty|1.30-1
 
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|3.7.1
@@ -121,13 +124,13 @@ FreeSSHd|http://www.freesshd.com/|http://www.freesshd.com/freeSSHd.exe|http://ww
 MobaXterm|http://mobaxterm.mobatek.net/|http://mobaxterm.mobatek.net/download-home-edition.html|http://www.portablefreeware.com/index.php?id=1952|class="appName">|class="version">|<|v9.4
 TC wfx DiskInternals Reader|http://www.diskinternals.com/reader-for-tc/|http://www.totalcmd.net/download.php?id=diskinternals_reader|http://www.diskinternals.com/reader-for-tc/|class="button blue|Ver |, Win|2.4
 TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.2
-TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_63_8
+TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_67_2
 WinSCP|http://winscp.net/eng/index.php||http://www.portablefreeware.com/index.php?id=214|class="appName">|class="version">v|</span>|5.9.3
 
 ## putty
-Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|The latest release version (||)|beta 0.66
-putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd3.2
-kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.67.4.2
+Putty|http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|latest release|(|)|0.68
+putty-nd|http://sourceforge.net/projects/putty-nd/||http://sourceforge.net/projects/putty-nd/files/|RELEASE NOTE|putty|---|-nd4.2
+kitty|http://kitty.9bis.net/|https://chocolatey.org/api/v2/package/kitty/0.67.0.2|https://chocolatey.org/packages/kitty|<title| KiTTY|<|0.68.0.2
 mtputty|http://www.ttyplus.com/|http://www.ttyplus.com/download/mtputty.exe|http://www.ttyplus.com/multi-tabbed-putty/version.php?current=1.5.0|Currently available:|>|<|1.6.0.176
 PuttyTabManager|http://sites.google.com/site/macdsite/utilidades/puttytabmanager‎||http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/PuTTYTabManager.shtml|itemprop="name"|itemprop="softwareVersion">|<|0.39.0.82 / 0.43.0.96 Beta
 PuttyManager|http://puttymanager.sourceforge.net/|http://sourceforge.net/projects/puttymanager/files/latest/download|http://sourceforge.net/projects/puttymanager/|/puttymanager/files/latest/download|>puttymanager-|.exe|0.2.16
@@ -138,4 +141,3 @@ madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/f
 coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
 colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
 colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
-grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10
