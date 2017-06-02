@@ -1,15 +1,14 @@
 # cli
 ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
-grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
+ag|http://github.com/ggrer/the_silver_searcher|http://github.com/ggrer/the_silver_searcher/releases|"release-timeline"|class="tag-name">|<|1.0.2
 glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
 sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.6.0
 
 drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.2
-zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.5.0
+
 fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.5
-fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.20
 peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.9
 
 # tui
@@ -27,11 +26,12 @@ joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-edit
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
-nautilus-pyextensions|http://www.giuspen.com/nautilus-pyextensions/|source code|>nautilus-pyextensions-|.tar|3.4.1
-Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|1.5.2
+Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|2.1.2
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
 Synapse|https://launchpad.net/synapse-project|class="version"|Latest version is |<|0.2.99.1
-Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-target">|<|0.8.4
+Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-target">|<|0.8.8
+
+nautilus-pyextensions|http://www.giuspen.com/nautilus-pyextensions/|source code|>nautilus-pyextensions-|.tar|3.4.1
 
 
 # desktop apps

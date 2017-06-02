@@ -1,0 +1,77 @@
+# stow
+xstow|http://xstow.sourceforge.net/||http://xstow.sourceforge.net/|Current stable release: ||<|1.0.2
+gnu stow (perl)|http://www.gnu.org/software/stow/||http://git.savannah.gnu.org/cgit/stow.git/refs/|>Tag<|stow.git/tag/?h=|'|v.2.2.0
+stowsh|https://github.com/williamsmj/stowsh||https://github.com/williamsmj/stowsh/commits/master|commits-listing|Commits on |<|Jan 24, 2017
+ 
+# grep
+ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
+grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
+sag/sack|https://github.com/sampson-chen/sack||https://github.com/sampson-chen/sack/commits/master|commits-listing|Commits on |<|Sep 14, 2016
+ 
+# fzf
+peco|https://github.com/peco/peco||https://github.com/peco/peco/releases|Latest release|class="css-truncate-target">|<|v0.3.6
+fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.15.9
+fzf-extras|https://github.com/atweiden/fzf-extras||https://github.com/atweiden/fzf-extras/releases|Latest release|css-truncate-target">|<|0.0.18
+ 
+percol|https://github.com/mooz/percol||https://github.com/mooz/percol/releases|Latest release|class="css-truncate-target">|<|Version 0.1.0
+ 
+# bash
+desk|https://github.com/jamesob/desk||https://github.com/jamesob/desk/releases|Latest release|class="css-truncate-target">|<|v0.4.1
+cd|https://github.com/spencertipping/cd||https://github.com/spencertipping/cd/commits/master|commits-listing|Commits on |<|Feb 4, 2017
+commacd|https://github.com/shyiko/commacd|http://shyiko.com/2014/10/10/commacd/|https://github.com/shyiko/commacd/releases|Latest release|class="css-truncate-target">|<|v0.3.1
+bashmarks|https://github.com/huyng/bashmarks||https://github.com/huyng/bashmarks/commits/master|commits-listing|Commits on |<|Jul 26, 2015
+bashmarks (fork)|https://github.com/bachya/bashmarks||https://github.com/bachya/bashmarks/commits/master|commits-listing|Commits on |<|May 16, 2014
+ 
+# zsh
+zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting/||https://github.com/zsh-users/zsh-syntax-highlighting/releases|data-selected-links="repo_releases|class="tag-name">|<|0.4.1
+zsh-autosuggestions|https://github.com/zsh-users/zsh-autosuggestions||https://github.com/zsh-users/zsh-autosuggestions/releases|class="release-timeline"|class="tag-name">|<|v0.3.3
+k|https://github.com/supercrabtree/k||https://github.com/supercrabtree/k/releases|Latest release|class="css-truncate-target">|<|v0.0.4
+
+# cheatsheet
+tldr(data)|https://github.com/tldr-pages/tldr||https://github.com/tldr-pages/tldr/commits/master|commits-listing|Commits on |<|Feb 4, 2017
+tldr(python client)|https://github.com/tldr-pages/tldr-python-client||https://github.com/tldr-pages/tldr-python-client/releases|class="release-timeline"|class="tag-name">|<|v0.2
+tldr.py (offline)|https://github.com/lord63/tldr.py||https://github.com/lord63/tldr.py/releases|class="release-timeline"|class="tag-name">|<|v2.1.19
+cheat(py)|https://github.com/chrisallenlane/cheat||https://github.com/chrisallenlane/cheat/releases|class="release-timeline"|class="tag-name">|<|v0.5.0
+cheat(bash)|https://github.com/jahendrie/cheat||https://github.com/jahendrie/cheat/commits/master|commits-listing|Commits on |<|Jun 20, 2015
+ 
+# colorizer
+grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|Latest release|class="css-truncate-target">|<|v1.11.1
+colorex|https://github.com/Scopart/colorex||https://github.com/Scopart/colorex/commits/master|commits-listing|Commits on |<|Dec 20, 2015
+ 
+colordiff|https://github.com/daveewart/colordiff||https://github.com/daveewart/colordiff/releases|class="release-timeline"|class="tag-name">|<|0.15.9
+cdiff|https://github.com/ymattw/cdiff||https://github.com/ymattw/cdiff/releases|class="release-timeline"|class="tag-name">|<|1.0
+colorgcc
+ 
+# tmux/screen
+.tmux|https://github.com/gpakosz/.tmux||https://github.com/gpakosz/.tmux/commits/master|commits-listing|Commits on |<|Dec 20, 2015
+tmuxifier|https://github.com/jimeh/tmuxifier||https://github.com/jimeh/tmuxifier/releases|class="release-timeline"|class="tag-name">|<|v0.12.2
+tmux-cssh|https://github.com/dennishafemann/tmux-cssh||https://github.com/dennishafemann/tmux-cssh/releases|Latest release|class="css-truncate-target">|<|v1.0.6-0
+ 
+mucks|https://github.com/zserge/mucks||https://github.com/zserge/mucks/commits/master|commits-listing|Commits on |<|Sep 12, 2015
+
+# ssh
+sshrc|https://github.com/Russell91/sshrc||https://github.com/Russell91/sshrc/releases|Latest release|class="css-truncate-target">|<|v0.6.1
+ 
+# git
+git-extras|https://github.com/tj/git-extras||https://github.com/tj/git-extras/releases|Latest release|class="css-truncate-target">|<|v0.6.1
+gitsome|https://github.com/donnemartin/gitsome||https://github.com/donnemartin/gitsome/releases|Latest release|class="css-truncate-target">|<|v0.6.0
+git-extra-commands|https://github.com/unixorn/git-extra-commands||https://github.com/unixorn/git-extra-commands/commits/master|commits-listing|Commits on |<|Nov 17, 2015
+ 
+# translate
+translate-shell|https://github.com/soimort/translate-shell||https://github.com/soimort/translate-shell/releases|class="release-timeline"|class="tag-name">|<|v0.9.2.1
+ydcv|https://github.com/felixonmars/ydcv||https://github.com/felixonmars/ydcv/releases|class="release-timeline"|class="tag-name">|<|0.4
+fanyi(nodejs)|https://github.com/afc163/fanyi||https://github.com/afc163/fanyi/releases|class="release-timeline"|class="tag-name">|<|0.2.1
+ 
+# python
+pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.3
+pythonpy|https://github.com/Russell91/pythonpy||https://github.com/Russell91/pythonpy/releases|class="release-timeline"|class="tag-name">|<|v0.4.9
+runp|https://github.com/vascop/runp||https://github.com/vascop/runp/commits/master|commits-listing|Commits on |<|Nov 17, 2015
+ 
+# http
+httpstat|https://github.com/reorx/httpstat||https://github.com/reorx/httpstat/releases|Latest release|class="css-truncate-target">|<|1.2.1
+httpie|https://github.com/jakubroztocil/httpie||https://github.com/jakubroztocil/httpie/releases|Latest release|class="css-truncate-target">|<|0.9.8
+ 
+# utils
+climate|https://github.com/adtac/climate||https://github.com/adtac/climate/releases|Latest release|class="css-truncate-target">|<|v0.3
+howdoi|https://github.com/gleitz/howdoi||https://github.com/gleitz/howdoi/commits/master|commits-listing|Commits on |<|Aug 19, 2016
+thefuck|https://github.com/nvbn/thefuck||https://github.com/nvbn/thefuck/releases|Latest release|class="css-truncate-target">|<|3.9
