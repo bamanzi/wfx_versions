@@ -1,6 +1,6 @@
 # cli
 ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
-ag|http://github.com/ggrer/the_silver_searcher|http://github.com/ggrer/the_silver_searcher/releases|"release-timeline"|class="tag-name">|<|1.0.2
+ag||http://github.com/ggreer/the_silver_searcher|http://github.com/ggreer/the_silver_searcher/releases|"release-timeline"|class="tag-name">|<|2.0.0
 glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
 sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.6.0
 
@@ -11,18 +11,25 @@ zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|
 fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.5
 peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.9
 
+grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10
+grc (ubuntu 16.04)|https://pkgs.org/download/grc|Ubuntu 16.04|/grc_|_all.deb|1.9-1
+
+
 # tui
 midnight commander||http://ftp.midnight-commander.org/?C=M;O=D|http://www.midnight-commander.org|Latest release|Current version is: |;|4.8.18
 |midnight commander (deb)|http://www.midnight-commander.org||http://www.tataranovich.com/debian/pool/precise/main/m/mc/|amd64.deb|mc_|_|4.8.18-1
 ranger|http://ranger.nongnu.org/|h1>ranger ||<|v.1.7.2
 
-tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|https://github.com/tmux/tmux/releases|>Latest release|class="css-truncate-target">|<|2.3
-tmux (ubuntu 12.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=precise|tmux|<td>|<|1.9a-1~ppa1~p
-tmux (ubuntu 14.04)|https://launchpad.net/~pi-rho/+archive/ubuntu/dev?field.series_filter=trusty|tmux|<td>|<|2.0-1~ppa1~t
+tmux|http://tmux.sourceforge.net|http://sourceforge.net/projects/tmux/files/latest/download?source=files|https://github.com/tmux/tmux/releases|>Latest release|class="css-truncate-target">|<|2.5
+tmux (ubuntu 16.04 ppa)|https://launchpad.net/~alindt/+archive/ubuntu/ppa||https://launchpad.net/~alindt/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|tmux - |<|2.3-4~ubuntu16.04.1~alindt
+
 gnu screen|https://www.gnu.org/software/screen/||http://git.savannah.gnu.org/cgit/screen.git/refs/|>Tag<|screen.git/tag/?h=|'|v.4.5.1
 
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.2
+tig (ubuntu16 ppa)|https://launchpad.net/~bkgaley/+archive/ubuntu/ppa||https://launchpad.net/~bkgaley/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|tig - |<|2.2-1~ubuntu16.04.1
+
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.3
+
 
 # desktop addons
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
@@ -49,12 +56,14 @@ cudatext|http://www.uvviewsoft.com/cudatext/||http://www.uvviewsoft.com/cudatext
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download MadEdit-Mod|.7z|0.4.1_X64
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.1
 
+gedit-gmate (ubuntu 16 ppa)|https://launchpad.net/~ubuntu-on-rails/+archive/ubuntu/ppa||https://launchpad.net/~ubuntu-on-rails/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|gedit-gmate -|<|0.12ppa2~xenial
+
 ## editor - html
-BlueGriffon|http://bluegriffon.org/pages/Download|<h3>Most recent stable version: v ||<|1.8 "Dolomites" 13-oct-2015
+BlueGriffon|http://bluegriffon.org/||http://bluegriffon.org/pages/Download|Version ||released|2.3.1
 Nvu KompoZer (beta)|http://kompozer.net/|https://sourceforge.net/projects/kompozer/files/current/kompozer-[%0A]-win32.zip/download|https://sourceforge.net/projects/kompozer/files/current/|<tbody>|title="|"|0.8b3
 
 ## file compare
-meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.17.0 - 18 Dec 2016
+meld|http://meldmerge.org/news.html|<div id="content"|<h2>Meld |</h2>|3.17.2 - 11 Jun 2017
 meld (1.8.x)|https://git.gnome.org/browse/meld/log/?h=meld-1-8|class='tag-deco'|>|<|1.8.6
 DiffUse|http://sourceforge.net/projects/diffuse/files/|http://sourceforge.net/projects/diffuse/files/latest/download?source=files|http://sourceforge.net/projects/diffuse/files/diffuse/|tbody>|title="|"|0.4.8
 diff-ext (thunar)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downloads.shtml|(Thunar extension)|xdiff-ext-|.tar|0.2.0
@@ -63,7 +72,7 @@ diff-ext (nautilus)|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforg
 ## file manager
 Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|https://sourceforge.net/projects/doublecmd/files/DC%20for%20Linux%2032%20bit/|<tbody|tr title="Double Commander |"|0.7.8 beta
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
-Nemo (ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|<tbody>|nemo - |~NoobsLab|2.8.7-b~trusty
+Nemo (16.04 ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tbody>|nemo - |~NoobsLab|2.8.7-b~xenial
 
 ## graphics
 lazpaint|http://lazpaiint.sourceforge.net|http://sourceforge.net/projects/lazpaint/files/latest/download?source=files|http://sourceforge.net/projects/lazpaint/files/bin|_linux32.deb|bin/lazpaint|_|6.4.1
@@ -89,9 +98,9 @@ Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|
  
 
 ## notes
-CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.37.6
+CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.38.1
+Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.67-rc2
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
-Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.65
 wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
 simplenote|https://github.com/Automattic/simplenote-electron/releases/|Latest release|css-truncate-target">|<|v1.0.8
 nvpy|https://github.com/cpbotha/nvpy/releases|class="release |css-truncate-target">|<|v1.0.0-BETA
@@ -100,7 +109,8 @@ nvpy|https://github.com/cpbotha/nvpy/releases|class="release |css-truncate-targe
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|2.0.2 (2016-02-02)
 Xpdf|http://www.foolabs.com/xpdf/download.html|Current version|Xpdf | was released |3.04
 wine ppa (ubuntu 12.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=precise|wine1.7|1:|</td|1.7.18-0ubuntu1
-wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.7|1:|</|1.7.55-0ubuntu1
+wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.8|1:|</|1.8.0-0ubuntu1
+wine ppa (ubuntu 16.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=xenial|wine2|1:|</|2.0-0ubuntu1~ppa2
 
 ## development
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.29
@@ -111,9 +121,12 @@ TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/th
 gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.19.6
 
 # sysadmin
+nmon|http://nmon.sourceforge.net/pmwiki.php||http://nmon.sourceforge.net/pmwiki.php|Latest version nmon|<strong>|</|16f
 glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.8
 webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.780
+supervisord|https://pypi.python.org/pypi/supervisor/|<title|supervisor|:|3.3.2
 monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version |<|5.16
+ansible|https://pypi.python.org/pypi/ansible/|>Package<|/pypi/ansible/|"|2.3.1.0
 fabric|http://fabfile.org/||https://github.com/fabric/fabric/releases|class="release-timeline"|class="tag-name">|<|1.13.1
 
 # windows
@@ -138,4 +151,3 @@ madedit|http://madedit.sourceforge.net|http://sourceforge.net/projects/madedit/f
 coLinux (stable)|http://www.colinux.org||http://sourceforge.net/projects/colinux/files/coLinux-stable/|span>Parent folder|class="name">|</a>|0.7.9-linux-2.6.33.7
 colinux debian image|http://sourceforge.net/projects/colinux/files/Images%202.6.x%20Debian/|Parent folder|class="name">|</a>|Debian 6.0 Squeeze
 colinux snapshot|http://sourceforge.net/projects/colinux/files/Snapshots/|Parent folder|class="name">|</a>|devel-20110807-Snapshot
-grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10
