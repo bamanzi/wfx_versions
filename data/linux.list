@@ -32,14 +32,20 @@ joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-edit
 
 
 # desktop addons
+WindowMaker|http://windowmaker.org||http://repo.or.cz/wmaker-crm.git/refs|<table class="tags">|tags/wmaker-|<|0.95.8
+
 dockbarx|https://github.com/M7S/dockbarx/releases|Latest release|css-truncate-target">|<|0.91.4
 Whisker Menu|http://gottcode.org/xfce4-whiskermenu-plugin/|Changes in version ||<|2.1.2
+
+gnome-shell-extension-dashtodock (ubuntu 16.04 ppa)|https://launchpad.net/~gnome-shell-extensions/+archive/ubuntu/ppa||https://launchpad.net/~gnome-shell-extensions/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|gnome-shell-extension-dashtodock - |<|57-1+825~ubuntu16.04.1
+gnome-shell-extension-taskbar (ubuntu 16.04 ppa)|https://launchpad.net/~gnome-shell-extensions/+archive/ubuntu/ppa||https://launchpad.net/~gnome-shell-extensions/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|gnome-shell-extension-taskbar - |<|52-0~20161114~ubuntu16.04.1
+
 Launchy (linux)|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://sourceforge.net/projects/launchy/files/Launchy on Linux/|<tbody>|title="|"|2.5
+
 Synapse|https://launchpad.net/synapse-project|class="version"|Latest version is |<|0.2.99.1
 Guake|https://github.com/Guake/guake/releases|>Latest release|css-truncate-target">|<|0.8.8
 
 nautilus-pyextensions|http://www.giuspen.com/nautilus-pyextensions/|source code|>nautilus-pyextensions-|.tar|3.4.1
-
 
 # desktop apps
 ## archiver
@@ -81,11 +87,13 @@ mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/f
 pinta|http://pinta-project.com/|Current Version: ||<|1.6
 shotwell|https://wiki.gnome.org/Apps/Shotwell||https://git.gnome.org/browse/shotwell/tree/NEWS|class='lines'|Shotwell|--|0.22.0 - 23 March 2015
 gthumb|https://wiki.gnome.org/Apps/gthumb||https://git.gnome.org/browse/gthumb/refs/|>Tag<|/tag/?h=|'|3.4.2
- 
+
+
 ## multimedia
 smplayer|http://smplayer.sourceforge.net/en/downloads||https://launchpad.net/~rvm/+archive/ubuntu/smplayer?field.series_filter=trusty|id="packages_list"|smplayer|<|
 vlc|http://www.videolan.org/vlc/download-sources.html|Latest VLC source|(|)|2.2.1
 kodi (ppa xenial)|https://github.com/Automattic/simplenote-electron/releases/download/v1.0.8/simplenote-1.0.8.deb||https://launchpad.net/~team-xbmc/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|id="packages_list"|kodi - 2:|<|17.0~git20170210.1529-final-0xenial
+avidemux|http://avidemux.sourceforge.net/||http://sourceforge.net/projects/avidemux/files/avidemux/|<tbody|<tr
 
 
 ## network
@@ -95,15 +103,21 @@ Dukto|http://sourceforge.net/projects/dukto/files/|latest version?|Download Dukt
 FileZilla client|http://filezilla-project.org/download.php?type=client|latest stable version|is |</p>|3.15.0.2
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|7.9
 Lifeera|https://lzone.de/liferea/||https://github.com/lwindolf/liferea/releases|class="release-timeline"|class="css-truncate-target">|<|v1.11.7
- 
+uget (urlget)|http://ugetdm.com/||https://sourceforge.net/projects/urlget/files/uget%20%28stable%29/|<tbody|<tr title="|"|2.0.10
+NetSurf|http://www.netsurf-browser.org/||http://www.netsurf-browser.org/downloads/source/|>Downloads<|gz">NetSurf |source code|3.6
+
 
 ## notes
 CherryTree|http://www.giuspen.com/cherrytree/|download last version|/software/cherrytree-|.tar|0.38.1
+nvpy|https://github.com/cpbotha/nvpy/releases|class="release |css-truncate-target">|<|v1.0.0-BETA
+
+
 Zim wiki|http://zim-wiki.org/||http://zim-wiki.org/downloads.html|>Latest release: ||<|0.67-rc2
 everpad (ppa)|https://launchpad.net/~nvbn-rm/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|everpad -||~precise|2.15.8-0
 wiznote (ppa)|https://launchpad.net/~wiznote-team/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|archive_package_row|wiznote - |<|2.3.2.4
 simplenote|https://github.com/Automattic/simplenote-electron/releases/|Latest release|css-truncate-target">|<|v1.0.8
-nvpy|https://github.com/cpbotha/nvpy/releases|class="release |css-truncate-target">|<|v1.0.0-BETA
+nixnote (nevernote)|https://sourceforge.net/projects/nevernote/||https://sourceforge.net/projects/nevernote/files|<tbody|<tr title="NixNote2 - |"|2.0
+
 
 ## misc
 KeePassX|http://www.keepassx.org/|http://sourceforge.net/projects/keepassx/files/latest/download|http://www.keepassx.org/changelog/|Changelog </h3>|heading">|</p|2.0.2 (2016-02-02)
