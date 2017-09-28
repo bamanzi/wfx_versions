@@ -1,7 +1,18 @@
 # linux
-emacs ppa (stable, precise)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
-emacs ppa (stable, trusty)|https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa||https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa/+packages|package-source"|emacs24 - |ubuntu|24.5+1-6
+## xenial
+emacs ppa (25.1 for xenial)|https://launchpad.net/~adrozdoff/+archive/ubuntu/emacs/||https://launchpad.net/~adrozdoff/+archive/ubuntu/emacs/+packages|emacs25 - ||-xenial|25.1
+ 
+## trusty
+emacs ppa (25.1/24.4 for trusty)|https://launchpad.net/~adrozdoff/+archive/ubuntu/emacs/||https://launchpad.net/~adrozdoff/+archive/ubuntu/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|emacs25 - ||-trusty|25.1
+emacs ppa (24.5 for trusty)|https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa||https://launchpad.net/~joris-vankerschaver/+archive/ubuntu/ppa/+packages|emacs24 - ||ubuntu|24.5+1-6
+emacs ppa (24.4 for trusty)|https://launchpad.net/~fryda.tomas/+archive/ubuntu/emacs||https://launchpad.net/~fryda.tomas/+archive/ubuntu/emacs/+packages|emacs24 - ||~trusty|24.4
+ 
+## precise
+emacs ppa (24.3 for precise/trusty)|https://launchpad.net/~cassou/+archive/emacs||https://launchpad.net/~cassou/+archive/emacs/+packages?field.name_filter=&field.status_filter=published&field.series_filter=precise|emacs24 - ||~ppa|24.3+1-1
+ 
+## centos
 emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-3EL6.x86_64.
+emacs rhel7|http://pj.freefaculty.org/EL/7/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-6EL7.x86_64.
 
 
 # windows
