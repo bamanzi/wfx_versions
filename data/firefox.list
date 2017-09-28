@@ -1,4 +1,5 @@
 # Firefox  ====================================================
+firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr||https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tr class="archive_package_row"|firefox-esr - |<|52.3.0esr-1~16.04.york0
 Firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|54.0-0ubuntu1_i386
 LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|.en-US|47.0
 
