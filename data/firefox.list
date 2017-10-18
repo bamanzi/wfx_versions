@@ -62,7 +62,7 @@ Dimmer|https://addons.mozilla.org/en-US/firefox/addon/dimmer|https://addons.mozi
 Print Edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit|https://addons.mozilla.org/downloads/latest/print-edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit|version item|id="version-|"|18.2
 
 ?Clearly|http://www.filewatcher.com/m/evernote_clearly-10.2.1.7-fx.xpi.1171873-0.html|https://addons.mozilla.org/downloads/latest/clearly|https://addons.mozilla.org/en-US/firefox/addon/clearly|version item|id="version-|"|10.2.1.7
-In My Pocket (>=fx45)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/firefox/downloads/latest/677126/addon-677126-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|itemprop="version">||</span>|0.5.1
+In My Pocket (>=fx45)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/firefox/downloads/latest/677126/addon-677126-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|itemprop="version">||</span>|0.6.1
 ?Pocket |http://www.filewatcher.com/m/pocket-3.0.5-fx.xpi.223435-0.html|https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
 Satchel for Pocket (>=fx38)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/firefox/downloads/latest/677126/addon-677126-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/satchel-for-pocket/|itemprop="version">||</span>|0.0.7
 
@@ -114,7 +114,7 @@ The Addon Bar restored|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/f
 Split Panel|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/3275-0.html|https://addons.mozilla.org/downloads/latest/split-pannel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|version item|id="version-|"|1.00
 
 ### misc
-*+Keysnail (github)|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|<h3|>Version |<|2.1.6 (signed)
+*+Keysnail (github)|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|Commits on |title="Version |"|2.3.0
 Grease Monkey (fx24->1.15.1, fx31->2.3.1)||https://addons.mozilla.org/downloads/latest/greasemonkey|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey|version item|id="version-|"|3.11
 Greasy Scripts||https://addons.mozilla.org/downloads/latest/greasy-scripts|https://addons.mozilla.org/en-US/firefox/addon/greasy-scripts|version item|id="version-|"|1.0.8
 
@@ -161,7 +161,7 @@ Developer Edition theme enabler|https://addons.mozilla.org/en-US/firefox/addon/d
 
 ### utils
 Fireftp|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|https://addons.mozilla.org/firefox/downloads/latest/684/addon-684-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/fireftp/|itemprop="version">||</span>|2.0.31
-Octotree (fx24->1.5.1, fx31->1.7.2)|https://addons.mozilla.org/en-us/firefox/addon/octotree|version item|id="version-|"|2.1.0
+Octotree (fx31->1.7.2, fx38->2.1.0)|https://addons.mozilla.org/en-us/firefox/addon/octotree|version item|id="version-|"|2.1.0
 
 SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|https://addons.mozilla.org/firefox/downloads/latest/5817/addon-5817-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/|itemprop="version">||</span>|0.8.3
 Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.13
@@ -183,11 +183,11 @@ PaleMoon|http://linux.palemoon.org/download/mainline/|h3>Latest version: ||<|27.
 Palemoon Linux deb (ubuntu 16.04)|https://software.opensuse.org/download.html?project=home:stevenpusser&package=palemoon||http://download.opensuse.org/repositories/home:/stevenpusser/xUbuntu_16.04/amd64/|.deb">|palemoon_|_amd64.deb|27.3.0~repack-1
 |PaleMoon raspi|http://raspi.palemoon.org/||ftp://archive@ftp2.palemoon.org/3rdparty/RasPi/latest|palemoon-armv7.|bz2|FILE|13/04/2016 05:40:54
 
-PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||http://www.palemoon.org/tabgroups.shtml|"center"|palemoon-tabgroups-|.xpi|0.2
+PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||https://addons.palemoon.org/addon/tabgroups/|class="dllink_green"|Install Tab Groups|<|0.2
 Pale Moon Commander|https://addons.palemoon.org/addon/pm-commander/|download.png|Install Pale Moon Commander|<|1.7.3
 Color My Tabs|https://addons.palemoon.org/addon/color-my-tabs/|download.png|Install Color My Tabs |<|2.2.0
  
-Decentraeyes|https://addons.palemoon.org/addon/decentraleyes/|download.png|Install Decentraleyes |<|1.3.7-palemoon
+Decentraeyes|https://addons.palemoon.org/addon/decentraleyes/|download.png|Install Decentraleyes |<|1.3.10
 Add to Search Bar|https://addons.palemoon.org/addon/add-to-search-bar/|download.png|Install Add to Search Bar (Pseudo-Static)|<|2.5-pm
 Tree Style Tab|https://addons.palemoon.org/addon/treestyletabforpm/|download.png|Install Tree Style Tabs for Pale Moon|<|0.0.2
 Tab Utilities Phoenix|https://addons.mozilla.org/firefox/addon/tab-utilities-phoenix/|version item|id="version-|"|2.0.0
@@ -204,7 +204,7 @@ Sea Fox||https://addons.mozilla.org/seamonkey/downloads/latest/471552/addon-4715
 
 ### addons - hackable -----------------------------------------
 Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|https://addons.mozilla.org/downloads/latest/google-dictionary-and-google-t|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|version item|id="version-|"|7.5
-Disconnnect||https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|itemprop="name">Disconnect|itemprop="version">|<|3.15.3
+Disconnnect (fx31->3.15.3)||https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|itemprop="name">Disconnect|itemprop="version">|<|5.18.21
 wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|version item|id="version-|"|1.0
 Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|https://addons.mozilla.org/downloads/latest/blank-your-monitor-easy-readin|https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|version item|id="version-|"|1.9.13
 ?Pocket||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
