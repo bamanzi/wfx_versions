@@ -3,17 +3,20 @@ firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/fire
 Firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|54.0-0ubuntu1_i386
 LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|.en-US|47.0
 
+
 ## tools ------------------------------------------------------
 Firemin|http://datumza.com/downloads/|>Download|>Firemin |<|4 (Build 4615)
 MozillaHistoryView|http://www.nirsoft.net/utils/mozilla_history_view.html|>Versions History<|>Version |:|1.57
 FirefoxDownloadsView|http://www.nirsoft.net/utils/firefox_downloads_view.html|>Versions History<|>Version |:|1.38
 WebBrowserPassView|http://www.nirsoft.net/utils/web_browser_password.html|>Versions History<|>Version |:|1.82
 
+
 ## addons -----------------------------------------------------
-### copy something
+### copy & paste
 *CoLT (fx24/31: 2.6.5)|http://www.filewatcher.com/_/?q=colt-2.6+xpi|ftp://ftp5.kr.freebsd.org/pub/ftp.mozilla.org/addons/1812/colt-2.6.4-fx.xpi|https://addons.mozilla.org/en-US/firefox/addon/colt|version item|id="version-|"|2.6.7
 Copy URL Expert (+sm)|http://www.filewatcher.com/_/?q=copy_urls_expert-2+xpi|https://addons.mozilla.org/downloads/latest/copy-urls-expert|https://addons.mozilla.org/en-US/firefox/addon/copy-urls-expert|version item|id="version-|"|2.6.1
 Copy as org-mode (fx>30)|https://addons.mozilla.org/en-US/firefox/addon/copy-as-org-mode/|itemprop="name">Copy as Org-mode|itemprop="version">|<|0.1.1-signed
+Open Multiple URLs (WE)|https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/|itemprop="name"|itemprop="version">|<|1.3.2
 
 ### dictionary & translation
 *Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|https://addons.mozilla.org/downloads/latest/google-dictionary-and-google-t|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|version item|id="version-|"|7.5
@@ -41,18 +44,20 @@ Internote|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.or
 AutoProxy|https://addons.mozilla.org/firefox/addon/autoproxy|https://addons.mozilla.org/downloads/latest/autoproxy|https://addons.mozilla.org/firefox/addon/autoproxy/versions|version item|id="version-|"|0.4b2.2013051811
 FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|itemprop="version">||</span>|4.6.5
 ?Proxy Selector|http://www.filewatcher.com/m/proxy_selector-1.35-fx.xpi.45827-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector|itemprop="version">||</span>|1.31
+Proxy Switcher (>=fx38)|https://addons.mozilla.org/en-US/firefox/addon/proxy-switcher/|itemprop="name"|itemprop="version">|<|0.2.0
 
 *Decentraeyes (fx24/31->1.1.5, +sm)|https://addons.mozilla.org/zh-CN/firefox/addon/decentraleyes/|version item|id="version-|"|1.3.8
 gooreplacer (fx24=>0.6, fx31=>1.1)|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|version item|id="version-|"|1.2.1
 
-uBlog Origin(+sm 2.24+)||https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/|itemprop="name">|itemprop="version">|<|1.13.4
+uBlog Origin(+sm 2.24, +WE)||https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/|itemprop="name">|itemprop="version">|<|1.13.4
 Disconnnect|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/464050-0.html|https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|itemprop="name">Disconnect|itemprop="version">|<|5.18.21
-uMatrix(+sm 2.24+)||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|itemprop="name">uMatrix|itemprop="version">|<|1.0.0
+uMatrix(+sm 2.24, +WE)||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|itemprop="name">uMatrix|itemprop="version">|<|1.0.0
 
 Google search link fix (fx24/31=>1.4.9, fx38/45=>1.5.4, +sm)||https://addons.mozilla.org/firefox/downloads/latest/351740/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|itemprop="version">||</span>|1.6.5
 ?Clean Links(+sm)|http://www.filewatcher.com/m/clean_links-2.6.0-fn+tb+an+fx+sm.xpi.46597-0.html|https://addons.mozilla.org/firefox/downloads/latest/300496/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/clean-links/|itemprop="version">||</span>|2.7.1-signed.1-signed
+Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|itemprop="name"|itemprop="version">|<|1.5
 
-Archiver Menu (fx>=52)|https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/?src=search|itemprop="version">||</span>|1.4.9
+Archiver Menu (WE)|https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/?src=search|itemprop="version">||</span>|1.4.9
 
 
 ### read
@@ -62,9 +67,13 @@ Dimmer|https://addons.mozilla.org/en-US/firefox/addon/dimmer|https://addons.mozi
 Print Edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit|https://addons.mozilla.org/downloads/latest/print-edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit|version item|id="version-|"|18.2
 
 ?Clearly|http://www.filewatcher.com/m/evernote_clearly-10.2.1.7-fx.xpi.1171873-0.html|https://addons.mozilla.org/downloads/latest/clearly|https://addons.mozilla.org/en-US/firefox/addon/clearly|version item|id="version-|"|10.2.1.7
+
 In My Pocket (>=fx45)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/firefox/downloads/latest/677126/addon-677126-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|itemprop="version">||</span>|0.6.1
 ?Pocket |http://www.filewatcher.com/m/pocket-3.0.5-fx.xpi.223435-0.html|https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|itemprop="version">||</span>|3.0.4
 Satchel for Pocket (>=fx38)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/firefox/downloads/latest/677126/addon-677126-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/satchel-for-pocket/|itemprop="version">||</span>|0.0.7
+Browser Later (WE)||https://addons.mozilla.org/firefox/downloads/latest/browselater/platform:2/addon-829569-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/browselater/|itemprop="name"|itemprop="version">|<|3.1.3
+Reading List (WE)|https://addons.mozilla.org/en-US/firefox/addon/readinglist|itemprop="name"|itemprop="version">|<|1.3.3
+
 
 ### scrapping
 +Scrapbook X (github)|https://github.com/danny0838/firefox-scrapbook|https://addons.mozilla.org/firefox/downloads/latest/scrapbook-x|https://github.com/danny0838/firefox-scrapbook/wiki/History|Revision History|/files/firefox-scrapbookx-|.xpi|content error (@before)
@@ -102,7 +111,7 @@ TooManyTabs (fx24=>1.4.3, fx31=>1.4.5)|https://addons.mozilla.org/en-US/firefox/
 
 Tab Groups(fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama|https://addons.mozilla.org/downloads/latest/tab-groups-panorama|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama|version item|id="version-|"|2.1.4
 Simplified Tab Groups (fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups|https://addons.mozilla.org/downloads/latest/tab-groups|https://addons.mozilla.org/en-US/firefox/addon/tab-groups|version item|id="version-|"|0.5.1
-Tab Groups Helper|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-helper|https://addons.mozilla.org/downloads/latest/tab-groups-helper|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-helper|version item|id="version-|"|1.0.30
+Tab Groups Helper (>=fx24)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-helper|https://addons.mozilla.org/downloads/latest/tab-groups-helper|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-helper|version item|id="version-|"|1.0.30
 
 
 ### ui
@@ -149,14 +158,16 @@ Firebug (Firefox 17.x)|https://addons.mozilla.org/en-US/firefox/addon/firebug|st
 Firebug (Firefox 24.x)|https://addons.mozilla.org/en-US/firefox/addon/firebug|strong>Firefox 24|>Firebug |<|1.12
 Firefinder (css)|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-firebug|https://addons.mozilla.org/downloads/latest/firefinder-for-firebug|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-firebug|version item|id="version-|"|1.4
 HttpFox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|https://addons.mozilla.org/downloads/latest/httpfox|https://addons.mozilla.org/en-US/firefox/addon/httpfox|version item|id="version-|"|0.8.14
+
 JSONView (fx24/31=>0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/jsonview|https://addons.mozilla.org/downloads/latest/jsonview|https://addons.mozilla.org/en-US/firefox/addon/jsonview|version item|id="version-|"|1.2.4
 JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search|version item|id="version-|"|1.99.1
 Poster||http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/2691-0.html|https://addons.mozilla.org/en-US/firefox/addon/poster/|version item|id="version-|"|3.1.0.1-signed.1-signed
-
 RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|version item|id="version-|"|2.0.5
 The easiest Xdebug (fx24=>1.2)|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|https://addons.mozilla.org/downloads/latest/the-easiest-xdebug|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug|version item|id="version-|"|2.1
+
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|https://addons.mozilla.org/downloads/latest/web-developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|version item|id="version-|"|1.2.13
 Developer Edition theme enabler|https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/|version item|id="version-|"|1.0
+Display Anchors|https://addons.mozilla.org/en-US/firefox/addon/display-_anchors/|itemprop="name"|itemprop="version">|<|1.3
 
 
 ### utils
@@ -187,7 +198,7 @@ PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||https://add
 Pale Moon Commander|https://addons.palemoon.org/addon/pm-commander/|download.png|Install Pale Moon Commander|<|1.7.3
 Color My Tabs|https://addons.palemoon.org/addon/color-my-tabs/|download.png|Install Color My Tabs |<|2.2.0
  
-Decentraeyes|https://addons.palemoon.org/addon/decentraleyes/|download.png|Install Decentraleyes |<|1.3.10
+Decentraeyes (+WE)|https://addons.palemoon.org/addon/decentraleyes/|download.png|Install Decentraleyes |<|1.3.10
 Add to Search Bar|https://addons.palemoon.org/addon/add-to-search-bar/|download.png|Install Add to Search Bar (Pseudo-Static)|<|2.5-pm
 Tree Style Tab|https://addons.palemoon.org/addon/treestyletabforpm/|download.png|Install Tree Style Tabs for Pale Moon|<|0.0.2
 Tab Utilities Phoenix|https://addons.mozilla.org/firefox/addon/tab-utilities-phoenix/|version item|id="version-|"|2.0.0
