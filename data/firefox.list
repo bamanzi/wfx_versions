@@ -122,6 +122,18 @@ All-in-one Sidebar (fx24=>0.7.20, fx31=>0.7.23)|https://addons.mozilla.org/firef
 The Addon Bar restored|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/473193-0.html|https://addons.mozilla.org/firefox/downloads/latest/296534/addon-473193-latest|https://addons.mozilla.org/firefox/addon/the-addon-bar|version item|id="version-|"|3.2.9-compat-fixed-4
 Split Panel|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/3275-0.html|https://addons.mozilla.org/downloads/latest/split-pannel|https://addons.mozilla.org/en-US/firefox/addon/split-pannel|version item|id="version-|"|1.00
 
+### container
+Containers (>=fx53)||https://addons.mozilla.org/downloads/latest/multi-account-containers|https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers|version item|id="version-|"|4.0.2
+Conex (group view panel)|https://addons.mozilla.org/en-US/firefox/addon/conex|version item|id="version-|"|0.0.65
+Sea Containers (group view sidebar)|https://addons.mozilla.org/en-US/firefox/addon/sea-containers|version item|id="version-|"|0.8
+Contaiers Theme|https://addons.mozilla.org/en-US/firefox/addon/containers-theme|version item|id="version-|"|1.0.2
+Containerise (auto-by-url) |https://addons.mozilla.org/en-US/firefox/addon/containerise|version item|id="version-|"|2.0
+Switch Container|https://addons.mozilla.org/en-US/firefox/addon/switch-container|version item|id="version-|"|0.7
+Context Plus (switch)|https://addons.mozilla.org/en-US/firefox/addon/container-plus|version item|id="version-|"|0.4.2
+
+Multifox (fx38=>3.2.1, fx31=>3.1.0, fx24=>2.0.7)|https://github.com/hultmann/multifox/releases|https://addons.mozilla.org/downloads/latest/multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|version item|id="version-|"|3.2.3
+
+
 ### misc
 *+Keysnail (github)|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|Commits on |title="Version |"|2.3.0
 Grease Monkey (fx24->1.15.1, fx31->2.3.1)||https://addons.mozilla.org/downloads/latest/greasemonkey|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey|version item|id="version-|"|3.11
@@ -132,7 +144,6 @@ Lazarus Form Recovery|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ft
 
 *Diigo Toolbar|http://www.filewatcher.com/m/diigo_toolbar_annotate_screenshot_bookmark-5.1.0.38-fx.xpi.493881-0.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2792-0.html|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|version item|id="version-|"|5.1.0.38
 
-*Multifox (fx38=>3.2.1, fx31=>3.1.0, fx24=>2.0.7)|https://github.com/hultmann/multifox/releases|https://addons.mozilla.org/downloads/latest/multifox|https://addons.mozilla.org/en-US/firefox/addon/multifox|version item|id="version-|"|3.2.3
 
 HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|https://addons.mozilla.org/downloads/latest/headingsmap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|version item|id="version-|"|2.1
 Skip Cert Error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|https://addons.mozilla.org/downloads/latest/skip-cert-error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|version item|id="version-|"|0.4.4
