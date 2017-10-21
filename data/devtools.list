@@ -1,19 +1,26 @@
 # DevTools
 
 ## compare
-Code Compare|http://www.devart.com/codecompare/revision_history.html||http://www.devart.com/codecompare/download.html|latest version|<b>|<|4.1.78
+Diffinity (dotnet)|http://truehumandesign.se/s_diffinity.php||https://www.portablefreeware.com/?id=2838&ts=1483404901|class="appName">|class="version">|<|v0.8.4
+Code Compare (dotnet)|http://www.devart.com/codecompare/revision_history.html||http://www.devart.com/codecompare/download.html|latest version|<b>|<|4.1.78
 DiffMerge (win+linux)|http://www.sourcegear.com/diffmerge/webhelp/chapter_release_notes.html||http://www.sourcegear.com/diffmerge/downloads.php|<h2>Download DiffMerge ||</h2>|4.2
-kdiff3|http://kdiff3.sourceforge.net/||http://sourceforge.net/projects/kdiff3/files/kdiff3/|Parent folder|tr title="|"|0.9.98
+meld (win)|http://meldmerge.org/|Windows:|binaries/win32/meld/|/|3.16
 
 ## database
+
+Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|5.3.1.9
+DBeaver (java)|https://dbeaver.jkiss.org/download|<h2|Community Edition |<|4.2.3
+
 sqlitebrowser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|>Latest release|css-truncate-target">|<|v3.9.1
 SQLiteSpy|http://www.yunqa.de/delphi/products/sqlitespy/index||http://www.yunqa.de/delphi/products/sqlitespy/history|<h2|SQLiteSpy |<|1.9.11 – 10 Jun 2016
-SQLiteStudio|http://sqlitestudio.pl/||https://sqlitestudio.pl/index.rvt?act=download|>Windows<|MB</td><td>|<|3.1.0
+SQLiteStudio|http://sqlitestudio.pl/||http://sqlitestudio.pl/?act=download|>Windows<|MB</td><td>|<|3.1.0
+
 HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Download HeidiSQL ||<|9.3 (08 Aug 2015)
-Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|5.3.1.9
+
+robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0
+
 mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.python.org/pypi/mycli/|<title>|mycli |:|1.8.0
 pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.python.org/pypi/pgcli/|<title>|pgcli|:|1.2.0
-robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0
 
 ## colors
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
@@ -53,7 +60,8 @@ Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files
 
 ## scm
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
-
+TortoiseGit|https://tortoisegit.org/download/|The current stable version is: ||<|2.5.0
+git-for-windows|https://git-for-windows.github.io||https://github.com/git-for-windows/git/releases|>Latest release<|"css-truncate-target">|<|v2.14.2.windows.2
 
 ## misc
 AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
@@ -82,6 +90,7 @@ AutoHotKey.chm CN|http://ahkcn.sourceforge.net/docs/AutoHotkey.htm||http://sourc
 AutoIt|http://www.autoitscript.com/autoit3/||http://www.portablefreeware.com/index.php?id=50|class="appName">|class="version">|<|v3.3.14.1
 AutoIt Script Editor|https://www.autoitscript.com/site/autoit-script-editor/downloads/||https://www.autoitscript.com/autoit3/scite/_downloads.shtml|_Portable.zip|td height="1">|<|29-7-2015
 wscript doc (script56.chm)|http://www.robvanderwoude.com/wshlinks.php|Download WSH:|Install/|/W|5.6
+
 
 
 # java
@@ -141,7 +150,6 @@ Bitnami rubystack (windows)|https://bitnami.com/stack/ruby/||https://bitnami.com
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
 rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest release|css-truncate-target">|<|v3.7.0
-
 
 # delphi / freepascal
 Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6.2

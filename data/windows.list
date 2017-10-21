@@ -83,21 +83,22 @@ GIMP (win)|http://www.gimp.org/||http://www.gimp.org/downloads/|h2>GIMP for Wind
 GifCam|http://blog.bahraniapps.com/gifcam/||http://www.portablefreeware.com/index.php?id=2541|class="appName">|class="version">|<|v5.1
 
 ## launcher
-Jumplist Launcher|http://ali.dj/jumplist-launcher||http://techspot.com/downloads/5143-jumplist-launcher.html|itemprop="softwareVersion">||<|7.21
-Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
-RocketDock|https://punklabs.com/rocketdock||http://www.portablefreeware.com/index.php?id=1149|class="appName"|class="version">|<|v1.3.5
-
 Quick Cliq|http://apathysoftworks.com/software/quickcliq||https://www.portablefreeware.com/index.php?id=2876|class="appName"|class="version">|<|v2.1.0
 ASuite|http://www.salvadorsoftware.com/asuite|http://www.portablefreeware.com/download.php?dd=692|http://www.portablefreeware.com/index.php?id=692|class="appName">|class="version">|</span>|v1.5.1.2
 ASuite 2|http://www.salvadorsoftware.com/asuite||https://github.com/salvadorbs/Asuite/releases|class="release-label|css-truncate-target">|<|v2.0-beta
 pstart|http://www.pegtop.net/start/|http://www.portablefreeware.com/download.php?dd=374|http://www.portablefreeware.com/index.php?id=374|class="appName">|class="version">|</span>|v2.11
 
-yaP|http://rolandtoth.hu/yaP/|http://rolandtoth.hu/yaP/bin/yaP-latest-beta.zip|http://rolandtoth.hu/yaP/#download|class="btn download"|Download yaP|<|v0.7.1
+Jumplist Launcher|http://ali.dj/jumplist-launcher||http://techspot.com/downloads/5143-jumplist-launcher.html|itemprop="softwareVersion">||<|7.21
+
+Launchy|http://launchy.sourceforge.net/|http://sourceforge.net/projects/launchy/files/latest/download?source=files|http://launchy.sourceforge.net/|versionBadge">|<span>|</span>|2.5
+
+RocketDock|https://punklabs.com/rocketdock||http://www.portablefreeware.com/index.php?id=1149|class="appName"|class="version">|<|v1.3.5
+Winstep Nexus Dock|http://www.winstep.net/nexus.asp|h1>Winstep Nexus ||<|16.5
 
 
 ## notes
-Evernote|http://filehippo.com/zh/download_evernote/|<title>|Evernote |-|6.5.4.4720
-evernote portable|http://www.portablesoft.org/down/994/|div id="crumb"|/down/994/">Evernote |<|6.5.4.4720
+Evernote|http://filehippo.com/zh/download_evernote/|<title>|Evernote |-|6.7.5.5825
+evernote portable|http://www.portablesoft.org/down/994/|div id="crumb"|/down/994/">Evernote |<|6.7.5.5825
 evernote 3.1|http://filehippo.com/zh/download_evernote/history/10/||http://filehippo.com/zh/download_evernote/6461/|og:title" content="Evernote ||"|3.1.0.1225
 
 ResophNotes|http://www.resoph.com/ResophNotes/Welcome.html|http://www.portablefreeware.com/download.php?dd=1951|http://www.portablefreeware.com/index.php?id=1951|class="appName"|class="version">|<|v1.5.7
@@ -129,7 +130,7 @@ Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.ama
 ## remote/pair desktop
 Input Director|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|latest version|<b>|<|v1.4
 Mouse without Borders|http://www.microsoft.com/en-us/download/details.aspx?id=35460|Version:</span>|<p>|<|2.1.6.1027
-Real VNC Viewer|https://www.realvnc.com/download/viewer/windows/|data-ga-category="download">Download VNC Viewer ||<|6.1.1
+Real VNC Viewer|https://www.realvnc.com/download/viewer/windows/|class="download-link"|viewer.files/VNC-Viewer-|-Windows|6.17.731
 
 
 ## rescue
@@ -137,7 +138,7 @@ pstools/pskill||https://download.sysinternals.com/files/PSTools.zip|https://tech
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.52.1086
 TestDisk & PhotoRec|http://www.cgsecurity.org/wiki/TestDisk||http://www.cgsecurity.org/wiki/TestDisk_Download|h2><span|>TestDisk &amp; PhotoRec |,|7.0 (18 April 2015)
 TakeOwnershipPro||http://www.top-password.com/download/TakeOwnershipPro.exe|http://www.top-password.com/take-ownership-pro.html|initial-scale=||"|1.0
-LockHunter|http://lockhunter.com/index.htm|http://lockhunter.com/downloadnow.htm|http://lockhunter.com/download.htm|Version: ||;|3.1.1
+LockHunter|http://lockhunter.com/index.htm|http://lockhunter.com/downloadnow.htm|http://lockhunter.com/download.htm|Version: ||;|3.2.3
 Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.2
 Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.0
 AOMEI Partition Assistant|http://www.disk-partition.com/free-partition-manager.html||http://www.disk-partition.com/download-home.html|<li>Version: ||<|6.3
@@ -180,16 +181,19 @@ Maxthon (classic)|http://www.maxthon.com/||http://www.onlinedown.net/soft/259709
 HTTrack|http://www.httrack.com/||http://www.httrack.com/page/2/en/index.html|h2>Download HTTrack Website Copier ||<|3.48-2
 
 ## window management
+*VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.5 Beta2
 *WinSplit Revolution|http://www.portablefreeware.com/index.php?id=1620|class="appName">|class="version">|<|v11.04
 AquaSnap|http://www.portablefreeware.com/index.php?id=1964|class="appName"|class="version">v|<|1.23
 DisplayFusion|http://www.displayfusion.com/||https://www.displayfusion.com/ChangeLog/|>DisplayFusion Change Log|<h2>|<|v7.3.4 &bull; January 20, 2016
-Dual Monitor Taskbar|http://sourceforge.net/projects/dualmonitortb/||http://sourceforge.net/projects/dualmonitortb/files/Releases/|span>Parent folder|<tr title="v0|"|1.22.021813
-*VirtuaWin|http://virtuawin.sourceforge.net/||http://www.portablefreeware.com/index.php?id=1377|class="appName">VirtuaWin|class="version">|</span>|v4.4
 Dexpot||http://www.dexpot.de/index.php?id=thankyou|http://www.dexpot.de/index.php?id=download|Current version|<li>|</li>|1.6.14 Build 2439
 4t Tray Minimizer||http://www.4t-niagara.com/files/4t-min.zip|http://www.4t-niagara.com/tray.html|Current version:||<|5.52
-Winstep Nexus Dock|http://www.winstep.net/nexus.asp|h1>Winstep Nexus ||<|16.5
+
+|zbar||http://www.zhornsoftware.co.uk/zbar/zbar.zip|http://www.zhornsoftware.co.uk/zbar/|NAME="download"|<B>|</B>|v0.86
+Dual Monitor Taskbar|http://sourceforge.net/projects/dualmonitortb/||http://sourceforge.net/projects/dualmonitortb/files/Releases/|span>Parent folder|<tr title="v0|"|1.22.021813
 
 ## misc
+yaP|http://rolandtoth.hu/yaP/|http://rolandtoth.hu/yaP/bin/yaP-latest-beta.zip|http://rolandtoth.hu/yaP/#download|class="btn download"|Download yaP|<|v0.7.1
+
 FreeFileSync|http://freefilesync.sourceforge.net/index.php||http://www.portablefreeware.com/index.php?id=1475|class="appName">|class="version">v|</span>|6.2
 FreeMind|http://freemind.sourceforge.net||http://sourceforge.net/projects/freemind/files/freemind/|span>Parent folder|<tr title="|"|1.0.1
 KeePass Password Safe 2.x|http://sourceforge.net/projects/keepass/|http://sourceforge.net/projects/keepass/files/KeePass%202.x/KeePass-[%0A].zip/download|http://sourceforge.net/projects/keepass/files/KeePass%202.x/|Parent folder|tr title="|"|2.33
@@ -199,6 +203,7 @@ QTranslate|http://quest-app.appspot.com/||http://www.portablefreeware.com/index.
 Sandboxie||http://www.sandboxie.com/SandboxieInstall.exe|http://www.sandboxie.com/index.php?DownloadSandboxie|Sandboxie version| |<|5.10
 WSCC PortableApps|http://www.kls-soft.com/wscc/|http://www.kls-soft.com/downloads/wsccportable.paf.exe|http://www.kls-soft.com/wscc/downloads.php|PortableApps.com|align="right">|<|3.1.1.4
 imewlconverter|https://github.com/studyzy/imewlconverter/releases|Latest release|css-truncate-target">|<|V2.1.1
+
 foobar2k|http://www.foobar2000.org||http://www.portablefreeware.com/index.php?id=184|class="appName">|class="version">|<|v1.3.10
 winamp lite|http://winamp.en.botbi.com||http://www.portablefreeware.com/index.php?id=515|class="appName">|class="version">|<|v5.66
 
@@ -240,7 +245,7 @@ TC wfx ext4tc|http://sourceforge.net/projects/ext4tc/files/ext4Plugin/|span>Pare
 TC wfx procviewer|http://totalcmd.net/plugring/procview.html|<h1>procViewer ||<|1.5.1 beta
 TC wfx services2|http://www.totalcmd.net/plugring/Services2.html|<b>Services2||<|0.7.0
 TC wfx sftp (openssh)||http://ghisler.fileburst.com/fsplugins/sftpplug.zip|http://www.ghisler.com/plugins.htm|<strong>SFTP</strong>|<strong>|</strong>|1.4.2
-TC wfx SFTP4TC (putty)|http://sftp4tc.berlios.de/||http://sourceforge.net/projects/sftp4tc/files/|class="opt">Downloads|title="wfx_sftp_|.zip|1_4_67_2
+TC wfx SFTP4TC (putty)|http://sourceforge.net/projects/sftp4tc||http://sourceforge.net/projects/sftp4tc/files/|id="files_list"|<tr title="wfx_sftp_|.zip|1_4_67_4
 TC wfx Uninstaller64||http://www.totalcmd.net/download.php?id=uninstaller64|http://www.totalcmd.net/plugring/uninstaller64.html|<h1>Uninstaller64||</h1>|1.0.1
 TC wfx Uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|http://www.totalcmd.net/download.php?id=uninstaller|http://www.totalcmd.net/plugring/uninstaller.html|<h1>Uninstaller ||</h1>|1.8.1
 TC wfx Virtual Disk|http://www.totalcmd.net/plugring/virtdisk.html|http://www.totalcmd.net/download.php?id=virtdisk|http://www.totalcmd.net/directory/fsplugin.html|/virtdisk|&nbsp;|<|1.3.3 Final

@@ -12,7 +12,7 @@ emacs ppa (24.3 for precise/trusty)|https://launchpad.net/~cassou/+archive/emacs
  
 ## centos
 emacs rhel6|http://pj.freefaculty.org/EL/6/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-3EL6.x86_64.
-emacs rhel7|http://pj.freefaculty.org/EL/7/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-6EL7.x86_64.
+emacs rhel7|http://pj.freefaculty.org/EL/7/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-8.el7.centos.x86_64.
 
 
 # windows
@@ -177,5 +177,5 @@ libungif4 (gnuwin32)|http://gnuwin32.sourceforge.net/packages/libungif.htm|Versi
 Jasspa's MicroEmacs|http://www.jasspa.com/downlinux.html|h2>Debian |/me-jasspa_|_i386|0.0.20091011
 JED|http://www.jedsoft.org/jed||http://www.jedsoft.org/releases/jed/|href="jed-||.tar|0.99-19
 Jed on Windows|http://www.paneura.com/~dino/wjed.html|HREF="files/jed_||.exe|0.99.18-s2.0.6-i154
-JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.3
-JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="|"|4.3
+JOE||http://joe-editor.sourceforge.net|http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|table id="files_list"|tr title="joe-|"|4.5
+JOE windows|http://sourceforge.net/projects/joe-editor/files/JOE%20for%20Windows/|table id="files_list"|tr title="|"|4.5
