@@ -54,7 +54,6 @@ uMatrix(+sm 2.24, +WE)||https://addons.mozilla.org/firefox/downloads/latest/6132
 
 Google search link fix (fx24/31=>1.4.9, fx38/45=>1.5.4, +sm)||https://addons.mozilla.org/firefox/downloads/latest/351740/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|itemprop="version">||</span>|1.6.5
 ?Clean Links(+sm)|http://www.filewatcher.com/m/clean_links-2.6.0-fn+tb+an+fx+sm.xpi.46597-0.html|https://addons.mozilla.org/firefox/downloads/latest/300496/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/clean-links/|itemprop="version">||</span>|2.7.1-signed.1-signed
-Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|itemprop="name"|itemprop="version">|<|1.5
 
 ### read
 Color Toggle|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/9408-0.html|https://addons.mozilla.org/downloads/latest/color-toggle|https://addons.mozilla.org/en-US/firefox/addon/color-toggle|version item|id="version-|"|0.16
@@ -100,6 +99,8 @@ New ChromaTabs Plus|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.
 +Tab Utilities Fixed (github)|https://github.com/yfdyh000/tabutils/releases|Latest release|truncate-target">|<|2017.02.04
 Tab Utilities(fx<29)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/59961-2.html|https://addons.mozilla.org/downloads/latest/tab-utilities|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|version item|id="version-|"|1.5.28
 TooManyTabs (fx24=>1.4.3, fx31=>1.4.5)|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|https://addons.mozilla.org/downloads/latest/toomanytabs-saves-your-memory|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|version item|id="version-|"|1.4.7
+
+Tree Style Tab|https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/|download.png|AddonMoreInfo-version">||<|32.2.1
 
 #### tab groups
 ?Pano|http://www.filewatcher.com/b/ftp/ftp.metu.edu.tr/pub/mirrors/ftp.mozilla.org/addons/312203-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/pano/|version item|id="version-|"|1.2.1
