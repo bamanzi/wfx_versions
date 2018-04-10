@@ -73,13 +73,16 @@ Folder Size|http://foldersize.sourceforge.net/changelog.html|<h1>Folder Size Cha
 VCMI (Heroes 3 engine)|http://forum.vcmi.eu/portal.php|http://download.vcmi.eu/vcmi_098.rar|https://github.com/vcmi/vcmi/releases|>Latest release|class="css-truncate-target">|<|0.98
 
 ## graphics
-IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php?dd=49|http://www.portablefreeware.com/index.php?id=49|"appName"|"version">|<|v4.42
 SageThumbs|https://sourceforge.net/projects/sagethumbs/|https://sourceforge.net/projects/sagethumbs/files/latest/download?source=files|https://sourceforge.net/projects/sagethumbs/files/|<tbody>|<tr title="sagethumbs_|_|2.0.0.22
-FSCapture (free)|http://www.portablefreeware.com/index.php?id=775|class="appName">|class="version">|<|v5.3
 
+IrfanView|http://www.irfanview.com/|http://www.portablefreeware.com/download.php?dd=49|http://www.portablefreeware.com/index.php?id=49|"appName"|"version">|<|v4.42
+FSCapture (free)|http://www.portablefreeware.com/index.php?id=775|class="appName">|class="version">|<|v5.3
 PicPick||http://www.nteworks.com/latestdownload/picpick_portable.zip|http://www.portablefreeware.com/index.php?id=1496|class="appName">|class="version">|<|v4.2.2
+
 Paint.net||http://www.dotpdn.com/downloads/pdn.html|http://www.getpaint.net/download.html|Version</font>|<strong>|<|4.0.13
 GIMP (win)|http://www.gimp.org/||http://www.gimp.org/downloads/|h2>GIMP for Windows|class="button_headline">Download GIMP |<|2.8.14
+FireAlpaca|http://firealpaca.com/cn/|>latest Version:<|>|<|2.1.0 (Apr/9/2018)
+
 GifCam|http://blog.bahraniapps.com/gifcam/||http://www.portablefreeware.com/index.php?id=2541|class="appName">|class="version">|<|v5.1
 
 ## launcher
@@ -130,24 +133,31 @@ Sumatra PDF|http://blog.kowalczyk.info/software/sumatrapdf/|http://kjkpub.s3.ama
 ## remote/pair desktop
 Input Director|http://www.inputdirector.com/index.html#about||http://www.inputdirector.com/downloads.html|latest version|<b>|<|v1.4
 Mouse without Borders|http://www.microsoft.com/en-us/download/details.aspx?id=35460|Version:</span>|<p>|<|2.1.6.1027
+
 Real VNC Viewer|https://www.realvnc.com/download/viewer/windows/|class="download-link"|viewer.files/VNC-Viewer-|-Windows|6.17.731
+TigerVNC|https://github.com/TigerVNC/tigervnc/releases|Latest release|css-truncate-target">|<|v1.8.0
 
 
 ## rescue
 pstools/pskill||https://download.sysinternals.com/files/PSTools.zip|https://technet.microsoft.com/en-us/sysinternals/bb896683.aspx|h1>PsKill||<|v1.14
 Recuva|http://www.piriform.com/recuva||http://www.piriform.com/download|<h2><a href="/recuva">|Latest version: </b>|<br|1.52.1086
 TestDisk & PhotoRec|http://www.cgsecurity.org/wiki/TestDisk||http://www.cgsecurity.org/wiki/TestDisk_Download|h2><span|>TestDisk &amp; PhotoRec |,|7.0 (18 April 2015)
-TakeOwnershipPro||http://www.top-password.com/download/TakeOwnershipPro.exe|http://www.top-password.com/take-ownership-pro.html|initial-scale=||"|1.0
-LockHunter|http://lockhunter.com/index.htm|http://lockhunter.com/downloadnow.htm|http://lockhunter.com/download.htm|Version: ||;|3.2.3
-Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.2
-Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.0
 AOMEI Partition Assistant|http://www.disk-partition.com/free-partition-manager.html||http://www.disk-partition.com/download-home.html|<li>Version: ||<|6.3
 MiniTool Partition Wizard (Free Edition)|http://minitool.com/partition-manager/partition-wizard-home.html||http://minitool.com/download-center.html|h3>MiniTool Partition Wizard Server Edition ||<|9.1
 
 ## shell
+Easy Context Menu|http://www.sordum.org/7615/easy-context-menu/||http://www.softpedia.com/get/Tweak/System-Tweak/BlueLife-ContextMenu.shtml|current version:<|>Easy Context Menu |<|1.6
 FileMenu Tools|http://www.lopesoft.com/index.php/en/filemenutools/changelog|<article|<h2 class="article-title" itemprop="headline">|<|v7.0.5
 Open++||http://www.portablefreeware.com/download.php?dd=2084|http://www.portablefreeware.com/index.php?id=2084|class="appName"|class="version">|<|v1.5.1
+
 ShellExView||http://www.nirsoft.net/utils/shexview.zip|http://www.nirsoft.net/utils/shexview.html|class="utilcaption"|<td>ShellExView| -|v1.97
+
+Folder Painter|http://www.sordum.org/10124/folder-painter-v1-0/||http://www.softpedia.com/get/System/OS-Enhancements/Folder-Painter.shtml|current version:<|>Folder Painter |<|1.0
+VHD for Context Menu|http://www.sordum.org/9209/vhd-for-context-menu-v1-0/||http://www.softpedia.com/get/Tweak/System-Tweak/VHD-For-Context-Menu.shtml|current version:<|>VHD For Context Menu |<|1.0.0.0
+TakeOwnershipPro||http://www.top-password.com/download/TakeOwnershipPro.exe|http://www.top-password.com/take-ownership-pro.html|initial-scale=||"|1.0
+LockHunter|http://lockhunter.com/index.htm|http://lockhunter.com/downloadnow.htm|http://lockhunter.com/download.htm|Version: ||;|3.2.3
+Unlocker|http://www.emptyloop.com/unlocker/|download.php|Download Unlocker |-|1.9.2
+Unlocker(portable)|http://ccollomb.free.fr/unlocker/|http://www.portablefreeware.com/download.php?dd=1658|http://www.portablefreeware.com/index.php?id=1658|class="appName">|class="version">|</span>|v1.9.0
 
 ## system cleaner
 CCleaner|http://www.ccleaner.com/|http://www.piriform.com/ccleaner/download/portable/downloadfile|http://www.piriform.com/ccleaner/download|Latest version:|>|<|3.25.1872

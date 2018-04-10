@@ -19,7 +19,7 @@ emacs rhel7|http://pj.freefaculty.org/EL/7/x86_64/?C=M;O=D|emacs-nox-||rpm|24.5-
 emacs-bin (win32 release)|http://sourceforge.net/projects/emacs-bin/files/releases/|Totals|title="emacs-|.7z|24.5-bin-i686-mingw32
 emacs-bin (win32 snapshots)|http://sourceforge.net/projects/emacs-bin/files/snapshots/|Totals|title="emacs-|.7z|25-20160818T142322Z-bin-i686-mingw32
 emacsbinw64 (release)|http://sourceforge.net/projects/emacsbinw64||http://sourceforge.net/projects/emacsbinw64/files/release/|Totals|title="emacs-w64-|.7z|25.1-O2-with-modules
-emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/|h3>Version<|">|(|25.1-modified-1
+emacs for windows modified (w/ dlls)|http://vgoulet.act.ulaval.ca/en/emacs/windows/||http://github.com/vigou3/emacs-modified-windows/releases|>Latest release<|"css-truncate-target">|<|v25.3-modified-2
 
 
 # packages

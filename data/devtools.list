@@ -44,6 +44,7 @@ Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.4.1
 JSONedit||http://www.portablefreeware.com/download.php?dd=2393|http://www.portablefreeware.com/index.php?id=2393|appName">|version">v|<|0.9.25
+MiTeC JSON Viewer|http://www.mitec.cz/jsonv.html||http://www.mitec.cz/index.html|href="jsonv.html">MiTeC JSON Viewer</a>&#160;|| has been released|1.1.0
 
 ## log viewer
 Advanced Log Viewer|http://salplachta.net/AdvancedLogViewer/Features.aspx||http://salplachta.net/AdvancedLogViewer/Default.aspx|Latest version|">|<|7.6.0
@@ -52,7 +53,13 @@ LogWizard|https://github.com/jtorjo/logwizard||https://github.com/jtorjo/logwiza
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
 glogg (win+linux)|http://glogg.bonnefon.org/index.html|http://glogg.bonnefon.org/files/glogg-latest-x86_64-setup.exe|https://github.com/nickbnf/glogg/releases|>Releases<|"tag-name">|<|v1.1.1
- 
+
+## Rest client
+Postman(windows)|http://www.getpostman.com/apps||http://www.softpedia.com/get/Programming/Other-Programming-Files/Postman-Postdot.shtml|current version:|Postman|<|6.0.10
+Insomnia REST Client|http://insomnia.rest||http://github.com/getinsomnia/insomnia/releases|>Latest release<|"css-truncate-target">|<|v5.15.0
+Fiddler|http://www.freewarefiles.com/Fiddler_program_20936.html|<h1|Fiddler |<|5.0.20181
+
+
 ## regexp
 Expresso Regular Express Tool|http://www.ultrapico.com/expresso.htm||http://www.ultrapico.com/ExpressoDownload.htm|1. Install Expresso|(Version |)|3.0.4750 - January 2, 2013*
 Regular Expression Tester(firefox)|https://addons.mozilla.org/en-US/firefox/addon/rext/|version item|id="version-|"|3.2.11
@@ -62,6 +69,7 @@ Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
 TortoiseGit|https://tortoisegit.org/download/|The current stable version is: ||<|2.5.0
 git-for-windows|https://git-for-windows.github.io||https://github.com/git-for-windows/git/releases|>Latest release<|"css-truncate-target">|<|v2.14.2.windows.2
+
 
 ## misc
 AstroGrep|http://astrogrep.sourceforge.net/|>AstroGrep v|| Released|4.4.4
@@ -130,6 +138,7 @@ pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.python.org/pypi/pyfl
 spyder|https://pypi.python.org/pypi/spyder/|title>spyder ||:|3.0.2
 jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.python.org/pypi/jedi|title>jedi || : Python Package Index|0.9.0
 PyScripter|http://sourceforge.net/projects/pyscripter/|http://sourceforge.net/projects/pyscripter/files/latest/download|http://sourceforge.net/projects/pyscripter/files/|<tbody|<tr title="PyScripter-|.zip"|v2.6.0
+pyzo|http://www.pyzo.org|>Latest version<|current version is |<|4.5.1 (released on 14-02-2018).
 
 ## python - debug
 smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.python.org/pypi/smiley|title>smiley || : Python Package Index|0.8.1

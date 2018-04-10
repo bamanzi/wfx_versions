@@ -41,7 +41,7 @@ Internote|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.or
 ### proxy & anti-GFW
 *AutoProxy-ng|https://addons.mozilla.org/firefox/addon/autoproxy-ng|https://addons.mozilla.org/downloads/latest/autoproxy-ng|https://addons.mozilla.org/firefox/addon/autoproxy-ng|AddonMoreInfo-version">||<|0.5.6
 AutoProxy|https://addons.mozilla.org/firefox/addon/autoproxy|https://addons.mozilla.org/downloads/latest/autoproxy|https://addons.mozilla.org/firefox/addon/autoproxy|AddonMoreInfo-version">||<|0.4b2.2013051811
-FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|AddonMoreInfo-version">||</|6.2
+FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|AddonMoreInfo-version">||</|4.6.5
 ?Proxy Selector|http://www.filewatcher.com/m/proxy_selector-1.35-fx.xpi.45827-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector|AddonMoreInfo-version">||</|1.31
 Proxy Switcher (>=fx38)|https://addons.mozilla.org/en-US/firefox/addon/proxy-switcher/|AddonMoreInfo-version">||<|0.2.0
 
@@ -96,6 +96,8 @@ Session Manager (fx24/31=>0.8.1.7, +sm)|http://www.filewatcher.com/b/ftp/ftp.kr.
 
 *ColorfulTabs (+sm)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|https://addons.mozilla.org/downloads/latest/colorfultabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|AddonMoreInfo-version">||<|31.1.8
 New ChromaTabs Plus|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/693448-1.html|https://addons.mozilla.org/downloads/latest/new-chromatabs-plus|https://addons.mozilla.org/en-US/firefox/addon/new-chromatabs-plus|AddonMoreInfo-version">||<|4.0.0b1
+VivaldiFox(fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|1.4.1
+
 
 +Tab Utilities Fixed (github)|https://github.com/yfdyh000/tabutils/releases|Latest release|truncate-target">|<|2017.08.17
 Tab Utilities(fx<29)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/59961-2.html|https://addons.mozilla.org/downloads/latest/tab-utilities|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|AddonMoreInfo-version">||<|1.5.28
@@ -135,10 +137,14 @@ Lazarus Form Recovery|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ft
 ?Diigo Toolbar|http://www.filewatcher.com/m/diigo_toolbar_annotate_screenshot_bookmark-5.1.0.38-fx.xpi.493881-0.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2792-0.html|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|AddonMoreInfo-version">||<|5.1.0.38
 
 Markdow Here|https://addons.mozilla.org/addon/markdown-here|https://addons.mozilla.org/downloads/latest/markdown-here|https://addons.mozilla.org/addon/markdown-here/|AddonMoreInfo-version">||<|2.13.1
+Markdow Viewer(+sm)|https://addons.mozilla.org/addon/markdown-viewer|https://addons.mozilla.org/downloads/latest/markdown-viewer|https://addons.mozilla.org/addon/markdown-viewer/|AddonMoreInfo-version">||<|1.12
+
 HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|https://addons.mozilla.org/downloads/latest/headingsmap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|AddonMoreInfo-version">||<|2.1
 Skip Cert Error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|https://addons.mozilla.org/downloads/latest/skip-cert-error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error|AddonMoreInfo-version">||<|0.4.4
 TableTools2|https://addons.mozilla.org/en-US/firefox/addon/tabletools2|https://addons.mozilla.org/downloads/latest/tabletools2|https://addons.mozilla.org/en-US/firefox/addon/tabletools2|AddonMoreInfo-version">||<|1.17
 wfx_versions|http://www.filewatcher.com/m/versions-1.0-fx+sm.xpi.184281-0.html|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|AddonMoreInfo-version">||<|1.0
+
+Distill Web Monitor - Legacy(fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/alterbox|AddonMoreInfo-version">||<|1.6.19.1
 
 ### trash
 Edit Bookmark Plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|https://addons.mozilla.org/downloads/latest/edit-bookmark-plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|AddonMoreInfo-version">||<|2.3.2

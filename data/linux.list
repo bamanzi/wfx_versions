@@ -1,6 +1,6 @@
 # cli
 ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
-ag||http://github.com/ggreer/the_silver_searcher|http://github.com/ggreer/the_silver_searcher/releases|"release-timeline"|class="tag-name">|<|2.0.0
+ag||http://github.com/ggreer/the_silver_searcher|http://github.com/ggreer/the_silver_searcher/releases|"release-timeline-tags|class="tag-name">|<|2.0.0
 glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
 sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.6.0
 
@@ -8,7 +8,7 @@ drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.2
 
-fzf|https://github.com/junegunn/fzf/releases|class="release-timeline"|class="tag-name">|<|0.16.5
+fzf|https://github.com/junegunn/fzf/releases|"release-timeline-tags|class="tag-name">|<|0.16.5
 peco|https://github.com/peco/peco/releases|Latest release|css-truncate-target">|<|v0.4.9
 
 grc|https://github.com/garabik/grc||https://github.com/garabik/grc/releases|>Latest release<|css-truncate-target">|<|v1.10
@@ -83,11 +83,12 @@ Double Commander|http://doublecmd.sourceforge.net/|http://sourceforge.net/projec
 thunar|http://docs.xfce.org/xfce/thunar/start||http://archive.xfce.org/src/xfce/thunar/1.6/?C=N;O=D|>Parent Directory|a href="Thunar-|.tar|1.6.10
 
 Nemo (16.04 ppa)|http://developer.linuxmint.com/projects.html|https://github.com/linuxmint/nemo/releases|https://launchpad.net/~noobslab/+archive/ubuntu/nemo/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tbody>|nemo - |~NoobsLab|2.8.7-b~xenial
-nemo (centos7)|http://ftp.cn.debian.org/epel/7/x86_64/n/|nemo-||.el7|2.8.7-1
+nemo (centos7)|http://pkgs.org/download/nemo|>EPEL|nemo-|.rpm|2.8.7-1
  
 nautilus-pyextensions|http://www.giuspen.com/nautilus-pyextensions/|source code|>nautilus-pyextensions-|.tar|3.4.1
 
 ## graphics
+Geeqie Image Viewer|http://www.geeqie.org/||http://geeqie.org/cgi-bin/gitweb.cgi?p=geeqie.git|class="tags">|>Release |<|v1.4
 lazpaint|http://lazpaiint.sourceforge.net|http://sourceforge.net/projects/lazpaint/files/latest/download?source=files|http://sourceforge.net/projects/lazpaint/files/bin|_linux32.deb|bin/lazpaint|_|6.4.1
 
 mtpaint|http://mtpaint.sourceforge.net|http://sourceforge.net/projects/mtpaint/files/latest/download?source=files|http://sourceforge.net/projects/mtpaint/files/mtpaint/|Parent folder|<tr title="|" class="folder|3.40
@@ -138,6 +139,7 @@ Xpdf|http://www.foolabs.com/xpdf/download.html|Current version: |XpdfReader |was
 wine ppa (ubuntu 12.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=precise|wine1.7|1:|</td|1.7.18-0ubuntu1
 wine ppa (ubuntu 14.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=trusty|wine1.8|1:|</|1.8.0-0ubuntu1
 wine ppa (ubuntu 16.04)|https://launchpad.net/~ubuntu-wine/+archive/ubuntu/ppa?field.series_filter=xenial|wine2|1:|</|2.0-0ubuntu1~ppa2
+Gigolo (gio/gvfs mounter)|http://git.xfce.org/apps/gigolo/refs|>Tag<|tag/?h=gigolo-|'|0.4.2
 
 ## development
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.29
@@ -147,7 +149,7 @@ RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|3.7.1
 
 gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.19.6
-gitg (centos7 epel)|https://wiki.gnome.org/action/show/Apps/Gitg||http://ftp.cn.debian.org/epel/7/x86_64/g/|gitg-||.x86_64|3.14.1 
+gitg (centos7 epel)|https://wiki.gnome.org/action/show/Apps/Gitg||http://pkgs.org/download/gitg|>EPEL||.x86_64|请求超时 (45s)
 qgit (centos7 epel)|http://ftp.cn.debian.org/epel/7/x86_64/q/|qgit-||.x86_64|2.7-1.el7
 qgit (centos6 epel)|http://ftp.cn.debian.org/epel/6/x86_64/|qgit-||.x86_64|2.5-1.el6
 
