@@ -21,12 +21,13 @@ ConEmu plink|https://github.com/Maximus5/plink/releases|>Latest release<|class="
 clink|http://mridgers.github.io/clink/||http://github.com/mridgers/clink/releases|Latest release|css-truncate-target">|<|0.4.8
 
 ## editor
-BowPad|http://www.portablefreeware.com/index.php?id=26832683||http://www.portablefreeware.com/index.php?id=2683|"appName"|"version">|<|v2.3.2
-
+Textosaurus|https://github.com/martinrotter/textosaurus/releases|>Latest release<|css-truncate-target">|<|0.9.4
 SciTE|http://www.scintilla.org/SciTE.html|http://sourceforge.net/projects/scintilla/files/latest/download?source=files|http://sourceforge.net/projects/scintilla/files/SciTE/|<tbody|<tr title="|"|3.7.2
-Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.8
 SciTE-Ru|https://bitbucket.org/scite-ru/scite-ru.bitbucket.org||https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/downloads|download-repo|SciTE_|.zip|355_101Ru_050515
 SynWriteLite||http://totalcmd.net/download.php?id=SynWriteLite|http://totalcmd.net/plugring/SynWriteLite.html|h1>SynWrite Lite ||<|6.1.185
+
+BowPad|http://www.portablefreeware.com/index.php?id=26832683||http://www.portablefreeware.com/index.php?id=2683|"appName"|"version">|<|v2.3.2
+Akelpad|http://www.portablefreeware.com/index.php?id=952||http://www.portablefreeware.com/index.php?id=952|"appName"|"version">|<|v4.9.8
 madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.net/projects/madedit-mod/files/latest/download?source=files|https://sourceforge.net/projects/madedit-mod/files/|Looking for the latest version?|<span>Download madedit-mod|.tar|0.4.4
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.1
 
@@ -47,7 +48,7 @@ diff-ext|http://diff-ext.sourceforge.net/||http://diff-ext.sourceforge.net/downl
 
 ## filemanager
 XYplorerFree|http://www.xyplorer.com/free.php|http://www.portablefreeware.com/download.php?dd=579|http://www.portablefreeware.com/index.php?id=579|class="appName">|class="version">|</span>|v17.40.0100
-Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.7.8 beta
+Double Commander (win)|http://doublecmd.sourceforge.net/|http://sourceforge.net/projects/doublecmd/files/latest/download|http://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/|id="parent_folder"|title="Double Commander |"|0.8.2 beta
 xplorer2 lite||http://zabkat.com/download.php?p=2|http://zabkat.com/x2lite.htm|Latest Release|>v|<|3.4.0.3 (29 June 2017)
 FreeCommanderXE||http://freecommander.com/downloads/FreeCommanderXE-32-public_portable.zip|http://freecommander.com/en/downloads/|a title="FreeCommander XE ||32-bit public|2015 Build 685
 
@@ -238,9 +239,9 @@ whereis||http://www.flounder.com/whereis.zip|http://www.flounder.com/whereis.htm
 sudo (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-and-kill-for-windows/|http://krutonium.leshcatlabs.net/Applications/Sudo/Sudo.exe|http://krutonium.leshcatlabs.net/downloads/|>Sudo|class="tg-|"|031e
 kill (dummy version)|http://krutonium.leshcatlabs.net/2015/09/16/new-tools-sudo-and-kill-for-windows/||http://krutonium.leshcatlabs.net/downloads/|>Kill|class="tg-|"|031e
 
-
+|||||
 # Total Commander ---
-Total Commander (win32)|http://www.ghisler.com/|Total Commander</font>|Version |,|9.0a
+Total Commander (win32)|http://www.ghisler.com/|Total Commander</font>|Version |,|9.12
 Total Commander (beta)|http://www.ghisler.com/|<strong>New|Total Commander|for Windows|9.0 beta 17 (32+64 bit)
 TC util BarEditor|http://www.totalcmd.net/plugring/BarEditor.html|http://www.totalcmd.net/download.php?id=BarEditor|http://www.totalcmd.net/directory/util.html|/BarEditor|&nbsp;|<|1.5
 TC util Plugins Manager|http://www.totalcmd.net/plugring/tc_plugman.html|http://www.totalcmd.net/download.php?id=tc_plugman|http://www.totalcmd.net/plugring/tc_plugman.html|<title>|TC Plugins Manager | -|2.2.8

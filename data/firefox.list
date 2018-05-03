@@ -3,9 +3,13 @@ firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/fire
 Firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|54.0-0ubuntu1_i386
 LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|.en-US|47.0
 
+|Firefox (AppImages)|https://bintray.com/probono/AppImages/Firefox||https://api.bintray.com/packages/probono/AppImages/Firefox/images/download.svg|</svg>|">|</text|59.0.2.glibc2.7
+|Firefox Developer Edition (AppImages)|https://bintray.com/probono/AppImages/Firefox_Developer_Edition||https://api.bintray.com/packages/probono/AppImages/Firefox_Developer_Edition/images/download.svg|</svg>|">|</text|54.0a2.en.glibc2.3.4
+|Waterfox (AppImages)|https://bintray.com/probono/AppImages/Waterfox||https://api.bintray.com/packages/probono/AppImages/Waterfox/images/download.svg|</svg>|">|</text|52.0.1.glibc2.17
+
 
 ## tools ------------------------------------------------------
-Firemin|http://datumza.com/downloads/|>Download|>Firemin |<|4 (Build 4615)
+Firemin|https://www.rizonesoft.com/downloads/firemin/|class="download-link|title="Version |"|6.1.0.4982
 MozillaHistoryView|http://www.nirsoft.net/utils/mozilla_history_view.html|>Versions History<|>Version |:|1.57
 FirefoxDownloadsView|http://www.nirsoft.net/utils/firefox_downloads_view.html|>Versions History<|>Version |:|1.38
 WebBrowserPassView|http://www.nirsoft.net/utils/web_browser_password.html|>Versions History<|>Version |:|1.82

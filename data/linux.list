@@ -29,7 +29,7 @@ gnu screen|https://www.gnu.org/software/screen/||http://git.savannah.gnu.org/cgi
 tig|http://jonas.nitro.dk/tig/||http://jonas.nitro.dk/tig/NEWS.html|sect1">|>tig-|<|2.2
 tig (ubuntu16 ppa)|https://launchpad.net/~bkgaley/+archive/ubuntu/ppa||https://launchpad.net/~bkgaley/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|tig - |<|2.2-1~ubuntu16.04.1
 tig (ubuntu14 ppa)|https://launchpad.net/~bkgaley/+archive/ubuntu/ppa||https://launchpad.net/~bkgaley/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|packages_list|tig - |<|2.0.2-1~ubuntu14.04.1
-tig (centos7 epel)|http://ftp.cn.debian.org/epel/7/x86_64/t/|thunderb|tig-|.x86_64|2.2-3.el7
+tig (centos7 epel)|http://pkgs.org/download/tig|>EPEL|tig-|.x86_64|2.2-3.el7
 
 joe|http://joe-editor.sourceforge.net/||http://sourceforge.net/projects/joe-editor/files/JOE%20sources/|<tbody>|<tr title="joe-|"|4.3
 joe (centos7)|https://pkgs.org/download/joe|CentOS 7|-x86_64/joe-|.x86_64|3.7-11.el7
@@ -66,6 +66,11 @@ madedit-mod|https://sourceforge.net/projects/madedit-mod/|https://sourceforge.ne
 wxMEdit|http://wxmedit.github.io/downloads.html|The current version is: || .|3.1
 
 gedit-gmate (ubuntu 16 ppa)|https://launchpad.net/~ubuntu-on-rails/+archive/ubuntu/ppa||https://launchpad.net/~ubuntu-on-rails/+archive/ubuntu/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|packages_list|gedit-gmate -|<|0.12ppa2~xenial
+
+## editor - markdown
+ghostwriter|https://github.com/wereturtle/ghostwriter/release|>Latest release<|"css-truncate-target">|<|v1.6.2
+|ghostwriter (AppImages)|https://bintray.com/probono/AppImages/ghostwriter||https://api.bintray.com/packages/probono/AppImages/ghostwriter/images/download.svg|</svg>|">|</text|1.5.0+ds1.glibc2.14
+|Typora (deb)|https://typora.io/linux/Packages|Package: |_amd64.deb|/typora_|0.9.49-1
 
 ## editor - html
 BlueGriffon|http://bluegriffon.org/||http://bluegriffon.org/pages/Download|Version ||released|2.3.1
@@ -143,15 +148,18 @@ Gigolo (gio/gvfs mounter)|http://git.xfce.org/apps/gigolo/refs|>Tag<|tag/?h=gigo
 
 ## development
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.29
+|geany (AppImages)|https://bintray.com/probono/AppImages/Geany||https://api.bintray.com/packages/probono/AppImages/Geany/images/download.svg|</svg>|">|</text|1.27.glibc2.15
 geany (trusty ppa)|http://www.geany.org||https://launchpad.net/~geany-dev/+archive/ppa/+packages?field.name_filter=&field.status_filter=published&field.series_filter=trusty|geany - ||~trusty|1.29-1
+
+|Devhelp (AppImages)|https://bintray.com/probono/AppImages/Devhelp||https://api.bintray.com/packages/probono/AppImages/Devhelp/images/download.svg|</svg>|">|</text|3.8.2.glibc2.17
 
 RabbitVCS|https://github.com/rabbitvcs/rabbitvcs/||https://github.com/rabbitvcs/rabbitvcs/releases|Latest release|-target">|<|v0.16
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|3.7.1
 
 gitg|https://wiki.gnome.org/action/show/Apps/Gitg||https://git.gnome.org/browse/gitg/refs/|th class='left'>Tag|a href='/browse/gitg/tag/?h=|'|v3.19.6
 gitg (centos7 epel)|https://wiki.gnome.org/action/show/Apps/Gitg||http://pkgs.org/download/gitg|>EPEL||.x86_64|请求超时 (45s)
-qgit (centos7 epel)|http://ftp.cn.debian.org/epel/7/x86_64/q/|qgit-||.x86_64|2.7-1.el7
-qgit (centos6 epel)|http://ftp.cn.debian.org/epel/6/x86_64/|qgit-||.x86_64|2.5-1.el6
+qgit (centos7 epel)|http://pkgs.org/download/qgit|>EPEL|qgit-|.x86_64|2.7-1.el7
+qgit (centos6 epel)|http://pkgs.org/download/qgit|CentOS 6|>qgit-|.el6|2.5-1
 
 # sysadmin
 nmon|http://nmon.sourceforge.net/pmwiki.php||http://nmon.sourceforge.net/pmwiki.php|Latest version nmon|<strong>|</|16f
