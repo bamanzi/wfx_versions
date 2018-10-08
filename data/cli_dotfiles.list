@@ -5,7 +5,7 @@ stowsh|https://github.com/williamsmj/stowsh||https://github.com/williamsmj/stows
  
 # grep
 ack|http://beyondgrep.com/why-ack/|http://beyondgrep.com/ack-2.14-single-file|http://beyondgrep.com/install/|current stable version|version |,|2.14
-grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|<title>grin || :|1.2.1
+grin|https://pypi.python.org/pypi/grin||https://pypi.python.org/pypi/grin|release__card"|/grin/|/|1.2.1
 sag/sack|https://github.com/sampson-chen/sack||https://github.com/sampson-chen/sack/commits/master|commits-listing|Commits on |<|Sep 14, 2016
  
 # fzf
@@ -63,7 +63,7 @@ ydcv|https://github.com/felixonmars/ydcv||https://github.com/felixonmars/ydcv/re
 fanyi(nodejs)|https://github.com/afc163/fanyi||https://github.com/afc163/fanyi/releases|class="release-timeline"|class="tag-name">|<|0.2.1
  
 # python
-pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|title>pdbpp|| :|0.8.3
+pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.python.org/pypi/pdbpp|release__card"|/pdbpp/|/|0.9.2
 pythonpy|https://github.com/Russell91/pythonpy||https://github.com/Russell91/pythonpy/releases|class="release-timeline"|class="tag-name">|<|v0.4.9
 runp|https://github.com/vascop/runp||https://github.com/vascop/runp/commits/master|commits-listing|Commits on |<|Nov 17, 2015
  

@@ -163,11 +163,11 @@ qgit (centos6 epel)|http://pkgs.org/download/qgit|CentOS 6|>qgit-|.el6|2.5-1
 
 # sysadmin
 nmon|http://nmon.sourceforge.net/pmwiki.php||http://nmon.sourceforge.net/pmwiki.php|Latest version nmon|<strong>|</|16f
-glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|h1>Glances ||<|2.8
+glances|http://nicolargo.github.io/glances/||https://pypi.python.org/pypi/Glances|release__card"|/Glances/|/|2.8
 webmin|http://www.webmin.com/index.html|<h1|Download Webmin |<|1.780
-supervisord|https://pypi.python.org/pypi/supervisor/|<title|supervisor|:|3.3.2
+supervisord|https://pypi.python.org/pypi/supervisor/|release__card"|/supervisor/|/|3.3.2
 monit|https://mmonit.com/monit|https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz|https://mmonit.com/monit/changes/|https://bitbucket.org/tildeslash/monit/commits/tag/release-|">Version |<|5.16
-ansible|https://pypi.python.org/pypi/ansible/|>Package<|/pypi/ansible/|"|2.3.1.0
+ansible|https://pypi.python.org/pypi/ansible/|release__card"|/ansible/|/|2.7.0
 fabric|http://fabfile.org/||https://github.com/fabric/fabric/releases|class="release-timeline"|class="tag-name">|<|1.13.1
 
 # windows

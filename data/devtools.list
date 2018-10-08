@@ -19,8 +19,8 @@ HeidiSQL|http://www.heidisql.com||http://www.heidisql.com/download.php|<h1>Downl
 
 robomongo|https://robomongo.org||https://robomongo.org/download|list-block--current">|item-block__version">|<|0.9.0
 
-mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.org/project/mycli/|"release__version"|mycli |:|1.8.0
-pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.org/project/pgcli/|"release__version"|pgcli|:|1.2.0
+mycli|http://mycli.net/|https://github.com/dbcli/mycli/|https://pypi.org/project/mycli/|release__card"|/mycli/|/|1.18.0
+pgcli|http://pgcli.com/|https://github.com/dbcli/pgcli|https://pypi.org/project/pgcli/|release__card"|/pgcli/|/|2.0.0
 
 ## colors
 ColorCop|http://www.prall.net/tools/colorcop/||http://www.portablefreeware.com/index.php?id=617|class="appName"|class="version">|<|v5.3
@@ -115,42 +115,42 @@ WinPython 2.x|http://winpython.github.io/||http://sourceforge.net/projects/winpy
 WinPython 3.x|https://winpython.github.io/||http://sourceforge.net/projects/winpython/files/|Looking for the latest version?|bit-|.exe|3.5.2.3Qt5
 
 ## python - package/env manager
-pip|https://pip.pypa.io/||https://pypi.org/project/pip|"release__version"|/">|<|9.0.1
-pipenv|https://github.com/yyuu/pyenv-installer||https://pypi.org/project/pipenv|"release__version"|/">|<|20150113
-virtualenv|https://virtualenv.pypa.io/||https://pypi.org/project/virtualenv|"release__version"|/">|<|15.1.0
-pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.org/project/pyenv|"release__version"|/">|<|20150113
-virtualenvwrapper|https://pypi.org/project/virtualenvwrapper|"release__version"|/">|<|4.7.2
-conda|https://github.com/conda/conda||https://pypi.org/project/conda/|"release__version"|/">|<|3.17.0
+pip|https://pip.pypa.io/||https://pypi.org/project/pip|release__card"|/pip/|/|9.0.1
+pipenv|https://github.com/yyuu/pyenv-installer||https://pypi.org/project/pipenv|release__card"|/pipenv/|/|20150113
+virtualenv|https://virtualenv.pypa.io/||https://pypi.org/project/virtualenv|release__card"|/virtualenv/|/|15.1.0
+virtualenvwrapper|https://pypi.org/project/virtualenvwrapper|release__card"|/virtualenvwrapper/|/|4.7.2
+conda|https://github.com/conda/conda||https://pypi.org/project/conda/|release__card"|/conda/|/|3.17.0
 
 ## python - repl
-bpython|http://bpython-interpreter.org/||http://pypi.org/project/bpython/|"release__version"|/">|<|0.16
-ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.org/project/ptpython/|"release__version"|/">|<|0.36
-ipython|http://ipython.org||https://pypi.org/project/ipython/|"release__version"|/">|<|5.1.0
+bpython|http://bpython-interpreter.org/||http://pypi.org/project/bpython/|release__card"|/bpython/|/|0.16
+ptpython|https://github.com/jonathanslenders/ptpython/||https://pypi.org/project/ptpython/|release__card"|/ptpython/|/|0.36
+ipython|http://ipython.org||https://pypi.org/project/ipython/|release__card"|/ipython/|/|5.1.0
 IdleX|http://idlex.sourceforge.net|http://sourceforge.net/projects/idlex/files/latest/download?source=files|http://sourceforge.net/projects/idlex/files/|latest version? |title="/idlex-|.zip|1.13
 
 dreampie|http://www.dreampie.org/||https://github.com/noamraph/dreampie/downloads|Download Packages|/downloads/noamraph/dreampie/dreampie-|-setup.exe|1.2.1
 
 ## python - code checker
-flake8|https://pypi.org/project/flake8|"release__version"|/">|<|3.2.1
-prospector|https://github.com/landscapeio/prospector||https://pypi.org/project/prospector|"release__version"|/">|<|0.10.2
-pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.org/project/pyflakes|"release__version"|/">|<|1.4.0
+flake8|https://pypi.org/project/flake8|release__card"|/flake8/|/|3.2.1
+prospector|https://github.com/landscapeio/prospector||https://pypi.org/project/prospector|release__card"|/prospector/|/|0.10.2
+pyflakes|https://github.com/pyflakes/pyflakes||https://pypi.org/project/pyflakes|release__card"|/pyflakes/|/|1.4.0
 
 ## python - editor/ide
-spyder|https://pypi.org/project/spyder/|"release__version"|/">|<|3.0.2
-jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.org/project/jedi|"release__version"|/">|<|0.9.0
+spyder|https://pypi.org/project/spyder/|release__card"|/spyder/|/|3.0.2
+jedi|https://jedi.readthedocs.org/en/latest/||https://pypi.org/project/jedi|release__card"|/jedi/|/|0.9.0
 PyScripter|http://sourceforge.net/projects/pyscripter/|http://sourceforge.net/projects/pyscripter/files/latest/download|http://sourceforge.net/projects/pyscripter/files/|<tbody|<tr title="PyScripter-|.zip"|v2.6.0
 pyzo|http://www.pyzo.org|>Latest version<|current version is |<|4.5.1 (released on 14-02-2018).
 
 ## python - debug
-smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.org/project/smiley|"release__version"|/">|<|0.8.1
-dbghelper|https://pypi.org/project/dbghelper|"release__version"|/">|<|0.3
-ipdb|https://pypi.org/project/ipdb|"release__version"|/">|<|0.10.1
-pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.org/project/pdbpp|"release__version"|/">|<|0.8.3
-pudb|https://github.com/inducer/pudb||https://pypi.org/project/pudb|"release__version"|/">|<|2016.2
-pdb-clone|https://bitbucket.org/xdegaye/pdb-clone/wiki/Home||http://pypi.io/project/pdb-clone|"release__version"|/">|<|1.10
+smiley (application tracer)|https://smiley.readthedocs.org/||https://pypi.org/project/smiley|release__card"|/smiley/|/|0.8.1
+
+pudb|https://github.com/inducer/pudb||https://pypi.org/project/pudb|release__card"|/pudb/|/|2016.2
+dbghelper|https://pypi.org/project/dbghelper|release__card"|/dbghelper/|/|0.3
+ipdb|https://pypi.org/project/ipdb|release__card"|/ipdb/|/|0.10.1
+pdb++|http://bitbucket.org/antocuni/pdb||https://pypi.org/project/pdbpp|release__card"|/pdbpp/|/|0.8.3
+pdb-clone|https://bitbucket.org/xdegaye/pdb-clone/wiki/Home||http://pypi.io/project/pdb-clone|release__card"|/pdb-clone/|/|1.10
 
 ## python - misc
-jupyter|http://jupyter.org||https://pypi.org/project/jupyter/|"release__version"|/">|<|1.0.0
+jupyter|http://jupyter.org||https://pypi.org/project/jupyter/|release__card"|/jupyter/|/|1.0.0
 
 
 # ruby
@@ -229,3 +229,4 @@ LanguageHelp (gfwed)|https://sites.google.com/site/fstellari/nppplugins|abc|def|
 
 # trash
 WinMerge|http://winmerge.org/downloads.php|Download Now!|Version|;|2.12.4
+pyenv|https://github.com/yyuu/pyenv-installer||https://pypi.org/project/pyenv|release__card"|/pyenv/|/|20150113
