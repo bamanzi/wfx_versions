@@ -11,7 +11,7 @@ meld (win)|http://meldmerge.org/|Windows:|binaries/win32/meld/|/|3.16
 Database Browser (portable)|http://portableapps.com/apps/development/database_browser_portable|http://www.portablefreeware.com/download.php?dd=1915|http://www.portablefreeware.com/index.php?id=1915|class="appName">|class="version">v|</span>|5.3.1.9
 DBeaver (java)|https://dbeaver.jkiss.org/download|<h2|Community Edition |<|4.2.3
 
-sqlitebrowser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|>Latest release|css-truncate-target">|<|v3.9.1
+sqlitebrowser|http://sqlitebrowser.org||https://github.com/sqlitebrowser/sqlitebrowser/releases|class="css-truncate-target"|>|<|v3.9.1
 SQLiteSpy|http://www.yunqa.de/delphi/products/sqlitespy/index||http://www.yunqa.de/delphi/products/sqlitespy/history|<h2|SQLiteSpy |<|1.9.11 – 10 Jun 2016
 SQLiteStudio|http://sqlitestudio.pl/||http://sqlitestudio.pl/?act=download|>Windows<|MB</td><td>|<|3.1.0
 
@@ -32,14 +32,14 @@ Color Theme Helper||http://elentaris.co.uk/zips/colourtheme.zip|http://elentaris
 Dia installer|http://dia-installer.de||http://sourceforge.net/projects/dia-installer/files/dia-win32-installer/|ico-folder">|/dia-win32-installer/|/|0.97.2
 Dia shapes|http://dia-installer.de/shapes/||http://sourceforge.net/projects/dia-installer/files/dia-shapes/|ico-folder">|/files/dia-shapes/|/|0.6.0
 PlantUML||http://sourceforge.net/projects/plantuml/files/plantuml.jar/download|http://plantuml.com/download.html|main role="main"|h3>PlantUML compiled Jar (Version |)|1.2017.18
-Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/releases|>Latest release<|class="css-truncate-target">|<|v2.0.14
+Pencil|https://github.com/prikhi/pencil/||https://github.com/prikhi/pencil/releases|class="css-truncate-target"|>|<|v2.0.14
 yEd Graph Editor|http://www.yworks.com/products/yed||http://www.yworks.com/downloads#yEd|tbl_dlgreen_t">yEd Graph Editor|tbl_dlgreen_v"><span>|<|3.14.4
 
 ## editors
 geany|http://www.geany.org/Download/Releases|h2>|>geany-|.tar.|1.33
 geany-themes|https://github.com/codebrainz/geany-themes/||https://github.com/codebrainz/geany-themes/commits/master|class="commits-listing|Commits on |<|Feb 8, 2016
 SynWrite|http://www.uvviewsoft.com/synwrite/|http://totalcmd.net/download.php?id=syn2|http://totalcmd.net/plugring/syn2.html|title>SynWrite||-|6.40.2770
-Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|Latest release|css-truncate-target">|<|v2.4.2
+Programmers' Notepad|http://www.pnotepad.org/||https://github.com/simonsteele/pn/releases|class="css-truncate-target"|>|<|v2.4.2
 
 FirstObject Xml Editor(foxe)|http://www.firstobject.com/dn_editor.htm|Download free firstobject XML editor</a> || installer|2.4.2.431
 MiTeC XML Viewer|http://www.mitec.cz/xmlv.html||http://www.mitec.cz/index.html|href="/xmlv.html">MiTeC XML Viewer</a>&#160;|| has been released|5.4.1
@@ -49,14 +49,14 @@ MiTeC JSON Viewer|http://www.mitec.cz/jsonv.html||http://www.mitec.cz/index.html
 ## log viewer
 Advanced Log Viewer|http://salplachta.net/AdvancedLogViewer/Features.aspx||http://salplachta.net/AdvancedLogViewer/Default.aspx|Latest version|">|<|7.6.0
 LogViewer Pro|http://uvviewsoft.com/logviewer/||http://uvviewsoft.com/logviewer/download.htm|The latest release is ||).|2.2.0 (feb 2013
-LogWizard|https://github.com/jtorjo/logwizard||https://github.com/jtorjo/logwizard/releases|>Latest release<|class="css-truncate-target">|<|1.9.1
+LogWizard|https://github.com/jtorjo/logwizard||https://github.com/jtorjo/logwizard/releases|class="css-truncate-target"|>|<|1.9.1
 BareTail|http://www.baremetalsoft.com/baretail/index.php|BareTail</h1|Release |<|3.50a 2006-11-02
 LogExpert|http://logexpert.codeplex.com/|current</span>|<td>|</td>|1.5 build 5493
 glogg (win+linux)|http://glogg.bonnefon.org/index.html|http://glogg.bonnefon.org/files/glogg-latest-x86_64-setup.exe|https://github.com/nickbnf/glogg/releases|>Releases<|"tag-name">|<|v1.1.1
 
 ## Rest client
 Postman(windows)|http://www.getpostman.com/apps||http://www.softpedia.com/get/Programming/Other-Programming-Files/Postman-Postdot.shtml|current version:|Postman|<|6.0.10
-Insomnia REST Client|http://insomnia.rest||http://github.com/getinsomnia/insomnia/releases|>Latest release<|"css-truncate-target">|<|v5.15.0
+Insomnia REST Client|http://insomnia.rest||http://github.com/getinsomnia/insomnia/releases|class="css-truncate-target"|>|<|v5.15.0
 Fiddler|http://www.freewarefiles.com/Fiddler_program_20936.html|<h1|Fiddler |<|5.0.20181
 
 
@@ -68,7 +68,7 @@ Kodos|http://kodos.sourceforge.net/||http://sourceforge.net/projects/kodos/files
 ## scm
 TortoiseHg|http://tortoisehg.bitbucket.org/||https://bitbucket.org/tortoisehg/thg/wiki/ReleaseNotes|<h1 id="!tortoisehg-|">TortoiseHg |</h1>|2.9
 TortoiseGit|https://tortoisegit.org/download/|The current stable version is: ||<|2.5.0
-git-for-windows|https://git-for-windows.github.io||https://github.com/git-for-windows/git/releases|>Latest release<|"css-truncate-target">|<|v2.14.2.windows.2
+git-for-windows|https://git-for-windows.github.io||https://github.com/git-for-windows/git/releases|class="css-truncate-target"|>|<|v2.14.2.windows.2
 
 
 ## misc
@@ -82,8 +82,8 @@ ResHacker||http://www.angusj.com/resourcehacker/reshack_setup.exe|http://www.ang
 PEStudio|http://www.winitor.com/|http://www.portablefreeware.com/download.php?dd=1950|http://www.portablefreeware.com/?id=1950&ts=1439922726|class="appName">|class="version">|<|v8.49
 
 DebugView||http://download.sysinternals.com/files/DebugView.zip|http://technet.microsoft.com/en-us/sysinternals/bb896647.aspx|<h1>DebugView v||</h1>|4.81
-DebugView++|https://debugviewpp.wordpress.com/||https://github.com/djeedjay/DebugViewPP/releases|>Latest release<|"css-truncate-target">|<|v1.8.0.13
-TraceSpy|http://tracespy.codeplex.com/||http://github.com/smourier/TraceSpy/releases|>Latest release<|"css-truncate-target">|<|2.5.2.0
+DebugView++|https://debugviewpp.wordpress.com/||https://github.com/djeedjay/DebugViewPP/releases|class="css-truncate-target"|>|<|v1.8.0.13
+TraceSpy|http://tracespy.codeplex.com/||http://github.com/smourier/TraceSpy/releases|class="css-truncate-target"|>|<|2.5.2.0
 
 Greenfish Icon Editor|http://greenfishsoftware.blogspot.com/|http://www.portablefreeware.com/download.php?dd=1420|http://www.portablefreeware.com/index.php?id=1420|class="appName">|class="version">|</span>|v3.5
 
@@ -104,7 +104,7 @@ wscript doc (script56.chm)|http://www.robvanderwoude.com/wshlinks.php|Download W
 # java
 Emacs+ for Eclipse|http://www.mulgasoft.com/emacsplus/||http://www.mulgasoft.com/emacsplus/versions|What's New|Version |:|3.6.5
 Eclipse Color Theme|http://eclipsecolorthemes.org/plugin|http://eclipse-color-theme.github.io/update/eclipse-color-theme-update-site.zip|http://marketplace.eclipse.org/content/eclipse-color-theme|field-label">Version Number|field-item even">|<|1.0.0
-jd-gui|http://jd.benow.ca||https://github.com/java-decompiler/jd-gui/releases|Latest release|css-truncate-target">|<|v1.4.0
+jd-gui|http://jd.benow.ca||https://github.com/java-decompiler/jd-gui/releases|class="css-truncate-target"|>|<|v1.4.0
 jd-eclise|http://jd.benow.ca||https://github.com/java-decompiler/jd-eclipse/releases|Pre-release|css-truncate-target">|<|v1.0.0
 winrun4j|http://winrun4j.sourceforge.net/|http://sourceforge.net/projects/winrun4j/files/latest/download?source=files|http://sourceforge.net/projects/winrun4j/files/winrun4j/|<tbody|<tr title="|"|0.4.5
 
@@ -159,7 +159,7 @@ Bitnami rubystack (linux)|https://bitnami.com/stack/ruby/||https://bitnami.com/s
 Bitnami rubystack (windows)|https://bitnami.com/stack/ruby/||https://bitnami.com/stack/ruby/installer|id="windows"|/bitnami-rubystack-|-windows-installer|2.2.5-4
 Bitnami GitLab Stack|http://gitlab.com||http://bitnami.org/stack/gitlab|/files/stacks/gitlab/||/bitnami-gitlab|6.8.2-0
 Bitnami Gitorious Stack|http://gitorious.org||http://bitnami.org/stack/gitorious|/files/stacks/gitorious/||/bitnami-gitorious|3.0.0-3
-rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|>Latest release|css-truncate-target">|<|v3.7.0
+rbenv|https://github.com/sstephenson/rbenv||https://github.com/sstephenson/rbenv/releases|class="css-truncate-target"|>|<|v3.7.0
 
 # delphi / freepascal
 Lazarus win32|http://www.lazarus.freepascal.org/||http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/|tbody|<tr title="Lazarus |"|1.6.2
@@ -179,16 +179,16 @@ NetBeans python plugin|http://plugins.netbeans.org/plugin/61688/ruby-and-rails|V
 Komodo Edit|http://www.activestate.com/komodo_edit/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
 Komodo IDE|http://www.activestate.com/komodo/||http://downloads.activestate.com/Komodo/releases/?C=M;O=D|Parent Directory|/">|/<|10.1.1
 
-HTML Entities Pane|http://community.komodoide.com/packages/addons/html-entities-pane/||https://github.com/babobski/HTML-Entities/releases|Latest release|css-truncate-target">|<|1.7
-koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|Latest release|css-truncate-target">|<|0.12
+HTML Entities Pane|http://community.komodoide.com/packages/addons/html-entities-pane/||https://github.com/babobski/HTML-Entities/releases|class="css-truncate-target"|>|<|1.7
+koctags|http://komodoide.com/packages/addons/exuberant-ctags-support/||https://github.com/agroszer/koctags/releases/|class="css-truncate-target"|>|<|0.12
 New Source Tree|http://community.komodoide.com/packages/addons/new-source-tree||https://github.com/HTD/NST/blob/testing/install.rdf|>version<|&gt;|&|0.63
-Open in Filezilla|http://community.komodoide.com/packages/addons/open-in-filezilla/||https://github.com/babobski/Open-In-FileZilla/releases|>Latest release|css-truncate-target">|<|1.1-beta
-qwin|http://community.komodoide.com/packages/addons/qwin/||https://github.com/agroszer/komodo-qwin/releases|>Latest release|css-truncate-target">|<|0.8
-Side by Side Diff|http://community.komodoide.com/packages/addons/side-side||https://github.com/babobski/Side-By-Side/releases|Latest release|css-truncate-target">|<|1.1
-Sites|http://community.komodoide.com/packages/addons/sites||https://github.com/brabitom/komodo-sites/releases|Latest release|css-truncate-target">|<|0.4
-TODO Helper|http://community.komodoide.com/packages/addons/todo-helper/||https://github.com/Komodo/Todo/releases|Latest release|css-truncate-target">|<|1.4.4
+Open in Filezilla|http://community.komodoide.com/packages/addons/open-in-filezilla/||https://github.com/babobski/Open-In-FileZilla/releases|class="css-truncate-target"|>|<|1.1-beta
+qwin|http://community.komodoide.com/packages/addons/qwin/||https://github.com/agroszer/komodo-qwin/releases|class="css-truncate-target"|>|<|0.8
+Side by Side Diff|http://community.komodoide.com/packages/addons/side-side||https://github.com/babobski/Side-By-Side/releases|class="css-truncate-target"|>|<|1.1
+Sites|http://community.komodoide.com/packages/addons/sites||https://github.com/brabitom/komodo-sites/releases|class="css-truncate-target"|>|<|0.4
+TODO Helper|http://community.komodoide.com/packages/addons/todo-helper/||https://github.com/Komodo/Todo/releases|class="css-truncate-target"|>|<|1.4.4
 
-markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|Latest release|css-truncate-target">|<|0.3
+markdown viewer|https://github.com/Komodo/markdown-viewer/||https://github.com/Komodo/markdown-viewer/releases|class="css-truncate-target"|>|<|0.3
 haml syntax highlighting|http://community.activestate.com/node/9903|Current Version:|>|<|0.1.3
 Perfect Python|http://community.komodoide.com/packages/addons/perfect-python/||https://github.com/raymondbutcher/perfectpython/blob/master/install.rdf|>version<|&gt;|&lt;|0.8.0
 
@@ -200,12 +200,12 @@ Notepad++|http://notepad-plus-plus.org/||http://notepad-plus-plus.org/download/|
 AutoSave|https://sourceforge.net/projects/npp-plugins/files/AutoSave/|<tbody|<tr title="AutoSave_dll_|.zip|1v40
 Autosave2|http://www.scout-soft.com/autosave/|http://www.scout-soft.com/autosave/autosave2.dll|http://www.scout-soft.com/autosave/|>Current Version|MsoNormal">|<|1.0
 Compare|https://sourceforge.net/projects/npp-compare/||https://sourceforge.net/projects/npp-compare/files/|<tbody|<tr title="|"|1.5.6.2
-DSpellCheck|https://github.com/Predelnik/DSpellCheck||https://github.com/Predelnik/DSpellCheck/releases|>Latest release|css-truncate-target">|<|1.2.14.2
+DSpellCheck|https://github.com/Predelnik/DSpellCheck||https://github.com/Predelnik/DSpellCheck/releases|class="css-truncate-target"|>|<|1.2.14.2
 Explorer|https://sourceforge.net/projects/npp-plugins/files/Explorer/|<tbody|<tr title="Explorer Plugin |"|v1.8.2
 Hex Editor|https://sourceforge.net/projects/npp-plugins/files/Hex Editor/|<tbody|<tr title="Hex Editor Plugin |"|v0.9.5
-jn (scripting)|https://github.com/sieukrem/jn-npp-plugin/wiki||https://github.com/sieukrem/jn-npp-plugin/releases/|>Latest release|css-truncate-target">|<|2.1.181
+jn (scripting)|https://github.com/sieukrem/jn-npp-plugin/wiki||https://github.com/sieukrem/jn-npp-plugin/releases/|class="css-truncate-target"|>|<|2.1.181
 NppExec|https://sourceforge.net/projects/npp-plugins/files/NppExec/|<tbody|<tr title="NppExec Plugin |"|v0.5.3
-NppFTP|http://ashkulz.github.io/NppFTP/||https://github.com/ashkulz/NppFTP/releases|>Latest release|css-truncate-target">|<|v0.26.5
+NppFTP|http://ashkulz.github.io/NppFTP/||https://github.com/ashkulz/NppFTP/releases|class="css-truncate-target"|>|<|v0.26.5
 RegEx Helper|http://nppregexhelper.sourceforge.net/||https://sourceforge.net/projects/nppregexhelper/files/|<tbody|<tr title="|"|0.2.3
 SaveAsAdmin|http://sourceforge.net/projects/nppsaveasadmin||https://sourceforge.net/projects/nppsaveasadmin/files/|<tbody|<tr title="NppSaveAsAdmin_|.zip"|1.0.0.3
 

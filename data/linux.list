@@ -4,6 +4,8 @@ ag||http://github.com/ggreer/the_silver_searcher|http://github.com/ggreer/the_si
 glark|https://github.com/jpace/glark/releases|data-selected-links="repo_releases |class="tag-name">|<|v1.10.5
 sift|https://sift-tool.org/info|https://sift-tool.org/download|https://github.com/svent/sift/releases|data-selected-links="repo_releases |class="tag-name">|<|v0.6.0
 
+p7zip-full (debian)|http://packages.debian.org/sid/p7zip-full|<h1>|(|)|16.02+dfsg-6
+p7zip (centos7)|https://pkgs.org/download/p7zip|CentOS 7|p7zip-|.el7|16.02-10
 drtx|http://brettcsmith.org/2007/dtrx/|h2>Download<|a href="dtrx-|.tar|7.1
 
 zsh|http://zsh.sourceforge.net/||http://sourceforge.net/projects/zsh/files/zsh/|<tbody|<tr title="|"|5.2
