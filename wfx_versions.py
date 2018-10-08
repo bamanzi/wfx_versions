@@ -148,8 +148,20 @@ if __name__ == "__main__":
         from glob import glob
         for fn in glob("data/*.list"):
             for line in file(fn):
+                if line.startswith("#"):
+                    continue
+                
                 parts=line.split('|')
-                if (len(parts)>2) and (re1.search(parts[0]) or re1.search(parts[1])):
+                name=parts[0]
+                url_check=""
+                if len(parts)>7:
+                    url_check=parts[3]
+                elif len(parts)>4:
+                    url_check=parts[1]
+                else:
+                    continue
+
+                if url_check and (re1.search(name) or re1.search(url_check)):
                     try:
                         print "%s === %s === %s" % (CL_BOLD, fn, CL_RESET)
                         check_version(line)
