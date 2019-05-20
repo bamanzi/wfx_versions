@@ -1,119 +1,123 @@
 # Firefox  ====================================================
-firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr||https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tr class="archive_package_row"|firefox-esr - |<|52.3.0esr-1~16.04.york0
-Firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|54.0-0ubuntu1_i386
-
+firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr||https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tr class="archive_package_row"|firefox-esr - |<|60.6.3esr-1~16.04.york0
+firefox-esr (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-esr-mozilla-build/|Parent folder|title="firefox-esr-mozilla-build_|.deb"|60.6.3esr-0ubuntu1_i386
 
 
 ## addons -----------------------------------------------------
 ### copy & paste
 
-Link Text and Location Copier|https://addons.mozilla.org/en-US/firefox/addon/link-text-and-location-copier/|AddonMoreInfo-version">||<|1.4.5
+Link Text and Location Copier|https://addons.mozilla.org/en-US/firefox/addon/link-text-and-location-copier/|AddonMoreInfo-version">||<|1.8.5
 
 Open Multiple URLs|https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/|AddonMoreInfo-version">||<|1.3.2
 
 ### dictionary & translation
 
-S3.Google Translator|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search|AddonMoreInfo-version">||<|6.14
-Dctionary (Google Translate) Anywhere|https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere|AddonMoreInfo-version">||<|6.14
+DEL S3.Google Translator|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search|AddonMoreInfo-version">||<|6.14
+Dctionary (Google Translate) Anywhere|https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere|AddonMoreInfo-version">||<|0.4.2
 
-Google Translator Lite|https://addons.mozilla.org/en-US/firefox/addon/google-translator-lite/|AddonMoreInfo-version">||<|0.2.8
-Mate Translate|https://addons.mozilla.org/en-US/firefox/addon/instant-translate/|AddonMoreInfo-version">||<|0.2.8
-To Google Translate|https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/|AddonMoreInfo-version">||<|0.2.8
+Google Translator Lite|https://addons.mozilla.org/en-US/firefox/addon/google-translator-lite/|AddonMoreInfo-version">||<|0.2.9
+Mate Translate|https://addons.mozilla.org/en-US/firefox/addon/instant-translate/|AddonMoreInfo-version">||<|7.0.6
+To Google Translate|https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/|AddonMoreInfo-version">||<|3.9
 
 ### download
 
 ### notes
 
 ### proxy & anti-GFW
-FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|AddonMoreInfo-version">||</|6.2
+FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|AddonMoreInfo-version">||</|6.3
 
-Decentraeyes|https://addons.mozilla.org/zh-CN/firefox/addon/decentraleyes/|AddonMoreInfo-version">||<|2.0.1
-gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|AddonMoreInfo-version">||<|3.7
+Decentraeyes|https://addons.mozilla.org/zh-CN/firefox/addon/decentraleyes/|AddonMoreInfo-version">||<|2.0.11
+gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|AddonMoreInfo-version">||<|3.10.0
 
-uMatrix|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|AddonMoreInfo-version">||<|1.1.20
-uBlock Origin|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/|AddonMoreInfo-version">||<|1.14.22
-Disconnnect|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|AddonMoreInfo-version">||<|5.18.21
+uMatrix|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|AddonMoreInfo-version">||<|1.3.16
+uBlock Origin|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/|AddonMoreInfo-version">||<|1.19.2
+Disconnnect|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|AddonMoreInfo-version">||<|5.18.27
 
-Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||<|1.6.5
+Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||<|1.6.7
 Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|AddonMoreInfo-version">||<|1.5
 
-Archiver Menu|https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/?src=search|AddonMoreInfo-version">||</|1.5.0
-View Page Archive & Cache|https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/?src=search|AddonMoreInfo-version">||</|1.3.0
+Archiver Menu|https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/?src=search|AddonMoreInfo-version">||</|1.9.8
+View Page Archive & Cache|https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/?src=search|AddonMoreInfo-version">||</|1.6.1
 
-Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||</|1.6.5
+Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||</|1.6.7
 Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|AddonMoreInfo-version">||<|1.5
 
 ### read
 
-Reader|https://addons.mozilla.org/zh-CN/firefox/addon/reader/|AddonMoreInfo-version">||</|63.0
-Print Edit WE|https://addons.mozilla.org/en-US/firefox/addon/print-edit|https://addons.mozilla.org/downloads/latest/print-edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit|AddonMoreInfo-version">||</|18.3
+Reader|https://addons.mozilla.org/zh-CN/firefox/addon/reader/|AddonMoreInfo-version">||</|64.1.0
+Print Edit WE|https://addons.mozilla.org/en-US/firefox/addon/print-edit-we|AddonMoreInfo-version">||</|24.0
 
-In My Pocket|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|AddonMoreInfo-version">||</|0.7.0
-Browser Later (WE)|https://addons.mozilla.org/en-US/firefox/addon/browselater/|AddonMoreInfo-version">||<|3.2.2
-Reading List (WE)|https://addons.mozilla.org/en-US/firefox/addon/readinglist|AddonMoreInfo-version">||<|1.4.5
+In My Pocket|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|AddonMoreInfo-version">||</|0.10.5
+Browser Later (WE)|https://addons.mozilla.org/en-US/firefox/addon/browselater/|AddonMoreInfo-version">||<|4.0.2beta
+Reading List (WE)|https://addons.mozilla.org/en-US/firefox/addon/readinglist|AddonMoreInfo-version">||<|1.5.2
 
 ### scrapping
 
 ### search
 
-DuckDuckGo Plus|https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=search|AddonMoreInfo-version">||<|2017.12.7
+DuckDuckGo Plus|https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=search|AddonMoreInfo-version">||<|2019.5.17
 
-Context Search X|https://addons.mozilla.org/zh-CN/firefox/addon/context-search-x/?src=search|AddonMoreInfo-version">||<|0.4.6.26
-Context Search Selection (!bang selection)|https://addons.mozilla.org/en-US/firefox/addon/context-search-selection/?src=search|AddonMoreInfo-version">||<|0.3.1-signed.1-signed
+Context Search|https://addons.mozilla.org/en-US/firefox/addon/contextual-search/?src=search|AddonMoreInfo-version">||<|3.72
+Selection Context Search|https://addons.mozilla.org/en-US/firefox/addon/selection-context-search/|AddonMoreInfo-version">||<|5.18
 
 ### sessions
 
 OneTab|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/|AddonMoreInfo-version">||</|1.25
 
-Session Manager|https://addons.mozilla.org/en-US/firefox/addon/session-manager|AddonMoreInfo-version">||</|0.8.1.13
+Tab Session Manager|https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager|AddonMoreInfo-version">||</|4.5.2
 
 ### tabs
 
-ColorfulTabs (+sm)|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|AddonMoreInfo-version">||<|32.2.1
-VivaldiFox|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|2.2
+ColorfulTabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|AddonMoreInfo-version">||<|33.1
+VivaldiFox|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|3.1
 
-Tree Style Tab|https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/|AddonMoreInfo-version">||<|2.4.3
-Tree Tabs|https://addons.mozilla.org/en-US/firefox/addon/tree-tabs/|AddonMoreInfo-version">||<|1.5.3
+Tree Style Tab|https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/|AddonMoreInfo-version">||<|3.0.11
+Tree Tabs|https://addons.mozilla.org/en-US/firefox/addon/tree-tabs/|AddonMoreInfo-version">||<|1.9.3
 
-Tab Center Redux|https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/|AddonMoreInfo-version">||<|0.5.5
+Tab Center Redux|https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/|AddonMoreInfo-version">||<|0.7.1
 
-Panorama View|https://addons.mozilla.org/en-US/firefox/addon/panorama-view/|AddonMoreInfo-version">||<|0.8.0
+Panorama View|https://addons.mozilla.org/en-US/firefox/addon/panorama-view/|AddonMoreInfo-version">||<|0.8.3
 
 ### ui
 
-Tile Tabs WE|https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/|AddonMoreInfo-version">||<|14.12
+Tile Tabs WE|https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/|AddonMoreInfo-version">||<|11.14
 
 ### container
 
-Containers (>=fx53)||https://addons.mozilla.org/downloads/latest/multi-account-containers|https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers|AddonMoreInfo-version">||<|4.1.0
-Conex (group view panel)|https://addons.mozilla.org/en-US/firefox/addon/conex|AddonMoreInfo-version">||<|0.0.79
-Sea Containers (group view sidebar)|https://addons.mozilla.org/en-US/firefox/addon/sea-containers|AddonMoreInfo-version">||<|0.8
+Containers (>=fx53)||https://addons.mozilla.org/downloads/latest/multi-account-containers|https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers|AddonMoreInfo-version">||<|6.1.0
+Conex (group view panel)|https://addons.mozilla.org/en-US/firefox/addon/conex|AddonMoreInfo-version">||<|0.9.7
+Sea Containers (group view sidebar)|https://addons.mozilla.org/en-US/firefox/addon/sea-containers|AddonMoreInfo-version">||<|0.9
 Contaiers Theme|https://addons.mozilla.org/en-US/firefox/addon/containers-theme|AddonMoreInfo-version">||<|1.0.2
-Containerise (auto-by-url) |https://addons.mozilla.org/en-US/firefox/addon/containerise|AddonMoreInfo-version">||<|2.1.0
-Switch Container|https://addons.mozilla.org/en-US/firefox/addon/switch-container|AddonMoreInfo-version">||<|0.7
-Context Plus (switch)|https://addons.mozilla.org/en-US/firefox/addon/context-plus|AddonMoreInfo-version">||<|0.5.0
+Containerise (auto-by-url) |https://addons.mozilla.org/en-US/firefox/addon/containerise|AddonMoreInfo-version">||<|3.0.1
+Switch Container|https://addons.mozilla.org/en-US/firefox/addon/switch-container|AddonMoreInfo-version">||<|0.8
+Context Plus (switch)|https://addons.mozilla.org/en-US/firefox/addon/context-plus|AddonMoreInfo-version">||<|0.6.0
 
 ### misc
 
-Grease Monkey|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey|AddonMoreInfo-version">||<|4.1
-Greasy Scripts|https://addons.mozilla.org/en-US/firefox/addon/greasy-scripts|AddonMoreInfo-version">||<|1.0.8
+Grease Monkey|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey|AddonMoreInfo-version">||<|4.8
+DEL Greasy Scripts|https://addons.mozilla.org/en-US/firefox/addon/greasy-scripts|AddonMoreInfo-version">||<|1.0.8
 
-LastPass (+sm)|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|AddonMoreInfo-version">||<|4.2.3.20
+LastPass (+sm)|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|AddonMoreInfo-version">||<|4.28.0.4
 
 Diigo Web Collector|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-collector|AddonMoreInfo-version">||<|6.0.0.4
 
 Search Multi Tabs|https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs|AddonMoreInfo-version">||<|1.3.0
 
-Distill Web Monitor|https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff|AddonMoreInfo-version">||<|1.10.1
+Distill Web Monitor|https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff|AddonMoreInfo-version">||<|1.12.7
+
+HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|AddonMoreInfo-version">||<|3.5.12
+
 
 ## Firefox addons for developer -------------------------------
 
-JSON lite|https://addons.mozilla.org/en-US/firefox/addon/json-lite/|AddonMoreInfo-version">||<|17.12.2
-RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|AddonMoreInfo-version">||<|3.0.4
+JSON lite|https://addons.mozilla.org/en-US/firefox/addon/json-lite/|AddonMoreInfo-version">||<|19.3.1
+RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|AddonMoreInfo-version">||<|3.0.7
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|AddonMoreInfo-version">||<|2.0.1
 Display Anchors|https://addons.mozilla.org/en-US/firefox/addon/display-_anchors/|AddonMoreInfo-version">||<|1.3
-Octotree|https://addons.mozilla.org/en-us/firefox/addon/octotree|AddonMoreInfo-version">||<|2.3.1
+Octotree|https://addons.mozilla.org/en-us/firefox/addon/octotree|AddonMoreInfo-version">||<|3.0.7
 
+JSONView|https://addons.mozilla.org/en-US/firefox/addon/jsonview/versions|>Latest version<|version">Version |<|2.1.0
+JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/versions/|>Latest version<|Version |<|2.1.2
 
 # Chrome/Vivaldi ==============================================
 
