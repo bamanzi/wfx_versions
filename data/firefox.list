@@ -1,7 +1,7 @@
 # Firefox  ====================================================
 firefox-esr (ubuntu-16.04)|https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr||https://launchpad.net/~jonathonf/+archive/ubuntu/firefox-esr/+packages?field.name_filter=&field.status_filter=published&field.series_filter=xenial|<tr class="archive_package_row"|firefox-esr - |<|52.3.0esr-1~16.04.york0
 Firefox (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/|Parent folder|title="firefox-mozilla-build_|.deb"|54.0-0ubuntu1_i386
-LightFirefox|https://sourceforge.net/projects/lightfirefox/||https://sourceforge.net/projects/lightfirefox/files/|class="download-bar"|light-|.en-US|47.0
+Waterfox|https://www.waterfox.net||https://www.filehorse.com/download-waterfox|itemprop="title">Browsers and Plugins<|<li>Waterfox |<|56.2.10
 
 |Firefox (AppImages)|https://bintray.com/probono/AppImages/Firefox||https://api.bintray.com/packages/probono/AppImages/Firefox/images/download.svg|</svg>|">|</text|59.0.2.glibc2.7
 |Firefox Developer Edition (AppImages)|https://bintray.com/probono/AppImages/Firefox_Developer_Edition||https://api.bintray.com/packages/probono/AppImages/Firefox_Developer_Edition/images/download.svg|</svg>|">|</text|54.0a2.en.glibc2.3.4
@@ -18,24 +18,24 @@ WebBrowserPassView|http://www.nirsoft.net/utils/web_browser_password.html|>Versi
 ## addons -----------------------------------------------------
 ### copy & paste
 |*CoLT (fx24/31>2.6.5)|https://addons.mozilla.org/en-US/firefox/addon/colt|http://www.filewatcher.com/_/?q=colt-2.6+xpi|http://legacycollector.org/firefox-addons/1812/index.html|</a><br>|colt-|.xpi|2.6.7
-|Copy URL Expert (+sm)|https://addons.mozilla.org/en-US/firefox/addon/copy-urls-expert|http://www.filewatcher.com/_/?q=copy_urls_expert-2+xpi|http://legacycollector.org/firefox-addons/349254/index.html|</a><br>|expert-|.xpi|2.6.1
+|Copy URLs Expert (ATN)|http://legacycollector.org/firefox-addons/349254/index.html|http://www.filewatcher.com/_/?q=copy_urls_expert-2+xpi|https://addons.thunderbird.net/en-US/seamonkey/addon/copy-urls-expert/versions|version-list"|/versions/|"|2.6.1
 |Copy as org-mode (fx>30)|https://addons.mozilla.org/en-US/firefox/addon/copy-as-org-mode/||http://legacycollector.org/firefox-addons/601480/index.html|</a><br>|org-mode-|.xpi|0.1.1-signed.1-signed-windows
 
 ### dictionary & translation
-?Wiktionary & Google Translate|http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/239624-0.html||https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|AddonMoreInfo-version">||<|7.5
-?S3.Google Translator (+sm)|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search|AddonMoreInfo-version">||<|6.14
+?Wiktionary & Google Translate||http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/239624-0.html|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|AddonMoreInfo-version">||<|7.5
+|S3.Google Translator (+sm)|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search||http://legacycollector.org/firefox-addons/285546/index.html|</a><br>|translator-|.xpi|5.35
 
 |Fast Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss||http://legacycollector.org/firefox-addons/10907/index.html|1.11.5|translation-|.xpi|1.11.5-windows
 ?eDictionary (fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/edictionary|AddonMoreInfo-version">||<|0.3
-*Dict (+sm)|http://legacycollector.org/firefox-addons/302/index.html|http://www.filewatcher.com/_/?q=dict-0.8+xpi|https://addons.thunderbird.net/en-US/seamonkey/addon/dict/versions|versions-list">|/versions/|"|0.8.5
+*Dict (ATN)|http://legacycollector.org/firefox-addons/302/index.html|http://www.filewatcher.com/_/?q=dict-0.8+xpi|https://addons.thunderbird.net/en-US/seamonkey/addon/dict/versions|versions-list">|/versions/|"|0.8.5
 gTranslate (fx24/31/sm-> 0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/gtranslate||http://legacycollector.org/firefox-addons/918/index.html|0.14|translate-|.xpi|0.14.0
 
 |Google Translator (>=fx38)|https://addons.mozilla.org/en-US/firefox/addon/google-translator/?src=search||http://legacycollector.org/firefox-addons/46308/index.html|</a><br>|translator-for-firefox-|.xpi|2.1.1-signed.1-signed
 
 ### download
-|Save Link in Folder|http://www.filewatcher.com/_/?q=save_link_in_folder-1.5+xpi|ftp://ftp.kr.vim.org/pub/ftp.mozilla.org/addons/613/save_link_in_folder-1.5.12-fx.xpi|http://legacycollector.org/firefox-addons/613/index.html|1.5.1|in-folder-|<|内容错误 (@开始)
-Save File to (fx24/31->2.5.3.1, fx38->2.5.4.1)|https://addons.mozilla.org/en-US/firefox/addon/save-file-to/?src=userprofile||http://legacycollector.org/firefox-addons/4902/index.html|</a><br>|file-to-|.xpi|2.5.5
-DownThemAll (fx24/31/38=>2.0.18.1, +sm)||http://legacycollector.org/firefox-addons/201/index.html|https://addons.thunderbird.net/en-US/seamonkey/addon/downthemal/versionsl|versions-list">|/versions/|"|3.0.8
+|Save Link in Folder||http://www.filewatcher.com/_/?q=save_link_in_folder-1.5+xpi|http://legacycollector.org/firefox-addons/613/index.html|1.5.1|in-folder-|.xpi|1.5.17
+|Save File to (fx24/31->2.5.3.1, fx38->2.5.4.1)|https://addons.mozilla.org/en-US/firefox/addon/save-file-to/?src=userprofile||http://legacycollector.org/firefox-addons/4902/index.html|</a><br>|file-to-|.xpi|2.5.5
+DownThemAll (ATN, fx24/31/38=>2.0.18.1)||http://legacycollector.org/firefox-addons/201/index.html|https://addons.thunderbird.net/en-US/seamonkey/addon/downthemall/versions|versions-list">|/versions/|"|3.0.8
 
 ### notes
 ?Float Notes|http://www.filewatcher.com/m/floatnotes-0.8.2-fx.xpi.244510-0.html||https://addons.mozilla.org/en-US/firefox/addon/floatnotes|AddonMoreInfo-version">||<|0.8.3
@@ -43,20 +43,25 @@ DownThemAll (fx24/31/38=>2.0.18.1, +sm)||http://legacycollector.org/firefox-addo
 |Internote|https://addons.mozilla.org/en-US/firefox/addon/internote/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2011-0.html|http://legacycollector.org/firefox-addons/2011/index.html|</a><br>|note-|.xpi|3.0.2.1-signed.1-signed
 
 ### proxy & anti-GFW
-*AutoProxy-ng|https://addons.mozilla.org/firefox/addon/autoproxy-ng||https://addons.thunderbird.net/en-US/seamonkey/addon/autoproxy-ng/versions|versions-list"|/versions/|"|0.5.6
+*AutoProxy-ng (ATN)|https://addons.mozilla.org/firefox/addon/autoproxy-ng||https://addons.thunderbird.net/en-US/seamonkey/addon/autoproxy-ng/versions|versions-list"|/versions/|"|0.5.6
 |AutoProxy|https://addons.mozilla.org/firefox/addon/autoproxy||http://legacycollector.org/firefox-addons/11009/index.html|</a><br>|autoproxy-|.xpi|0.4b2.2013051811.1-signed.1-let-fixed.1-signed
 |FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search||http://legacycollector.org/firefox-addons/2464/index.html|</a><br>|standard-|.xpi|4.6.5
 ?Proxy Selector|http://www.filewatcher.com/m/proxy_selector-1.35-fx.xpi.45827-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/proxy-selector|AddonMoreInfo-version">||</|1.31
 ?Proxy Switcher (>=fx38)|https://addons.mozilla.org/en-US/firefox/addon/proxy-switcher/|AddonMoreInfo-version">||<|0.2.0
 
 |*Decentraeyes (fx24/31->1.1.5, +sm)|https://addons.mozilla.org/zh-CN/firefox/addon/decentraleyes/||http://legacycollector.org/firefox-addons/521554/index.html|</a><br>|eyes-|.xpi|1.3.8
-gooreplacer (fx24=>0.6, fx31=>1.1)|http://legacycollector.org/firefox-addons/544456/index.html||https://addons.mozilla.org/en-US/firefox/addon/gooreplacer/versions|>Latest version<|version">Version |<|3.10.0
+gooreplacer (AMO, fx>=48)|http://legacycollector.org/firefox-addons/544456/index.html||https://addons.mozilla.org/en-US/firefox/addon/gooreplacer/versions|>Latest version<|version">Version |<|3.10.0
+|gooreplacer (fx24=>0.6, fx31=>1.1)|https://addons.mozilla.org/en-US/firefox/addon/gooreplacer/versions||http://legacycollector.org/firefox-addons/544456/index.html|</a><br>|replacer-|.xpi|1.2.1
 
-uBlock Origin(+sm 2.24, +WE)|http://legacycollector.org/firefox-addons/607454/index.html||https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions|>Latest version<|version">Version |<|1.19.2
-Disconnnect (fx>=48)||http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/464050-0.html|https://addons.mozilla.org/en-US/firefox/addon/disconnect/versions/|>Latest version<|version">Version |<|5.18.27
-uMatrix(fx>=56)||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/versions/|>Latest version<|version">Version |<|1.3.16
+uMatrix(github, fx24/..45->1.14)|https://addons.mozilla.org/en-US/firefox/addon/umatrix/versions/||https://github.com/gorhill/uMatrix/releases?after=1.1.6|>Releases<|/tree/|"|1.1.4
+uMatrix(AMO, fx>=56)||https://addons.mozilla.org/firefox/downloads/latest/613250/addon-613250-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/umatrix/versions/|>Latest version<|version">Version |<|1.3.16
 
-Google search link fix (fx24/31=>1.4.9, fx38/45=>1.5.4,+sm)||https://addons.mozilla.org/firefox/downloads/latest/351740/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||<|1.6.5
+uBlock Origin(AMO, fx>=52)|http://legacycollector.org/firefox-addons/607454/index.html||https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions|>Latest version<|version">Version |<|1.19.2
+|uBlock Origin (fx24..45->1.13.8)|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/versions||http://legacycollector.org/firefox-addons/607454/index.html|</a><br>|origin-|.xpi|1.9.8
+Disconnnect (AMO, fx>=48; not on LCO)|(not on LCO)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/464050-0.html|https://addons.mozilla.org/en-US/firefox/addon/disconnect/versions/|>Latest version<|version">Version |<|5.18.27
+
+Google search link fix (AMO, fx>=42)||https://addons.mozilla.org/firefox/downloads/latest/351740/addon-351740-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||<|1.6.7
+|Google search link fix (fx24/31->1.4.9, fx38/52->1.5.4)|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/||http://legacycollector.org/firefox-addons/351740/index.html|</a><br>|link-fix-|.xpi|1.6.7
 Clean Links(+sm, github)|https://addons.mozilla.org/zh-CN/firefox/addon/clean-links/|http://www.filewatcher.com/m/clean_links-2.6.0-fn+tb+an+fx+sm.xpi.46597-0.html|https://github.com/diegocr/CleanLinks/releases|>Latest release|/tree/|"|2.7.0
 
 ### read
@@ -65,9 +70,9 @@ Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-mo
 Dimmer (github)|https://addons.mozilla.org/en-US/firefox/addon/dimmer||https://github.com/tejohnso/dimmer/blob/master/install.rdf|version</span>&gt;||&lt;|1.2
 |Print Edit|https://addons.mozilla.org/en-US/firefox/addon/print-edit||http://legacycollector.org/firefox-addons/193270/index.html|18|edit-|.xpi|18.4
 
-?Clearly|http://www.filewatcher.com/m/evernote_clearly-10.2.1.7-fx.xpi.1171873-0.html||https://addons.mozilla.org/en-US/firefox/addon/clearly|AddonMoreInfo-version">||<|10.2.1.7
+?Evernote Clearly|http://www.filewatcher.com/m/evernote_clearly-10.2.1.7-fx.xpi.1171873-0.html||https://addons.mozilla.org/en-US/firefox/addon/clearly|AddonMoreInfo-version">||<|10.2.1.7
 
-In My Pocket (>=fx45)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|AddonMoreInfo-version">||</|0.7.0
+In My Pocket (AMO, fx>=45, not on LCO)||http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|AddonMoreInfo-version">||</|0.10.5
 ?Pocket |http://www.filewatcher.com/m/pocket-3.0.5-fx.xpi.223435-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|AddonMoreInfo-version">||</|3.0.4
 ?Satchel for Pocket (>=fx38)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/677126-0.html||https://addons.mozilla.org/zh-CN/firefox/addon/satchel-for-pocket/|AddonMoreInfo-version">||</|0.0.7
 |Save-to-Read|https://addons.mozilla.org/en-US/firefox/addon/save-to-read||http://legacycollector.org/firefox-addons/161878/index.html|</a><br>|read-|.xpi|0.4.2.1-signed.1-signed-windows
@@ -75,38 +80,37 @@ In My Pocket (>=fx45)|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ft
 
 ### scrapping
 +Scrapbook X (github)|https://addons.palemoon.org/addon/scrapbook-x/||https://github.com/danny0838/firefox-scrapbook/releases|>Latest release|scrapbook_x-|.xpi|1.14.6-fx
-|*Scrapbook X|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search||http://legacycollector.org/firefox-addons/521726/index.html|</a><br>|scrapbook-x-|.xpi|请求超时 (45s)
+|*Scrapbook X|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-x/?src=search||http://legacycollector.org/firefox-addons/521726/index.html|</a><br>|scrapbook-x-|.xpi|1.14.5
 |Scrapbook X CopyPageInfo|https://addons.mozilla.org/en-US/firefox/addon/scrapbook-copypageinfo/?src=dp-dl-othersby#detail-relnotes|http://www.filewatcher.com/b/ftp/ftp.linux.org.tr/mozilla/addons/235888-0.html|http://legacycollector.org/firefox-addons/536398/index.html|</a><br>|copypageinfo-|.xpi|1.3.10
-Scrapbook X File Converter|https://addons.mozilla.org/en-US/firefox/addon/scrapbookx-converter/?src=dp-dl-othersby||http://legacycollector.org/firefox-addons/536392/index.html|</a><br>|converter-|.xpi|1.2.0
+|Scrapbook X File Converter|https://addons.mozilla.org/en-US/firefox/addon/scrapbookx-converter/?src=dp-dl-othersby||http://legacycollector.org/firefox-addons/536392/index.html|</a><br>|converter-|.xpi|1.2.0
 Scrapbook Plus|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbook-plus/?src=search||http://legacycollector.org/firefox-addons/8186/index.html|</a><br>|plus-|.xpi|1.10.25.42
-Page Hacker Revived (sm)|https://addons.thunderbird.net/en-US/seamonkey/page-hacker-revived/|"version-number"|"version">|<|3.0.8
-|SourceEditor|https://addons.mozilla.org/en-US/firefox/addon/sourceeditor/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/1760-0.html|http://legacycollector.org/firefox-addons/1760/index.html|</a><br>|editor-|.xpi|请求超时 (45s)
+Page Hacker Revived (ATN)|https://addons.thunderbird.net/en-US/seamonkey/addon/page-hacker-revived/|"version-number"|"version">|<|3.0.8
+|SourceEditor|https://addons.mozilla.org/en-US/firefox/addon/sourceeditor/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/1760-0.html|http://legacycollector.org/firefox-addons/1760/index.html|</a><br>|editor-|.xpi|0.2d.1-signed.1-signed
 
 ### search
 |Add to Search Bar(fx17/24=>2.0, fx31=>2.7)|https://addons.mozilla.org/en-US/firefox/addon/add-to-search-bar/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/3682-0.html|http://legacycollector.org/firefox-addons/3682/index.html|</a><br>|search-bar-|.xpi|2.9
 |Drag & DropZones|https://addons.mozilla.org/en-US/firefox/addon/drag-dropzones/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/5595-0.html|http://legacycollector.org/firefox-addons/5595/index.html|</a><br>|dropzones-|.xpi|1.7.1
-?DuckDuckGo Plus(fx24=>0.4.2, fx31=>0.4.6, fx38/45=>1.1.5)|https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=search|AddonMoreInfo-version">||<|1.1.18
+|DuckDuckGo for Firefox (fx24=>0.4.2, fx31=>0.4.6, fx38/45=>1.1.5)|https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=search||http://legacycollector.org/firefox-addons/385621/index.html|1.1.2|for-firefox-|.xpi|1.1.26
 
-|Context Search X|https://addons.mozilla.org/zh-CN/firefox/addon/context-search-x/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/337150-0.html|http://legacycollector.org/firefox-addons/337150/index.html|</a><br>|search-x-|.xpi|0.4.6.26
+|Context Search X|https://addons.mozilla.org/zh-CN/firefox/addon/context-search-x/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/337150-0.html|http://legacycollector.org/firefox-addons/337150/index.html|0.4.6.2|search-x-|.xpi|0.4.6.26
 ?Organize Search Engines|https://addons.mozilla.org/en-US/firefox/addon/organize-search-engines/?src=search|section class="primary"|AddonMoreInfo-version">|<|1.7
 |Context Search Selection (!bang selection)|https://addons.mozilla.org/en-US/firefox/addon/context-search-selection/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/483087-0.html|http://legacycollector.org/firefox-addons/483087/index.html|</a><br>|selection-|.xpi|0.3.1-signed.1-signed
 
 ### tabs & sessions
-|*OneTab (fx31->1.9)|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/||http://legacycollector.org/firefox-addons/525044/index.html|</a><br>|tab-|.xpi|1.25
+|*OneTab (fx31->1.9)|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/||http://legacycollector.org/firefox-addons/525044/index.html|1.2|tab-|.xpi|1.23.0
+|TooManyTabs (fx24=>1.4.3, fx31=>1.4.5)|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory||http://legacycollector.org/firefox-addons/9429/index.html|</a><br>|your-memory-|.xpi|1.4.8
 
-Session Manager (fx24/31=>0.8.1.7, +sm)|http://legacycollector.org/firefox-addons/2324/index.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2324-4.html|https://addons.thunderbird.net/en-US/seamonkey/addon/session-manager/versions/|versions-list">|/versions/|"|0.8.1.13
+Session Manager (ATN, fx24/31=>0.8.1.7, +sm)|http://legacycollector.org/firefox-addons/2324/index.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2324-4.html|https://addons.thunderbird.net/en-US/seamonkey/addon/session-manager/versions/|versions-list">|/versions/|"|0.8.1.13
 |*Tab Mix Plus|https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus/||http://legacycollector.org/firefox-addons/1122/index.html|</a><br>|plus-|.xpi|0.5.0.4
 
-|*ColorfulTabs (+sm)|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|http://legacycollector.org/firefox-addons/1368/index.html|tabs-31|tabs-|.xpi|31.1.8
+|*ColorfulTabs (+sm)|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/1368-1.html|http://legacycollector.org/firefox-addons/1368/index.html|tabs-31|tabs-|.xpi|31.2.3
 ?New ChromaTabs Plus|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/693448-1.html||https://addons.mozilla.org/en-US/firefox/addon/new-chromatabs-plus|AddonMoreInfo-version">||<|4.0.0b1
-?VivaldiFox(fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|1.4.1
-
+VivaldiFox(AMO, fx>=45, not on LCO)|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|3.1
 
 +Tab Utilities Fixed (github)|https://github.com/yfdyh000/tabutils/releases|Latest release|/tree/|"|2017.08.17
 |Tab Utilities(fx<29)|https://addons.mozilla.org/en-US/firefox/addon/tab-utilities|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/59961-2.html|http://legacycollector.org/firefox-addons/59961/index.html|1.5.2|utilities-|.xpi|1.5.28
-TooManyTabs (fx24=>1.4.3, fx31=>1.4.5)|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|https://addons.mozilla.org/downloads/latest/toomanytabs-saves-your-memory|https://addons.mozilla.org/en-US/firefox/addon/toomanytabs-saves-your-memory|AddonMoreInfo-version">||<|1.4.8
 
-Tree Style Tab|https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/||AddonMoreInfo-version">||<|32.2.1
+|Tree Style Tab|https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/||http://legacycollector.org/firefox-addons/5890/index.html|0.19|tab-|.xpi|0.19.2017090601
 
 #### tab groups
 Pano (fork)|https://addons.mozilla.org/zh-CN/firefox/addon/pano/|http://www.filewatcher.com/b/ftp/ftp.metu.edu.tr/pub/mirrors/ftp.mozilla.org/addons/312203-0.html|https://github.com/yibe/Pano/releases|>Releases<|/tree/|"|v1.3pre.2017012801
@@ -114,7 +118,6 @@ Pano (fork)|https://addons.mozilla.org/zh-CN/firefox/addon/pano/|http://www.file
 ?Tab Groups(fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama|AddonMoreInfo-version">||<|HTTP 错误 404 (Not Found)
 ?Simplified Tab Groups (fx>=45)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups|AddonMoreInfo-version">||<|0.5.1
 ?Tab Groups Helper (>=fx24)|https://addons.mozilla.org/en-US/firefox/addon/tab-groups-helper|AddonMoreInfo-version">||<|1.0.30
-
 
 ### ui
 |OmniSidebar (fx24/31=>1.4.7, fx38=>1.6.3)|https://addons.mozilla.org/firefox/addon/omnisidebar|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/296534-0.html|http://legacycollector.org/firefox-addons/296534/index.html|1.6.1|sidebar-|.xpi|1.6.15
@@ -126,28 +129,32 @@ Classic Theme Restorer(>29, fx31/38->1.5.4beta9)|https://addons.mozilla.org/en-U
 
 ### container
 
-Multifox (fx38=>3.2.1, fx31=>3.1.0, fx24=>2.0.7)|https://addons.mozilla.org/en-US/firefox/addon/multifox||https://github.com/hultmann/multifox/releases|>Latest release|bold">multifox-|.xpi|3.2.3-fx
+Multifox (github, fx38=>3.2.1, fx31=>3.1.0, fx24=>2.0.7)|https://addons.mozilla.org/en-US/firefox/addon/multifox||https://github.com/hultmann/multifox/releases|>Latest release|bold">multifox-|.xpi|3.2.3-fx
 
 
 ### misc
 *+Keysnail (github)|https://github.com/mooz/keysnail|https://github.com/mooz/keysnail/raw/master/keysnail.xpi|https://github.com/mooz/keysnail/commits/master/keysnail.xpi|Commits on |title="Version |"|2.3.0
-|Grease Monkey (fx24->1.15.1, fx31->2.3.1)|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey||http://legacycollector.org/firefox-addons/748/index.html|3.1|greasemonkey-|.xpi|3.11
+|Grease Monkey (fx24->1.15.1, fx31->2.3.1)|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey||http://legacycollector.org/firefox-addons/748/index.html|3.1|greasemonkey-|.xpi|3.17
 |Greasy Scripts|https://addons.mozilla.org/en-US/firefox/addon/greasy-scripts||http://legacycollector.org/firefox-addons/600338/index.html|</a><br>|scripts-|.xpi|1.0.8
 
-|*LastPass (+sm)|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/8542-1.html|http://legacycollector.org/firefox-addons/8542/index.html|</a><br>|manager-|.xpi|4.2.3.20
+|*LastPass (+sm)|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/8542-1.html|http://legacycollector.org/firefox-addons/8542/index.html|</a><br>|manager-|.xpi|4.1.67
+*LastPass (AMO, fx>=52)|http://legacycollector.org/firefox-addons/8542/index.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/8542-1.html|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/versions|>Latest version<|version">Version |<|4.28.0.4
+
 |Lazarus Form Recovery|https://addons.mozilla.org/en-US/firefox/addon/lazarus-form-recovery|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/6984-0.html|http://legacycollector.org/firefox-addons/6984/index.html|</a><br>|recovery-|.xpi|2.3
 
 |Diigo Toolbar|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-highlighter-and-stic/?src=search|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2792-0.html|http://legacycollector.org/firefox-addons/2792/index.html|</a><br>|collector-|<|5.1.0.38
+Diigo Web Collector (AMO, fx>=42)|http://legacycollector.org/firefox-addons/2792/index.html|http://www.filewatcher.com/b/ftp/ftp.kr.freebsd.org/pub/ftp.mozilla.org/addons/2792-0.html|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-collector/versions|>Latest version<|version">Version |<|6.0.0.4
 
 |Markdow Here|https://addons.mozilla.org/addon/markdown-here||http://legacycollector.org/firefox-addons/375281/index.html|2.13|here-xul-|.xpi|2.13.1
-Markdow Viewer(+sm)|https://addons.mozilla.org/addon/markdown-viewer||https://addons.thunderbird.net/addon/markdown-viewer/|"version-number"|"version">|<|1.12
+Markdow Viewer (ATN)|https://addons.mozilla.org/addon/markdown-viewer||https://addons.thunderbird.net/addon/markdown-viewer/|"version-number"|"version">|<|1.12
 
-HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap||http://legacycollector.org/firefox-addons/7203/index.html|</a><br>|map-|.xpi|2.1
+|HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap||http://legacycollector.org/firefox-addons/7203/index.html|</a><br>|map-|.xpi|2.1.1-signed.1-signed
 |Skip Cert Error|https://addons.mozilla.org/en-US/firefox/addon/skip-cert-error||http://legacycollector.org/firefox-addons/321161/index.html|</a><br>|error-|.xpi|0.4.4
-|TableTools2|https://addons.mozilla.org/en-US/firefox/addon/tabletools2||http://legacycollector.org/firefox-addons/298783/index.html|</a><br>|tools2-|.xpi|1.17
+|TableTools2|https://addons.mozilla.org/en-US/firefox/addon/tabletools2||http://legacycollector.org/firefox-addons/296783/index.html|</a><br>|tools2-|.xpi|1.17
 ?wfx_versions|http://www.filewatcher.com/m/versions-1.0-fx+sm.xpi.184281-0.html||https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|AddonMoreInfo-version">||<|1.0
 
-|Distill Web Monitor - Legacy(fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/alterbox||http://legacycollector.org/firefox-addons/13587/index.html|1.6.1|alterbox-|.xpi|1.6.19.1
+|Distill Web Monitor - Legacy(fx>=30)|https://addons.mozilla.org/en-US/firefox/addon/alterbox||http://legacycollector.org/firefox-addons/13587/index.html|1.6.1|alertbox-|.xpi|1.6.19.1
+
 
 ### trash
 Edit Bookmark Plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|https://addons.mozilla.org/downloads/latest/edit-bookmark-plus|https://addons.mozilla.org/en-US/firefox/addon/edit-bookmark-plus|AddonMoreInfo-version">||<|2.3.2
@@ -163,7 +170,7 @@ wepware||https://addons.mozilla.org/firefox/downloads/file/303090/wepware_captur
 |CodeBurner for Firefox|https://addons.mozilla.org/en-US/firefox/addon/codeburner-for-firefox||http://legacycollector.org/firefox-addons/13048/index.html|</a><br>|firefox-|.xpi|1.6
 |Delete Site History|https://addons.mozilla.org/en-US/firefox/addon/delete-site-history||http://legacycollector.org/firefox-addons/13864/index.html|</a><br>|history-|.xpi|1.3
 ?Devboi offline|https://devboi.mozdev.org/|http://downloads.mozdev.org/xsidebar/mods/devboi_offline-0.5.1-mod.xpi|https://xsidebar.mozdev.org/modified.html#devboi|Beta off-line for Seamonkey|devboi_offline-|.xpi|0.5.1-mod
-|*Firebug|https://addons.mozilla.org/en-US/firefox/addon/firebug||http://legacycollector.org/firefox-addons/1384/index.html|2.0.1|firebug-|.xpi|2.0.19
+|*Firebug|https://addons.mozilla.org/en-US/firefox/addon/firebug||http://legacycollector.org/firefox-addons/1843/index.html|2.0.1|firebug-|.xpi|2.0.19
 Firebug (Firefox 31.x)|https://addons.mozilla.org/en-US/firefox/addon/firebug||http://legacycollector.org/firefox-addons/1843/index.html|strong>Firefox 31|>Firebug |<|2.0
 Firebug (Firefox 24.x)|http://legacycollector.org/firefox-addons/1843/index.html|strong>Firefox 24|>Firebug |<|1.12
 |Firefinder (css)|https://addons.mozilla.org/en-US/firefox/addon/firefinder-for-firebug||http://legacycollector.org/firefox-addons/11905/index.html|</a><br>|firebug-|.xpi|1.4
@@ -171,29 +178,30 @@ Firebug (Firefox 24.x)|http://legacycollector.org/firefox-addons/1843/index.html
 |Show Anchors 2|https://addons.mozilla.org/addon/show-anchors-2||http://legacycollector.org/firefox-addons/363315/index.html|1.1|anchors-2-|.xpi|1.12.1
 
 |JSONView (fx24/31=>0.9.1)|https://addons.mozilla.org/en-US/firefox/addon/jsonview||http://legacycollector.org/firefox-addons/10869/index.html|</a><br>|view-|.xpi|1.2.4
-|JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search||http://legacycollector.org/firefox-addons/10122/index.html|</a><br>|ovich-|.xpi|2.0.0
+|JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/?src=search||http://legacycollector.org/firefox-addons/10122/index.html|</a><br>|ovich-|.xpi|1.99.5
 |Poster|https://addons.mozilla.org/en-US/firefox/addon/poster/|http://www.filewatcher.com/b/ftp/ftp.kr.vim.org/pub/ftp.mozilla.org/addons/2691-0.html|http://legacycollector.org/firefox-addons/2691/index.html|</a><br>|poster-|.xpi|3.1.0.1-signed.1-signed
-|RestClient (fx24/31/38->2.0.5, fx45/52->3.0.2)|https://addons.mozilla.org/en-US/firefox/addon/restclient/||http://legacycollector.org/firefox-addons/9780/index.html|</a><br>|restclient-|.xpi|3.0.4
+|RestClient (fx24/31/38->2.0.5, fx45/52->3.0.2)|https://addons.mozilla.org/en-US/firefox/addon/restclient/||http://legacycollector.org/firefox-addons/9780/index.html|</a><br>|restclient-|.xpi|2.0.5-windows
+RestClient (AMO, fx>=42.0)|http://legacycollector.org/firefox-addons/9780/index.html||https://addons.mozilla.org/en-US/firefox/addon/restclient/versions/|>Latest version<|version">Version |<|3.0.7
 |The easiest Xdebug (fx24=>1.2)|https://addons.mozilla.org/en-US/firefox/addon/the-easiest-xdebug||http://legacycollector.org/firefox-addons/409706/index.html|</a><br>|xdebug-|.xpi|2.1
 
-|Web Developer (fx4-56->1.2.13)|https://addons.mozilla.org/en-US/firefox/addon/web-developer||http://legacycollector.org/firefox-addons/60/index.html|</a><br>|developer-|.xpi|2.0.1
+|Web Developer (fx4-56->1.2.13)|https://addons.mozilla.org/en-US/firefox/addon/web-developer||http://legacycollector.org/firefox-addons/60/index.html|</a><br>|developer-|.xpi|1.2.13
 ?Developer Edition theme enabler|https://addons.mozilla.org/en-US/firefox/addon/devedition-theme-enabler/|AddonMoreInfo-version">||<|1.0
 
 ### utils
 |Fireftp|https://addons.mozilla.org/en-US/firefox/addon/fireftp/||http://legacycollector.org/firefox-addons/684/index.html|2.0.3|fireftp-|.xpi|2.0.31
-|Octotree (fx31->1.7.2, fx38->2.1.0)|https://addons.mozilla.org/en-us/firefox/addon/octotree||http://legacycollector.org/firefox-addons/512640/index.html|2.0.2|tree-|.xpi|2.1.0
+|Octotree (fx31->1.7.2, fx38->2.1.0)|https://addons.mozilla.org/en-us/firefox/addon/octotree||http://legacycollector.org/firefox-addons/512640/index.html|2.0.2|tree-|.xpi|2.0.20
 
 |SQLite Manager|https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/||http://legacycollector.org/firefox-addons/5817/index.html|</a><br>|manager-|.xpi|0.8.3
 |Regular Expression Tester|https://addons.mozilla.org/en-US/firefox/addon/rext/||http://legacycollector.org/firefox-addons/2077/index.html|</a><br>|rext-|.xpi|3.2.13
 ?Xml Pretty Viewer|https://addons.mozilla.org/en-US/firefox/addon/xmlutils/?src=search|AddonMoreInfo-version">||</|1.2.1-signed
 
 ### xul 
-|Console2|https://addons.mozilla.org/addon/1815||http://legacycollector.org/firefox-addons/1815/index.html|</a><br>|>console|.xpi|0.9
+|Console2|https://addons.mozilla.org/addon/1815||http://legacycollector.org/firefox-addons/1815/index.html|</a><br>|>console²-|.xpi|0.9.1-signed.1-let-fixed.1-signed
 |DOM Inspector|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622||http://legacycollector.org/firefox-addons/6622/index.html|2.0.1|inspector-6622-|.xpi|2.0.16
 |DOM Inspector Plus!|https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-dm||http://legacycollector.org/firefox-addons/254571/index.html|</a><br>|inspector-dm-|.xpi|2.0.17.1
 |Execute JS|https://addons.mozilla.org/en-US/firefox/addon/execute-js/||http://legacycollector.org/firefox-addons/1729/index.html|0.2.4|-js-|.xpi|0.2.4
 |JavaScript Debugger|https://addons.mozilla.org/en-US/firefox/addon/javascript-debugger||http://legacycollector.org/firefox-addons/216/index.html|</a><br>|debugger-|.xpi|0.9.89
-Tiny JavaScript Debugger (sm)|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger||https://addons.thunderbird.net/en-US/seamonkey/addon/tiny-javascript-debugger|"version-number"|"version">|<|1.1.5
+Tiny JavaScript Debugger (ATN)|https://addons.mozilla.org/en-US/firefox/addon/tiny-javascript-debugger||https://addons.thunderbird.net/en-US/seamonkey/addon/tiny-javascript-debugger|"version-number"|"version">|<|1.2.1
 ?XPCOMViewer|https://addons.mozilla.org/en-US/firefox/addon/xpcomviewer/|AddonMoreInfo-version">||</|1.4.2
 
 
@@ -223,25 +231,27 @@ Sea Fox|https://addons.thunderbird.net/en-us/seamonkey/addon/sea-fox/|"version-n
 +Scrapbook for SeaMonkey|https://xsidebar.mozdev.org/|Uploaded Scrapbook||<li|1.3.7.
 
 ### addons - hackable -----------------------------------------
-Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|https://addons.mozilla.org/downloads/latest/google-dictionary-and-google-t|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|AddonMoreInfo-version">||<|7.5
-Disconnnect (fx31->3.15.3)||https://addons.mozilla.org/firefox/downloads/latest/464050/addon-464050-latest.xpi?src=dp-btn-primary|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|AddonMoreInfo-version">||<|5.18.21
-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|AddonMoreInfo-version">||<|1.0
-Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|https://addons.mozilla.org/downloads/latest/blank-your-monitor-easy-readin|https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin|AddonMoreInfo-version">||<|1.9.13
+?Wiktionary & Google Translate|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|https://addons.mozilla.org/downloads/latest/google-dictionary-and-google-t|https://addons.mozilla.org/en-US/firefox/addon/google-dictionary-and-google-t|AddonMoreInfo-version">||<|7.5
+?Disconnnect (fx24/..45->1.14)|https://addons.mozilla.org/en-US/firefox/addon/disconnect/||https://github.com/gorhill/uMatrix/releases?after=1.1.6|>Releases<|/tree/|"|1.1.4
+?wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|https://addons.mozilla.org/downloads/latest/versions-wfx_versions|https://addons.mozilla.org/en-US/firefox/addon/versions-wfx_versions|AddonMoreInfo-version">||<|1.0
+|Blank Your Monitor |https://addons.mozilla.org/en-US/firefox/addon/blank-your-monitor-easy-readin||http://legacycollector.org/firefox-addons/7166/index.html|</a><br>|readin-|.xpi|1.9.13
 ?Pocket||https://addons.mozilla.org/firefox/downloads/latest/7661/addon-7661-latest.xpi?src=search|https://addons.mozilla.org/zh-CN/firefox/addon/read-it-later/|AddonMoreInfo-version">||</|3.0.4
-gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/|AddonMoreInfo-version">||<|1.2.1
-Context Search X|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|https://addons.mozilla.org/downloads/latest/context-search-x|https://addons.mozilla.org/en-US/firefox/addon/context-search-x|AddonMoreInfo-version">||<|0.4.6.26
-Youdao Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/398064/addon-398064-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/youdao-translation/?src=search|AddonMoreInfo-version">||<|1.1
-CoLT (sm2.7=>2.5.9)|https://addons.mozilla.org/en-US/firefox/addon/colt|https://addons.mozilla.org/downloads/latest/colt|https://addons.mozilla.org/en-US/firefox/addon/colt|AddonMoreInfo-version">||<|2.6.7
+|gooreplacer|https://addons.mozilla.org/zh-CN/firefox/addon/gooreplacer/||http://legacycollector.org/firefox-addons/544456/index.html|</a><br>|replacer-|.xpi|1.2.1
+Context Search X|https://addons.mozilla.org/en-US/firefox/addon/context-search-x||http://legacycollector.org/firefox-addons/337150/index.html|</a><br>|search-x-|.xpi|0.4.6.26
+DEL Youdao Translation|https://addons.mozilla.org/en-US/firefox/addon/fast-translation/?src=ss|https://addons.mozilla.org/firefox/downloads/latest/398064/addon-398064-latest.xpi?src=search|https://addons.mozilla.org/en-US/firefox/addon/youdao-translation/?src=search|AddonMoreInfo-version">||<|1.1
+CoLT (sm2.7=>2.5.9)|https://addons.mozilla.org/en-US/firefox/addon/colt||http://legacycollector.org/firefox-addons/1812/index.html|</a><br>|colt-|.xpi|2.6.7
 
 
 # Thunderbird  ================================================
-Color Folders |https://addons.mozilla.org/en-US/thunderbird/addon/color-folders|https://addons.mozilla.org/downloads/latest/color-folders|https://addons.mozilla.org/en-US/thunderbird/addon/color-folders|AddonMoreInfo-version">||<|1.1
-Edit mail subject|https://addons.mozilla.org/en-US/thunderbird/addon/edit-email-subject|https://addons.mozilla.org/downloads/latest/edit-email-subject|https://addons.mozilla.org/en-US/thunderbird/addon/edit-email-subject|AddonMoreInfo-version">||<|2.0.3
-Lightning (+sm)|https://addons.mozilla.org/en-US/thunderbird/addon/lightning|https://addons.mozilla.org/downloads/latest/lightning|https://addons.mozilla.org/en-US/thunderbird/addon/lightning|AddonMoreInfo-version">||<|4.7
-Quick Folder (+sm) |https://addons.mozilla.org/en-US/thunderbird/addon/quickfolders-tabbed-folders|https://addons.mozilla.org/downloads/latest/quickfolders-tabbed-folders|https://addons.mozilla.org/en-US/thunderbird/addon/quickfolders-tabbed-folders|AddonMoreInfo-version">||<|4.6
-Quote Colors (+sm)|https://addons.mozilla.org/en-US/thunderbird/addon/quote-colors|https://addons.mozilla.org/downloads/latest/quote-colors|https://addons.mozilla.org/en-US/thunderbird/addon/quote-colors|AddonMoreInfo-version">||<|0.3
-Remove Duplicate Messages (Alternate)|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages-alte|https://addons.mozilla.org/downloads/latest/remove-duplicate-messages-alte|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages-alte|AddonMoreInfo-version">||<|0.3.12
-Remove Duplicate Messages|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages|https://addons.mozilla.org/downloads/latest/remove-duplicate-messages|https://addons.mozilla.org/en-US/thunderbird/addon/remove-duplicate-messages|AddonMoreInfo-version">||<|0.1.14
-Thunderbird Conversations|https://addons.mozilla.org/en-US/thunderbird/addon/gmail-conversation-view|https://addons.mozilla.org/downloads/latest/gmail-conversation-view|https://addons.mozilla.org/en-US/thunderbird/addon/gmail-conversation-view|AddonMoreInfo-version">||<|2.11.4
+Color Folders |https://addons.thunderbird.net/en-US/thunderbird/addon/color-folders|"secondary metadata|li>Version |<|1.1
+Edit mail subject|https://addons.thunderbird.net/en-US/thunderbird/addon/edit-email-subject|"secondary metadata |li>Version |<|2.1.1
+Lightning (+sm)|https://addons.thunderbird.net/en-US/thunderbird/addon/lightning|"secondary metadata |li>Version |<|6.2
+Quick Folder (+sm) |https://addons.thunderbird.net/en-US/thunderbird/addon/quickfolders-tabbed-folders|"secondary metadata |li>Version |<|4.14.1
+Quote Colors (+sm)|https://addons.thunderbird.net/en-US/thunderbird/addon/quote-colors|"secondary metadata |li>Version |<|0.3.1-let-fixed
+Remove Duplicate Messages (Alternate)|https://addons.thunderbird.net/en-US/thunderbird/addon/remove-duplicate-messages-alte|"secondary metadata |li>Version |<|0.3.18b
+Remove Duplicate Messages|https://addons.thunderbird.net/en-US/thunderbird/addon/remove-duplicate-messages|"secondary metadata |li>Version |<|0.1.14
+Thunderbird Conversations|https://addons.thunderbird.net/en-US/thunderbird/addon/gmail-conversation-view|"secondary metadata |li>Version |<|2.14.7
 ?Tag Dialog|https://addons.mozilla.org/en-US/thunderbird/addon/tag-dialog|ftp://ftp.linux.org.tr/mozilla/addons/4984/tag_dialog-1.0.7-tb.xpi|http://www.filewatcher.com/_/?q=tag-dialog-1.0+xpi|AddonMoreInfo-version">||<|content error (@start)
-XNote++ (+sm)|https://addons.mozilla.org/en-US/thunderbird/addon/xnotepp|https://addons.mozilla.org/downloads/latest/xnotepp|https://addons.mozilla.org/en-US/thunderbird/addon/xnotepp|AddonMoreInfo-version">||<|2.2.12
+XNote++ (+sm)|https://addons.thunderbird.net/en-US/thunderbird/addon/xnotepp|"secondary metadata |li>Version |<|2.2.14
+
+# temp =====================================
