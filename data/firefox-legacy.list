@@ -214,12 +214,25 @@ Palemoon Linux deb (ubuntu 16.04)|https://software.opensuse.org/download.html?pr
 Pale Moon Commander|https://addons.palemoon.org/addon/pm-commander/|Release Information|Version |<|3.0.0
 PaleMoon Tab Groups|https://github.com/wolfbeast/palemoon-tabgroups||https://addons.palemoon.org/addon/tabgroups/|Release Information|Version |<|0.4
 Color My Tabs|https://addons.palemoon.org/addon/color-my-tabs/|Release Information|Version |<|2.2.0
+Advanced Night Mode|https://addons.palemoon.org/addon/advanced-night-mode/|Release Information|Version |<|1.0.9
+
 Tree Style Tab|https://addons.palemoon.org/addon/treestyletabforpm/|Release Information|Version |<|0.0.5
-Tab Utilities Phoenix|https://addons.palemoon.org/addon/tab-utilities-phoenix/|Release Information|Version |<|2.1.0
- 
+Tab Utilities Phoenix|https://addons.palemoon.org/addon/tab-utilities-phoenix/|Release Information|Version |<|2.1.0 
+
+eMatrix|https://addons.palemoon.org/addon/ematrix/|Release Information|Version |<|2.0.3
+Dismiss the Overlay|https://addons.palemoon.org/addon/behind-the-overlay-me/|Release Information|Version |<|1.0.3
 Decentraeyes|https://addons.palemoon.org/addon/decentraleyes/|Release Information|Version |<|1.4.2
-?Add to Search Bar|https://addons.palemoon.org/addon/add-to-search-bar/|download.png|Install Add to Search Bar (Pseudo-Static)|<|HTTP 错误 404 (Not Found)
+|Google CDN replacer|https://addons.mozilla.org/en-US/firefox/addon/gooreplacer/versions||http://legacycollector.org/firefox-addons/544456/index.html|</a><br>|replacer-|.xpi|1.2.1
+
+Context Search X|https://addons.palemoon.org/addon/context-search-x/|Release Information|Version |<|0.4.6.26
+Google Translator|https://addons.palemoon.org/addon/gtranslator-moon-edition/|Release Information|Version |<|2.0.0
+NoteStruck (fork of QuickFox Notes)|https://addons.palemoon.org/addon/notestruck/|Release Information|Version |<|1.0.4
+List This!|https://addons.palemoon.org/addon/list-this-sidebar/|Release Information|Version |<|2.1.0
 MozArchiver|https://addons.palemoon.org/addon/mozarchiver/|Release Information|Version |<|2.0.1
+Reader View|https://addons.palemoon.org/addon/readerview/|Release Information|Version |<|2.1.1
+( 新条目 )|http:// https:// ftp://|( 新条目 )|( 新条目 )|( 新条目 )|0.0.0
+?Add to Search Bar|https://addons.palemoon.org/addon/add-to-search-bar/|download.png|Install Add to Search Bar (Pseudo-Static)|<|HTTP 错误 404 (Not Found)
+
 
 # SeaMonkey ===================================================
 seamonkey (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/s/seamonkey-mozilla-build/|Parent folder|title="seamonkey-mozilla-build_|.deb"|2.46-0ubuntu1_i386
