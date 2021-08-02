@@ -6,13 +6,24 @@ firefox-esr (mozilla build)|http://sourceforge.net/projects/ubuntuzilla/files/mo
 ## addons -----------------------------------------------------
 ### copy & paste
 
+OneTab|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/|AddonMoreInfo-version">||</|1.25
+
 Link Text and Location Copier|https://addons.mozilla.org/en-US/firefox/addon/link-text-and-location-copier/|AddonMoreInfo-version">||<|1.8.5
 
 Open Multiple URLs|https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/|AddonMoreInfo-version">||<|1.3.2
 
+
+
 ### dictionary & translation
 
-DEL S3.Google Translator|https://addons.mozilla.org/en-US/firefox/addon/s3google-translator/?src=search|AddonMoreInfo-version">||<|6.14
+Web-Translate (iciba, pdf)|https://addons.mozilla.org/en-US/firefox/addon/web-translate|AddonMoreInfo-version">||<|1.2.13
+划词翻译(bing/google/deepl, pdf)|https://addons.mozilla.org/en-US/firefox/addon/hcfy|AddonMoreInfo-version">||<|8.4.2
+梦想划词翻译|https://addons.mozilla.org/en-US/firefox/addon/dream_translate|AddonMoreInfo-version">||<|1.6.24
+轻灵划译词(youdao/ciba/bing/google)|https://addons.mozilla.org/en-US/firefox/addon/ql_en2zh|AddonMoreInfo-version">||<|3.0
+Saladict (沙拉查词，dict/translate, pdf)|https://addons.mozilla.org/en-US/firefox/ext-saladict/hcfy|AddonMoreInfo-version">||<|7.19
+ydwd (youdao, fx>=42)|https://addons.mozilla.org/en-US/firefox/addon/ydwd|AddonMoreInfo-version">||<|4.4.9
+
+S3.Translator|https://addons.mozilla.org/en-US/firefox/addon/s3_translator/?src=search|AddonMoreInfo-version">||<|6.14
 Dctionary (Google Translate) Anywhere|https://addons.mozilla.org/en-US/firefox/addon/dictionary-anywhere|AddonMoreInfo-version">||<|0.4.2
 
 Google Translator Lite|https://addons.mozilla.org/en-US/firefox/addon/google-translator-lite/|AddonMoreInfo-version">||<|0.2.9
@@ -21,9 +32,11 @@ To Google Translate|https://addons.mozilla.org/en-US/firefox/addon/to-google-tra
 
 ### download
 
-### notes
+SingleFile|https://addons.mozilla.org/en-US/firefox/addon/single-file/|AddonMoreInfo-version">||<|1.18
 
 ### proxy & anti-GFW
+
+Proxy SwitchOmega| https://addons.mozilla.org/en-US/firefox/addon/switchyomega|AddonMoreInfo-version">||<|2.5.20
 FoxyProxy Standard(+sm)|https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?src=search|AddonMoreInfo-version">||</|6.3
 
 Decentraeyes|https://addons.mozilla.org/zh-CN/firefox/addon/decentraleyes/|AddonMoreInfo-version">||<|2.0.11
@@ -33,25 +46,29 @@ uMatrix|https://addons.mozilla.org/en-US/firefox/addon/umatrix/|AddonMoreInfo-ve
 uBlock Origin|https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/|AddonMoreInfo-version">||<|1.19.2
 Disconnnect|https://addons.mozilla.org/en-US/firefox/addon/disconnect/|AddonMoreInfo-version">||<|5.18.27
 
-Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||<|1.6.7
 Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|AddonMoreInfo-version">||<|1.5
+ClearURLs| https://addons.mozilla.org/en-US/firefox/addon/clearurls|AddonMoreInfo-version">||<|1.21.0
+Neat URL|https://addons.mozilla.org/en-US/firefox/addon/neat-url|AddonMoreInfo-version">||<|5.0.0
 
 Archiver Menu|https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/?src=search|AddonMoreInfo-version">||</|1.9.8
 View Page Archive & Cache|https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/?src=search|AddonMoreInfo-version">||</|1.6.1
 
-Google search link fix|https://addons.mozilla.org/zh-CN/firefox/addon/google-search-link-fix/|AddonMoreInfo-version">||</|1.6.7
-Link Cleaner|https://addons.mozilla.org/en-us/firefox/addon/link-cleaner/|AddonMoreInfo-version">||<|1.5
 
 ### read
+
 
 Reader|https://addons.mozilla.org/zh-CN/firefox/addon/reader/|AddonMoreInfo-version">||</|64.1.0
 Print Edit WE|https://addons.mozilla.org/en-US/firefox/addon/print-edit-we|AddonMoreInfo-version">||</|24.0
 
 In My Pocket|https://addons.mozilla.org/zh-CN/firefox/addon/in-my-pocket/|AddonMoreInfo-version">||</|0.10.5
-Browser Later (WE)|https://addons.mozilla.org/en-US/firefox/addon/browselater/|AddonMoreInfo-version">||<|4.0.2beta
+Browse Later (WE)|https://addons.mozilla.org/en-US/firefox/addon/browselater/|AddonMoreInfo-version">||<|4.0.2beta
 Reading List (WE)|https://addons.mozilla.org/en-US/firefox/addon/readinglist|AddonMoreInfo-version">||<|1.5.2
 
 ### scrapping
+
+Scrapbee|https://addons.mozilla.org/zh-CN/firefox/addon/scrapbee/|AddonMoreInfo-version">||</|2.3.1
+WebScrapBook|https://addons.mozilla.org/zh-CN/firefox/addon/webscrapbook/|AddonMoreInfo-version">||</|0.125
+
 
 ### search
 
@@ -62,11 +79,16 @@ Selection Context Search|https://addons.mozilla.org/en-US/firefox/addon/selectio
 
 ### sessions
 
-OneTab|https://addons.mozilla.org/zh-CN/firefox/addon/onetab/|AddonMoreInfo-version">||</|1.25
+Tab Stash|https://addons.mozilla.org/en-US/firefox/addon/tab-stash|AddonMoreInfo-version">||<|2.9
+Tabs Aside|https://addons.mozilla.org/en-US/firefox/addon/tabs-aside|AddonMoreInfo-version">||<|3.6.0
 
 Tab Session Manager|https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager|AddonMoreInfo-version">||</|4.5.2
 
 ### tabs
+
+Simple Tab Groups| https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups|AddonMoreInfo-version">||<|4.7
+Panorama Tab Groups| https://addons.mozilla.org/en-US/firefox/addon/panorama-tab-groups|AddonMoreInfo-version">||<|0.8.12
+Panorama View|https://addons.mozilla.org/en-US/firefox/addon/panorama-view/|AddonMoreInfo-version">||<|0.8.3
 
 ColorfulTabs|https://addons.mozilla.org/en-US/firefox/addon/colorfultabs|AddonMoreInfo-version">||<|33.1
 VivaldiFox|https://addons.mozilla.org/en-US/firefox/addon/vivaldifox/|AddonMoreInfo-version">||<|3.1
@@ -76,9 +98,10 @@ Tree Tabs|https://addons.mozilla.org/en-US/firefox/addon/tree-tabs/|AddonMoreInf
 
 Tab Center Redux|https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/|AddonMoreInfo-version">||<|0.7.1
 
-Panorama View|https://addons.mozilla.org/en-US/firefox/addon/panorama-view/|AddonMoreInfo-version">||<|0.8.3
 
 ### ui
+
+Dark Reader|https://addons.mozilla.org/zh-CN/firefox/addon/dark/|AddonMoreInfo-version">||</|4.9.34
 
 Tile Tabs WE|https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/|AddonMoreInfo-version">||<|11.14
 
@@ -95,10 +118,12 @@ Context Plus (switch)|https://addons.mozilla.org/en-US/firefox/addon/context-plu
 ### misc
 
 Grease Monkey|https://addons.mozilla.org/en-US/firefox/addon/greasemonkey|AddonMoreInfo-version">||<|4.8
-DEL Greasy Scripts|https://addons.mozilla.org/en-US/firefox/addon/greasy-scripts|AddonMoreInfo-version">||<|1.0.8
+TamperMonkey|https://addons.mozilla.org/en-US/firefox/addon/tampermonkey|AddonMoreInfo-version">||<|1.0.8
 
 LastPass (+sm)|https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager|AddonMoreInfo-version">||<|4.28.0.4
+Bitwarden| https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager|AddonMoreInfo-version">||<|1.51.1
 
+Raindrop.io|https://addons.mozilla.org/en-US/firefox/addon/raindropio|AddonMoreInfo-version">||<|6.4.1
 Diigo Web Collector|https://addons.mozilla.org/en-US/firefox/addon/diigo-web-collector|AddonMoreInfo-version">||<|6.0.0.4
 
 Search Multi Tabs|https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs|AddonMoreInfo-version">||<|1.3.0
@@ -106,15 +131,20 @@ Search Multi Tabs|https://addons.mozilla.org/en-US/firefox/addon/search-multi-ta
 Distill Web Monitor|https://addons.mozilla.org/en-US/firefox/addon/distill-web-monitor-ff|AddonMoreInfo-version">||<|1.12.7
 
 HeadingsMap|https://addons.mozilla.org/en-US/firefox/addon/headingsmap|AddonMoreInfo-version">||<|3.5.12
+Heading Tag Markup|https://addons.mozilla.org/en-US/firefox/addon/heading-tag-markup|AddonMoreInfo-version">||<|1.3
 
 
 ## Firefox addons for developer -------------------------------
 
-JSON lite|https://addons.mozilla.org/en-US/firefox/addon/json-lite/|AddonMoreInfo-version">||<|19.3.1
 RestClient|https://addons.mozilla.org/en-US/firefox/addon/restclient/|AddonMoreInfo-version">||<|3.0.7
+Rester (fx56=>3.11.2)|https://addons.mozilla.org/en-US/firefox/addon/rester/|AddonMoreInfo-version">||<|4.7.0
+
+JSON lite|https://addons.mozilla.org/en-US/firefox/addon/json-lite/|AddonMoreInfo-version">||<|19.3.1
 Web Developer|https://addons.mozilla.org/en-US/firefox/addon/web-developer|AddonMoreInfo-version">||<|2.0.1
 Display Anchors|https://addons.mozilla.org/en-US/firefox/addon/display-_anchors/|AddonMoreInfo-version">||<|1.3
+
 Octotree|https://addons.mozilla.org/en-us/firefox/addon/octotree|AddonMoreInfo-version">||<|3.0.7
+Sourcegraph|https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-for-firefox|AddonMoreInfo-version">||<|21.7.19.2109
 
 JSONView|https://addons.mozilla.org/en-US/firefox/addon/jsonview/versions|>Latest version<|version">Version |<|2.1.0
 JSONovich|https://addons.mozilla.org/en-US/firefox/addon/jsonovich/versions/|>Latest version<|Version |<|2.1.2
@@ -141,3 +171,4 @@ Web Panel|https://addons.opera.com/en/extensions/details/web-panel/?display=en|>
 uMatrix|https://addons.opera.com/en/extensions/details/umatrix/?display=en|>About the extension</h2|Version</dt><dd>|<|1.3.0
 To-Read Sites|https://addons.opera.com/en/extensions/details/to-read-sites/?display=en|>About the extension</h2|Version</dt><dd>|<|5.0.0
 Proxy Switcher|https://addons.opera.com/en/extensions/details/proxy-switcher-manager/|>About the extension</h2|Version</dt><dd>|<|0.1.9
+
